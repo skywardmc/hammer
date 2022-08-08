@@ -1,12 +1,10 @@
-(This website isn't done yet! That is why it still has the Adrenaline stuff.)
+> *Many popular Forge mods may stop working when using this. This is because of the fact that the mods that this uses aren't too well-known, or the mod creator doesn't have their mod compatible with these mods. There is unfortunately no good way to get around this other than Optifine.*
 
-*Disclaimers:*
-*Many popular Forge mods may stop working when using this. This is because of the fact that the mods that this uses aren't too well-known, or the mod creator doesn't have their mod compatible with these mods. There is unfortunately no good way to get around this other than Optifine.*
-*Rubidium currently doesn't launch with 1.19 for whatever reason, so for now this modpack will be 1.16.5-1.18.2 only. Sorry about that. I'll update this to 1.19 once Rubidium supports it ASAP.*
+> *Rubidium currently doesn't launch with 1.19 for whatever reason, so for now this modpack will be 1.16.5-1.18.2 only. Sorry about that. I'll update this to 1.19 once Rubidium supports it ASAP.*
 
 Hammer is a Forge **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
-*Looking for a performance modpack for **Fabric**? Try my other project [Adrenaline](https://intergrav.github.io/Adrenaline/)!*
+*Looking for a **Fabric** performance modpack? Try my other project [Adrenaline](https://intergrav.github.io/Adrenaline/)! I recommend switching to Fabric anyway unless you can't.*
 
 ## ➕ Features
 ### 🔥 Great Optimization!
