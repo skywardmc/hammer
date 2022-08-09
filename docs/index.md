@@ -1,6 +1,6 @@
 > *Many Forge mods may stop working when using this. This is because of the fact that the mods that this uses aren't too well-known, or the mod creator doesn't have their mod compatible with these mods. There is unfortunately no good way to get around this other than Optifine.*
 
-> *Why is there no 1.19 versions? Rubidium currently doesn't launch with 1.19 for whatever reason, so for now this modpack will be 1.16.5-1.18.2 only. Sorry about that. I'll update this to 1.19 once Rubidium supports it ASAP.*
+> *Why is there no 1.19 versions? Rubidium currently doesn't launch with 1.19 for whatever reason, so for now this modpack will be 1.16.5 and 1.18.2 only. Sorry about that. I'll update this to 1.19 once Rubidium supports it ASAP.*
 
 > *Why is there no 1.17 versions? Rubidium, the main performance mod in this pack, doesn't have a 1.17 version. At that point it is simply 4 small performance enhancements, which has no point.*
 
