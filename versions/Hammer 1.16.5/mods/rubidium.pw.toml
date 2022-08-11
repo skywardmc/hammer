@@ -1,13 +1,13 @@
 name = "Rubidium"
-filename = "rubidium-0.2.7.jar"
+filename = "rubidium-0.2.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/0.2.7/rubidium-0.2.7.jar"
+url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/0.2.9/rubidium-0.2.9.jar"
 hash-format = "sha1"
-hash = "6533ba9083af14b3ade6fac23ba55839dc352a76"
+hash = "65b093b664efcc0231e00a449ad583b64eeb1206"
 
 [update]
 [update.modrinth]
 mod-id = "4ZqxOvjD"
-version = "V7JZgyIU"
+version = "WTmxKPaw"

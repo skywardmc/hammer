@@ -5,7 +5,7 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/rubidium-options.json"
 hash = "f2491c17a592a456453a04c9d99ca53d5ad3dfd2dd797a18ad2bd210d24d5d87"
 
 [[files]]
@@ -23,13 +23,8 @@ hash = "94615d62e6aa4eae9315377416ec33f075ef6e4d5ed4bff51561cb2ff0f03759"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "18d12e4e596021541dba265c840b0efd79ff014074b12f764596adca2e72b2c4"
-metafile = true
-
-[[files]]
 file = "mods/rubidium.pw.toml"
-hash = "e460d9e73151638b1da067218f1131ba3394b25e137175322a5b0f484a504174"
+hash = "b277178acb00aa8ec986160b8edabd0004d0fb3ce60d262de5f7667ebd9bfa20"
 metafile = true
 
 [[files]]
