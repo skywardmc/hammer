@@ -1,0 +1,13 @@
+name = "Rubidium"
+filename = "rubidium-0.5.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/0.5.3/rubidium-0.5.3.jar"
+hash-format = "sha1"
+hash = "d65a1165cb269cf994091e6645062c4ce4fa945d"
+
+[update]
+[update.modrinth]
+mod-id = "4ZqxOvjD"
+version = "TnN4CV2Q"

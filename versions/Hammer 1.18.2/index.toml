@@ -1,0 +1,62 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "f2491c17a592a456453a04c9d99ca53d5ad3dfd2dd797a18ad2bd210d24d5d87"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "520a90112c3e9a9caa0fb1eda8f3745bc866e87114737423717ca265c326b06d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "d32925cc3cd59d5dba62722f87e0efb4d149f45fd492f0374a72537c6ff99a75"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "6fb5887bff18d8381f5a2ba41f926255f3fce20580aba061ab64267f0a5eeac6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "2d0068cf8f42c43384e3fddc8515217160c1fe0c2bab918445be4bd9080acc9e"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "1d3198d8fcd7e0d82932afde0e78e6d1c60ec676812e39fad8211b9aea1531c5"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "fefbfc8eb13fbc46b2f46d40237cba601ba23f31b77e62e6a82eff8ea6644708"
