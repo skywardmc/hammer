@@ -1,0 +1,27 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "f2491c17a592a456453a04c9d99ca53d5ad3dfd2dd797a18ad2bd210d24d5d87"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "6ef78a40587d3744bbfa972049246fddc8893b50f1fda97199285b37e5e15cf1"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "8621419e36c3d5da41b25e67e2d6791a8db91da4497a6abe51b1cf2066a5e2c5"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "fefbfc8eb13fbc46b2f46d40237cba601ba23f31b77e62e6a82eff8ea6644708"
