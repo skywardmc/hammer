@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <div align="center">
-  <br />
   <a href="https://github.com/intergrav/Hammer">
     <img src="docs/images/Hammer Logo+Text.png" alt="Logo" height="80">
   </a>
