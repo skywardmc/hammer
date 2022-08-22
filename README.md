@@ -7,8 +7,8 @@
   <p align="center">
     Minimal, base performance layer for Forge.
     <br />
-    <a href="https://github.com/intergrav/Hammer/wiki"><strong>Explore the docs »</strong></a>
-    <br />
+    <!---<a href="https://github.com/intergrav/Hammer/wiki"><strong>Explore the docs »</strong></a>
+    <br />-->
     <a href="https://github.com/intergrav/Hammer/issues">Report Bugs</a>
     ·
     <a href="https://github.com/intergrav/Hammer/issues">Request Features</a>
