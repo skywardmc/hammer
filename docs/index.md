@@ -1,3 +1,11 @@
+## Status
+**<small>September 3rd, 2022</small>**
+
+This project is no longer maintained. While I thought this would be a nice project to have on the side, it's a hassle to update because of the way Forge works. Even if it does work, it won't work with many mods anyway, so I don't see the point of maintaining it. Feel free to make a fork and keep it going if you want.
+
+Looking for a replacement? Check out [Optimized Forge](https://modrinth.com/modpack/optimized-forge). It achieves the same idea, and I recommend that for an updated alternative.
+
+---
 > *Many Forge mods may stop working when using this. This is because of the fact that the mods that this uses aren't too well-known, or the mod creator doesn't have their mod compatible with these mods. There is unfortunately no good way to get around this other than Optifine.*
 
 > *Why is there no 1.17 versions? Rubidium, the main performance mod in this pack, doesn't have a 1.17 version. At that point it is simply 4 small performance enhancements, which has no point.*
