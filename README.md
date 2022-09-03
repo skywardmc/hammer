@@ -1,3 +1,11 @@
+## Status
+**<small>September 3rd, 2022</small>**
+
+This project is no longer maintained. While I thought this would be a nice project to have on the side, it's a hassle to update because of the way Forge works. Even if it does work, it won't work with many mods anyway, so I don't see the point of maintaining it. Feel free to make a fork and keep it going if you want.
+
+Looking for a replacement? Check out [Optimized Forge](https://modrinth.com/modpack/optimized-forge). It achieves the same idea, and I recommend that for an updated alternative.
+
+---
 <div align="center">
   <a href="https://github.com/intergrav/Hammer">
     <img src="docs/images/Hammer Logo+Text.png" alt="Logo" height="80">
