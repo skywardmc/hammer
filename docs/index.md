@@ -8,7 +8,7 @@ Looking for a replacement? Check out [Optimized Forge](https://modrinth.com/modp
 ---
 > ⚠️ Many Forge mods may stop working when using this. This is because of the fact that the mods that this uses aren't too well-known, or the mod creator doesn't have their mod compatible with these mods. There is unfortunately no good way to get around this other than Optifine.
 
-> ⚠️ Why is there no 1.17 versions? Rubidium, the main performance mod in this pack, doesn't have a 1.17 version. At that point it is simply 4 small performance enhancements, which has no point and you are better off using Optifine at that point.
+> ⚠️ Why is there no 1.17 versions? Rubidium, the main performance mod in this pack, doesn't have a 1.17 version. At that point it is simply 4 small performance enhancements, which has no point and you are better off using Optifine at that point
 
 Hammer is a Forge **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
