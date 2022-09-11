@@ -5,12 +5,7 @@ This project is no longer maintained. While I thought this would be a nice proje
 Looking for a replacement? Check out [Optimized Forge](https://modrinth.com/modpack/optimized-forge). It achieves the same idea, and I recommend that for an updated alternative.
 
 ---
-<details>
-  <summary>
-    View Archived Content
-  </summary>
-  
-  > ⚠️ Many Forge mods may stop working when using this. This is because the mods that this pack uses aren't too well-known, or the mod creator doesn't have their mod compatible with these mods. There is unfortunately no effective way to get around this other than Optifine.
+> ⚠️ Many Forge mods may stop working when using this. This is because the mods that this pack uses aren't too well-known, or the mod creator doesn't have their mod compatible with these mods. There is unfortunately no effective way to get around this other than Optifine.
 
 > ⚠️ Why are there no 1.17 versions? Rubidium, the main performance mod in this pack, doesn't have a 1.17 version. I recommend using Optifine at that point.
 
@@ -92,5 +87,3 @@ And thank **you** for choosing Hammer - enjoy the modpack. Join my [modpack Disc
         crossorigin="anonymous"
         async>
 </script>
-
-</details>
