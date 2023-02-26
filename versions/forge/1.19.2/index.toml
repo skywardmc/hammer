@@ -1,0 +1,70 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
+
+[[files]]
+file = "config/fastload.properties"
+hash = "addf89dfa11c8ee93e693dd60e24374b7ef46e787c5000cb3de7c82205bd9706"
+
+[[files]]
+file = "config/ferritecore.mixin.toml"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "f34441de5797b618c6490f7b09eda4f24cf7e21e7d458f6adc8463d5816f7190"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "fa20611c73b25562d458869df9150ccdb920449b3f95ebca6111139d13435de4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "7645409d373455afd45db86e9e90876fff20d6b5b2470a3ba4002b385b4027c7"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "558977836ce669b99d82aadbcfc313720c89eb6bc295b3c9f769f7d034aaf1c0"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "3a177354c225fb6435a984c51449ce24a052daf6c115b12cd71d12f737a8c6a0"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"

@@ -1,0 +1,13 @@
+name = "EntityCulling"
+filename = "entityculling-forge-1.6.1-mc1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/N7HJbtfe/entityculling-forge-1.6.1-mc1.19.3.jar"
+hash-format = "sha1"
+hash = "5898da2807b20fa56b4f0af3d76f0efa18c9abcd"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "N7HJbtfe"

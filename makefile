@@ -4,8 +4,8 @@ update-packwiz:
 	clear
 	@echo "Packwiz has been Updated"
 refresh:
-	pw -b -d versions refresh
+	pw -b -d versions/forge refresh
 update:
-	pw -b -d versions update --all
+	pw -b -d versions/forge update --all
 export:
-	pw -b -d versions mr export
+	pw -b -d versions/forge mr export

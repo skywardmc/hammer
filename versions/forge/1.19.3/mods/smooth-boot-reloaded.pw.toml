@@ -1,0 +1,13 @@
+name = "Smooth Boot (Reloaded)"
+filename = "smoothboot(reloaded)-mc1.19.3-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z53V2L4P/versions/CSAWSThG/smoothboot%28reloaded%29-mc1.19.3-0.0.3.jar"
+hash-format = "sha1"
+hash = "57262b58a0760717aa38b2866428b1e1ef488a49"
+
+[update]
+[update.modrinth]
+mod-id = "z53V2L4P"
+version = "CSAWSThG"

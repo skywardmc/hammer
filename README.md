@@ -1,41 +1,64 @@
-## Status
-**<small>September 3rd, 2022</small>**
-
-This project is no longer maintained. While I thought this would be a nice project to have on the side, it's a hassle to update because of the way Forge works. Even if it does work, it won't work with many mods anyway, so I don't see the point of maintaining it. Feel free to make a fork and keep it going if you want.
-
-Looking for a replacement? Check out [Optimized Forge](https://modrinth.com/modpack/optimized-forge). It achieves the same idea, and I recommend that for an updated alternative.
-
----
 <div align="center">
   <a href="https://github.com/intergrav/Hammer">
-    <img src="docs/images/Hammer Logo+Text.png" alt="Logo" height="80">
+    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/hammer/hammer_textlogo_256h.png" alt="Logo" height="90">
   </a>
   <br />
   <br />
   <p align="center">
-    Minimal, base performance layer for Forge.
+    Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
     <br />
-    <!---<a href="https://github.com/intergrav/Hammer/wiki"><strong>Explore the docs »</strong></a>
-    <br />-->
     <a href="https://github.com/intergrav/Hammer/issues">Report Bugs</a>
     ·
     <a href="https://github.com/intergrav/Hammer/issues">Request Features</a>
   </p>
-  <a href="https://gitpod.io/from-referrer/"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod&amp;style=flat-square" alt="Gitpod ready-to-code"></a>
+  <a href="https://modrinth.com/modpack/hammer"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+  <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
 </div>
 
-### About
+> **Note**
+> For improved performance and compatiblity, it is much recommended to use [Adrenaline](https://modrinth.com/modpack/adrenaline) or [Additive](https://modrinth.com/modpack/adrenaline) over this pack. Those packs, unlike this one, are made for Fabric and Quilt. They have more performance improvements and update faster too.
 
-This is a modpack I work on in my spare time that makes Minecraft extremely fast. It's generally meant for use on low-end devices, but it also works extremely well with Oculus shaders. It has no QOL mods, unlike many other optimization modpacks.
+Hammer is a simple **performance modpack** for Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
 
-It's designed to be a sort of "base layer" that you can build off of to make your own fast modpacks or use by itself.
+## 📥 Installation guide
 
-> Want to know more information about the modpack? [Check out the website](https://intergrav.github.io/Hammer/) for download links and more!
+Please follow [this tutorial](https://github.com/intergrav/Hammer/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Hammer/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
 
-### Built With
+## 🔥 Performance
 
-This project was built with [packwiz](https://github.com/packwiz/packwiz). To export, run `packwiz mr export` in one of the folders.
+Hammer can significantly enhance the performance of your game by using various optimization mods and configurations. You can expect faster startup times, quicker world loading, and a very high increase in framerates, with some tests showing a boost of up to ~6-7 times the performance with Hammer compared to not having any mods installed.
 
-### License
+Need improved performance? Use the better version of this pack, [Adrenaline](https://modrinth.com/modpack/adrenaline), built for modern loaders such as Fabric and Quilt with much wider compatibility and higher framerates.
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+## ◽ Keeping it simple
+
+Hammer is created with the sole purpose of optimizing the game's performance, not to add any extra features. This means that you have full control over what features you want to add when setting up your instance, ensuring that only the necessary mods are installed and running, resulting in a very smooth and optimized experience without any unnecessary distractions.
+
+## ✅ Compatibility
+
+Hammer is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and likely Mac as well, although I cannot confirm this as I do not own a Mac.
+
+## 🔄️ Updates quickly
+
+My goal is to keep Hammer up-to-date with the latest Minecraft releases, providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time and motivation.
+
+**➡️ Note:** This does not apply to snapshots most of the time. I do not bother as they can sometimes require lots of maintenance and come out too quickly.
+
+## ⚙️ How it works
+
+Hammer utilizes a variety of optimization mods that are designed to work seamlessly together. Many of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective. It's important to note that, compared to some other modpacks, Hammer may be more aggressive in its optimizations and can sometimes result in instability. However, these instances are rare.
+
+## 🐛 Reporting Issues
+
+Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/intergrav/Hammer/issues).
+
+## ❓ Frequently Asked Questions
+
+For a few frequently asked questions, please visit the [wiki](https://github.com/intergrav/Hammer/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
+
+## 🍉 Sponsor
+Need a fast, reliable Minecraft server? Use my code `devin` for 25% off your first month of any MelonCube server, supporting me in the process. Click this image for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
+
+[![MelonCube Image](https://www.meloncube.net/partners/custom-banners/fc383dd6-4bb3-424f-b4fb-f540acb27e8b.png)](https://meloncube.net/devin)
+
+> *This description was copied from the [Modrinth page](https://modrinth.com/modpack/hammer). It may not be formatted correctly.*
