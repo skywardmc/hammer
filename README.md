@@ -36,7 +36,7 @@ Hammer is created with the sole purpose of optimizing the game's performance, no
 
 ## ✅ Compatibility
 
-Hammer is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and likely Mac as well, although I cannot confirm this as I do not own a Mac.
+Hammer is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac.
 
 ## 🔄️ Updates quickly
 
