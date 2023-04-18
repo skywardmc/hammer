@@ -15,8 +15,8 @@
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
 </div>
 
-> **Note**
-> For improved performance and compatiblity, it is much recommended to use [Adrenaline](https://modrinth.com/modpack/adrenaline) or [Additive](https://modrinth.com/modpack/adrenaline) over this pack. Those packs, unlike this one, are made for Fabric and Quilt. They have more performance improvements and update faster too.
+> **Warning**
+> This pack is very experimental! For improved performance and compatiblity, it is much recommended to use [Adrenaline](https://modrinth.com/modpack/adrenaline) or [Additive](https://modrinth.com/modpack/adrenaline) over this pack. Those packs, unlike this one, are made for Fabric and Quilt. They have more performance improvements and update faster too.
 
 Hammer is a simple **performance modpack** for Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
 
