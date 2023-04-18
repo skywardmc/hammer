@@ -21,33 +21,18 @@ file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "67ef9dce396b533cf7bb3ddd844baf208cbc450e9e3f26fe4dea6ced087918ea"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
-hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
+hash = "5bb795eeda38bbefa1c8876089ec6c7670d63c366b51704651b92a61e894ced3"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "fa20611c73b25562d458869df9150ccdb920449b3f95ebca6111139d13435de4"
+hash = "9eaa77985963f6abbbdd830ddcf6c82efd34271724b45e854662f5722fb41520"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast-reforged.pw.toml"
-hash = "445eec731b4cf399550685c5114b4ec70326efac5593e55327e3ffdaf6fb2200"
-metafile = true
-
-[[files]]
-file = "mods/lightspeed.pw.toml"
-hash = "629a7dfecb54e5ce1f1bf11a5e6cad5d4268567a797a401903c5bb837efe0687"
+hash = "4f4360ccdd7db8e45c3f904b9de7a85a0f648af3d3629b74b34778ed121fa596"
 metafile = true
 
 [[files]]
@@ -57,27 +42,22 @@ metafile = true
 
 [[files]]
 file = "mods/pluto.pw.toml"
-hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
+hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
 metafile = true
 
 [[files]]
 file = "mods/rhodium.pw.toml"
-hash = "58429156fa12af7e7f642b2b559a3ea9f04137a24e42c0e3ba7b8b2852276f98"
+hash = "48e54c3bdf8ecc2f44602c99bba2495377145ff25074bc3544595764e276c165"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
+hash = "76a418dbee32fbe79d48d9d63f921a122c16b4880021ad80c528094a608b904e"
 metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "3a177354c225fb6435a984c51449ce24a052daf6c115b12cd71d12f737a8c6a0"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "9435f9fc89e8c694bfb896dbe51e1bb92955b37a2407da3a89b200afdf5c4b4e"
+hash = "206775e97c336f4e5711520a7117ebfb9f1cf54e1a49634390d2556a7d3828ee"
 metafile = true
 
 [[files]]

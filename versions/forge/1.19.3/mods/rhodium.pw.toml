@@ -1,0 +1,13 @@
+name = "Rhodium"
+filename = "Rhodium 1.19.3 V4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R6SANxhd/versions/XFRQOWLG/Rhodium%201.19.3%20V4.5.jar"
+hash-format = "sha1"
+hash = "e120fbcc1704fcf0e661494771ba50ffe5a43b40"
+
+[update]
+[update.modrinth]
+mod-id = "R6SANxhd"
+version = "XFRQOWLG"

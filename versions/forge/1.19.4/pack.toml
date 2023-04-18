@@ -1,0 +1,13 @@
+name = "Hammer"
+author = "UltraStorm"
+version = "1.3.0+1.19.4.forge"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "133e89adf0a64b835c1d9b0d648cff9952011801a5419cbf104889e5fba37da1"
+
+[versions]
+forge = "45.0.43"
+minecraft = "1.19.4"

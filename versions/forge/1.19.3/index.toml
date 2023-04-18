@@ -6,7 +6,7 @@ hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "addf89dfa11c8ee93e693dd60e24374b7ef46e787c5000cb3de7c82205bd9706"
+hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
 [[files]]
 file = "config/ferritecore.mixin.toml"
@@ -22,7 +22,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "ddb2586a8202fc1fa51f03b931f5016f67ee488a5f7b35c07fbdc338c57c7ea4"
+hash = "c9c21b0659094fe3faa470cce8e51a88b152612c1606d4e9827228d5980e2fc8"
 metafile = true
 
 [[files]]
@@ -38,6 +38,21 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "b5eb6bcf637994381c241a5a0400e7bcae12954ec75b0372cd7e6b2bbf7a735b"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
+metafile = true
+
+[[files]]
+file = "mods/rhodium.pw.toml"
+hash = "ac1decbd1075364c54906ab5ca31d9a96a8c6f23cf6e9f2a0835a2f59fb243e0"
 metafile = true
 
 [[files]]

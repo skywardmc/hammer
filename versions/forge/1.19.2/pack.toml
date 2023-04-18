@@ -1,12 +1,12 @@
 name = "Hammer"
 author = "UltraStorm"
-version = "1.2.0+1.19.2.forge"
+version = "1.3.0+1.19.2.forge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b1009439aea579c6b8ad7d878d2c66ccf6b62ce65de929bb2f105e79215604d2"
+hash = "c837404735d1213c5ab1577808a67638f9d6bc5d9b412707b298709a5fa03a39"
 
 [versions]
 forge = "43.2.0"
