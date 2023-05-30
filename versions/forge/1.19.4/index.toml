@@ -9,20 +9,25 @@ file = "config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
 [[files]]
-file = "config/ferritecore.mixin.toml"
+file = "config/ferritecore-mixin.toml"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
 file = "config/rubidium-options.json"
-hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+hash = "dd1c40e2c90275dcd376968162748e7bc4b7517019cd613e069fea9e25419eda"
 
 [[files]]
 file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "4520975a718387ece2506168555540b9f5eb0883613bd93b360bd1b5a66a9d0a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5bb795eeda38bbefa1c8876089ec6c7670d63c366b51704651b92a61e894ced3"
+hash = "393328323bcab0ce30f4c5b5a9d3e6879e861c0d4669f8bddda5ea90a721e848"
 metafile = true
 
 [[files]]
@@ -41,13 +46,13 @@ hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
 metafile = true
 
 [[files]]
-file = "mods/pluto.pw.toml"
-hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
+file = "mods/modernfix.pw.toml"
+hash = "e220ed7d5df9e823127e89a18e9199dc53ef510e56788b9b9957214a9223f7cf"
 metafile = true
 
 [[files]]
-file = "mods/rhodium.pw.toml"
-hash = "48e54c3bdf8ecc2f44602c99bba2495377145ff25074bc3544595764e276c165"
+file = "mods/pluto.pw.toml"
+hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
 metafile = true
 
 [[files]]
@@ -57,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "206775e97c336f4e5711520a7117ebfb9f1cf54e1a49634390d2556a7d3828ee"
+hash = "4f83912a8e6a65d0dea0980de536809824f950de2c0bb45dedbff712f061a72c"
 metafile = true
 
 [[files]]
@@ -67,4 +72,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
+hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"

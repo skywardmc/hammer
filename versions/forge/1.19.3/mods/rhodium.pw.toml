@@ -1,11 +1,11 @@
 name = "Rhodium"
-filename = "Rhodium 1.19.3 V4.5.jar"
+filename = "Rhodium V5 - 1.19.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R6SANxhd/versions/XFRQOWLG/Rhodium%201.19.3%20V4.5.jar"
+url = "https://cdn.modrinth.com/data/R6SANxhd/versions/XFRQOWLG/Rhodium%20V5%20-%201.19.3.jar"
 hash-format = "sha1"
-hash = "e120fbcc1704fcf0e661494771ba50ffe5a43b40"
+hash = "2d23de008fdf0aab2cf7d6ed1918fcf49f7899ef"
 
 [update]
 [update.modrinth]

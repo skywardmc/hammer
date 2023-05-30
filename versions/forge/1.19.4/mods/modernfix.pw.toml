@@ -1,0 +1,13 @@
+name = "ModernFix"
+filename = "modernfix-mc1.19.4-forge-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/McrIpooS/modernfix-mc1.19.4-forge-4.1.0.jar"
+hash-format = "sha1"
+hash = "bf29ae493fa19f152e562bfc71203a6bf3d0e354"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "McrIpooS"

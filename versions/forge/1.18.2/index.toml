@@ -9,12 +9,12 @@ file = "config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
 [[files]]
-file = "config/ferritecore.mixin.toml"
+file = "config/ferritecore-mixin.toml"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
 file = "config/rubidium-options.json"
-hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+hash = "dd1c40e2c90275dcd376968162748e7bc4b7517019cd613e069fea9e25419eda"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -22,12 +22,12 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "9c4220351f55066df11385af61701efba1b99178d6c925167f186e5841ce2cac"
+hash = "795ad7bed9f1924b62c9b76f791c111646bb78b57e02b23c146d1cc5e23d79bf"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9c896dd2db4542134682178d25ca3644e8c945408a6486fc9d7cb03f6277a829"
+hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
 metafile = true
 
 [[files]]
@@ -51,23 +51,23 @@ hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "16e1c9009f58e42ea3bf5a5d65f0f0ca42385c0f4fc2b1f8dc9648700f814923"
+metafile = true
+
+[[files]]
 file = "mods/pluto.pw.toml"
 hash = "f09534f98487d67cefaa9f7ebfd419c5601113b6adcc22f57df97aa487b5f04c"
 metafile = true
 
 [[files]]
 file = "mods/rhodium.pw.toml"
-hash = "77fbdbb8613089150c0760d57b00039bc96e8b46cbb6bba4dffdaa955381d312"
+hash = "b443d7ebead75e32499b5c64a41949a2d7064dbe8cca8290c7f2af32cd83c753"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "2fe5c063db5622e0e0a56f739230471de2dd26e08ec80d74fb9c5b2afbe67dc3"
-metafile = true
-
-[[files]]
-file = "mods/saturn.pw.toml"
-hash = "3bac34492187f4421cef838105b2f67a17196dc35fda4466a843bae06e2ad7df"
 metafile = true
 
 [[files]]
@@ -82,4 +82,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
+hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"

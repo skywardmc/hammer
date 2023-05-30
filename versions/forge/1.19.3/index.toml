@@ -9,25 +9,20 @@ file = "config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
 [[files]]
-file = "config/ferritecore.mixin.toml"
+file = "config/ferritecore-mixin.toml"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
 file = "config/rubidium-options.json"
-hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+hash = "dd1c40e2c90275dcd376968162748e7bc4b7517019cd613e069fea9e25419eda"
 
 [[files]]
 file = "config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "c9c21b0659094fe3faa470cce8e51a88b152612c1606d4e9827228d5980e2fc8"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e5d32d58bd99dcec6f42453a4743b88be8f82cd6f4b481272dce97d1844fd621"
+hash = "0df61a11c15f338ebbe21cc855e3c7ebb6579b88dc8f33f80e33e71448dbbfb9"
 metafile = true
 
 [[files]]
@@ -52,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhodium.pw.toml"
-hash = "ac1decbd1075364c54906ab5ca31d9a96a8c6f23cf6e9f2a0835a2f59fb243e0"
+hash = "703f2945293859c7df371aecabddbe7dcc401d2b7ba8727f3685bf12861d7d15"
 metafile = true
 
 [[files]]
@@ -62,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "206775e97c336f4e5711520a7117ebfb9f1cf54e1a49634390d2556a7d3828ee"
+hash = "231d825033099016a241ae4285d261cf70a409c805e5b662e90c7a9b640ee905"
 metafile = true
 
 [[files]]
@@ -77,4 +72,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
+hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
