@@ -1,3 +1,11 @@
+## Status
+
+##### July 29th, 2023 
+
+**This project has been archived and is no longer active**. For more information, see [this announcement](https://discord.com/channels/1002241722987855942/1002393261958250619/1131033095320117269) on my [Discord server](https://discord.gg/36Tv44cYte). No further updates will be made and I will no longer provide support for this project.
+
+---
+
 <div align="center">
   <a href="https://github.com/intergrav/Hammer">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/hammer/hammer_textlogo_256h.png" alt="Logo" height="90">
