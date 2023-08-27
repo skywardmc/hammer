@@ -1,8 +1,3 @@
-# Hey!
-We're looking for maintainers! See [issue #3](https://github.com/skywardmc/hammer/issues/3). This project will not receive any updates until then.
-
----
-
 <div align="center">
   <a href="https://github.com/intergrav/Hammer">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/hammer/hammer_textlogo_256h.png" alt="Logo" height="90">
