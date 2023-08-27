@@ -1,8 +1,5 @@
-## Status
-
-##### July 29th, 2023 
-
-**This project has been archived and is no longer active**. For more information, see [this announcement](https://discord.com/channels/1002241722987855942/1002393261958250619/1131033095320117269) on my [Discord server](https://discord.gg/36Tv44cYte). No further updates will be made and I will no longer provide support for this project.
+# Hey!
+We're looking for maintainers! See https://github.com/skywardmc/hammer/issues/3. This project will not receive any updates until then.
 
 ---
 
