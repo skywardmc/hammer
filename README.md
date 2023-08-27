@@ -1,5 +1,5 @@
 # Hey!
-We're looking for maintainers! See https://github.com/skywardmc/hammer/issues/3. This project will not receive any updates until then.
+We're looking for maintainers! See [issue #3](https://github.com/skywardmc/hammer/issues/3). This project will not receive any updates until then.
 
 ---
 
