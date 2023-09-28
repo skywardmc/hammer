@@ -1,0 +1,13 @@
+name = "Saturn"
+filename = "saturn-mc1.18.2-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2eT495vq/versions/JXNyz1Wl/saturn-mc1.18.2-0.0.4.jar"
+hash-format = "sha1"
+hash = "61931c2b01d58210363dca970995dc0df9445ff3"
+
+[update]
+[update.modrinth]
+mod-id = "2eT495vq"
+version = "JXNyz1Wl"

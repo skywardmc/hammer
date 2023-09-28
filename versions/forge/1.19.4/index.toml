@@ -2,19 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
+hash = "d8eec905de29447db4b7a8c82c317033104f812190e59a6df1bc80b1bbac94cb"
 
 [[files]]
-file = "config/fastload.properties"
-hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
+file = "config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
-file = "config/ferritecore-mixin.toml"
-hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+file = "config/modernfix-mixins.properties"
+hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
 
 [[files]]
 file = "config/rubidium-options.json"
-hash = "dd1c40e2c90275dcd376968162748e7bc4b7517019cd613e069fea9e25419eda"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -22,7 +26,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "4520975a718387ece2506168555540b9f5eb0883613bd93b360bd1b5a66a9d0a"
+hash = "f1b4d2d952a6425acea13af2bd399749d9f998bc450dea6bb16240d914414c75"
 metafile = true
 
 [[files]]
@@ -31,28 +35,18 @@ hash = "393328323bcab0ce30f4c5b5a9d3e6879e861c0d4669f8bddda5ea90a721e848"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "9eaa77985963f6abbbdd830ddcf6c82efd34271724b45e854662f5722fb41520"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4f4360ccdd7db8e45c3f904b9de7a85a0f648af3d3629b74b34778ed121fa596"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
+file = "mods/immediatelyfast.pw.toml"
+hash = "1c1fb401b3fef6dc52ce5e0fec5e5a8232fcb7d1f76bdecae82d9b7314a1419e"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e220ed7d5df9e823127e89a18e9199dc53ef510e56788b9b9957214a9223f7cf"
-metafile = true
-
-[[files]]
-file = "mods/pluto.pw.toml"
-hash = "8b5017614e890b3eb32618fc379926e4d6938082a9f0dac4a7a87ca9444d1ee8"
+hash = "7e4da5755d5d07f7fefe88ee0347b19f495a0ace23356a005d4d5fb6c8823d4c"
 metafile = true
 
 [[files]]
@@ -63,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "4f83912a8e6a65d0dea0980de536809824f950de2c0bb45dedbff712f061a72c"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "a190099f659489b9649a82cb4ae051c9bc40a81b46ccdd7ae886d2d74df4ea86"
 metafile = true
 
 [[files]]

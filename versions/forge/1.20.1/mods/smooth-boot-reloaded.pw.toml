@@ -1,0 +1,13 @@
+name = "Smooth Boot (Reloaded)"
+filename = "smoothboot-mc1.20.1-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z53V2L4P/versions/iGVkOHlW/smoothboot-mc1.20.1-0.0.3.jar"
+hash-format = "sha1"
+hash = "53abe64226f6c7b1f03d02400f830a853259645d"
+
+[update]
+[update.modrinth]
+mod-id = "z53V2L4P"
+version = "iGVkOHlW"
