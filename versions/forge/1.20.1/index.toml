@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
+hash = "b2501ec08296916d344df698d0542054e49eae3283d97df3c375c9ef3df93808"
 metafile = true
 
 [[files]]
@@ -68,11 +68,6 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
 metafile = true
@@ -85,11 +80,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
 metafile = true
 
 [[files]]
