@@ -34,6 +34,8 @@ Need improved performance? Use the better version of this pack, [Adrenaline](htt
 
 Hammer is created with the sole purpose of optimizing the game's performance, not to add any extra features. This means that you have full control over what features you want to add when setting up your instance, ensuring that only the necessary mods are installed and running, resulting in a very smooth and optimized experience without any unnecessary distractions.
 
+I do have a modpack called [Drill](https://modrinth.com/modpack/drill) that is based on [Additive](https://modrinth.com/modpack/additive), designed to be an open-source alternative to OptiFine for Forge. Feel free to check it out!
+
 ## ✅ Compatibility
 
 Hammer is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac.
