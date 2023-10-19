@@ -1,13 +1,13 @@
 name = "Saturn"
-filename = "saturn-mc1.19.4-0.0.3.jar"
+filename = "saturn-mc1.19.4-0.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2eT495vq/versions/GzMJm5um/saturn-mc1.19.4-0.0.3.jar"
+url = "https://cdn.modrinth.com/data/2eT495vq/versions/ir0yKJaP/saturn-mc1.19.4-0.0.7.jar"
 hash-format = "sha1"
-hash = "b8149ee841897632a7aa3cc03e976f5cb9940c53"
+hash = "ebd8de760b848c27c38e7d9455e3530aff79a045"
 
 [update]
 [update.modrinth]
 mod-id = "2eT495vq"
-version = "GzMJm5um"
+version = "ir0yKJaP"

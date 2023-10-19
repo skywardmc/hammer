@@ -18,11 +18,11 @@ hash = "86955a95f69824f44f00aa95829992fd1e17ac2de231f44049a5af1eb09d74c7"
 
 [[files]]
 file = "config/rubidium-options.json"
-hash = "3e78d11132954e69182d529022484f1849c09f26d391c9e3960d528a62f84a7c"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/smoothboot.json"
-hash = "f05499f6c43cc32da078855f70a9509e8e2c857043e0741701347e1262c56b80"
+hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "mods/canary.pw.toml"
@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "2b1eb8703691904ef1c72d05cbce20f4354f767ccdf19f2eb15e8a2194641484"
+hash = "c0b46e6cf4eefe64086ff7e066934bc331166202a64ab9118cdaa4c8043bf7e9"
 metafile = true
 
 [[files]]
@@ -46,12 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "510cc416989c890f0fa0394e39e605a319869eac7a29a00066cebfb6552d2aae"
+hash = "990729ecdd3fe5a2417d11bed4216fd956d3edf87ba0df86eb3a97e21d1ff6c1"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4a6749c710240c5c1adbb15a630a9e345df2e4d082125e23040f7363a0463a98"
+hash = "918b44afbb5a387c34633dc388ae0163c1eb0517dbdaaa2569e219cd7c48471f"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "16529fed98f5d9098fda7c274114334348195201d3646e13878acf4aaca496bf"
+hash = "609e1ff1ef8b8468201eb0f016e02ce9976eb3ca21451a31bc65d1b2e018f197"
 metafile = true
 
 [[files]]

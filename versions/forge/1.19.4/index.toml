@@ -13,10 +13,6 @@ file = "config/modernfix-mixins.properties"
 hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
 
 [[files]]
-file = "config/moreculling.toml"
-hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
-
-[[files]]
 file = "config/rubidium-options.json"
 hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
@@ -41,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1c1fb401b3fef6dc52ce5e0fec5e5a8232fcb7d1f76bdecae82d9b7314a1419e"
+hash = "6da7c4d8bba0c49352ddfecec65d2e9c71a41738913b63665a0ee79eb75c890b"
 metafile = true
 
 [[files]]
@@ -56,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "4f83912a8e6a65d0dea0980de536809824f950de2c0bb45dedbff712f061a72c"
+hash = "541bd6d18723673ebaab77601bac60f9cfde595502947f79f99a06be69b319b7"
 metafile = true
 
 [[files]]
