@@ -44,12 +44,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "3990f6490ed84eadac2cb007f71a370e8f15c10fea2fc32d031bbe4a4917b6d1"
+hash = "096914067288b27f9b24168ca9e4b601d677f1a1d3e69e7641724d54c25f9ebc"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "e9d843694c4b60ec30009d7127f242493a6c7afe639bd54e5d3b5979012c0bf7"
+hash = "94240627d0a20f1fcdb31c784626cca34bf78d32a5b12d20c874916f7cc7e60a"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "03d33a32ce06757a695427e08a09495d342470cf1028d2fcd5eb082a62f67b61"
+hash = "022a9a1017ffcf3ddd00867b05529d90d1e89ba0928f65f71f4788f889831231"
 metafile = true
 
 [[files]]
@@ -74,12 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e0a446366759a2c5e22163c45e15a4c959b3b1c297f1c099ffe5d2519bcc595e"
+hash = "d9e16d803cf0a321698650c11cc59f16f3345530c95e8080d12ca7769be6b121"
 metafile = true
 
 [[files]]
@@ -90,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "262738c00df7a1815729fde1a9527298d2c1b6dbb3e53465063147fa52ee9dc7"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "91bc39eae82d1aee7134326e6634e820a970edec403091a10a293181b05e2bf3"
 metafile = true
 
 [[files]]

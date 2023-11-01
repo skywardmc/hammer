@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "c0b46e6cf4eefe64086ff7e066934bc331166202a64ab9118cdaa4c8043bf7e9"
+hash = "8214d535afc603476d503ef71525dd849c3bbaff9fbf9c7f430947dc22c99e0c"
 metafile = true
 
 [[files]]
