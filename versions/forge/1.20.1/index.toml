@@ -44,12 +44,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "096914067288b27f9b24168ca9e4b601d677f1a1d3e69e7641724d54c25f9ebc"
+hash = "eb6e048c2c950ece0d7cdec9f4d9d40f21eae84040120e11a2bec44e3df73c0e"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "94240627d0a20f1fcdb31c784626cca34bf78d32a5b12d20c874916f7cc7e60a"
+hash = "2ead99bb21f42b5b2c7dd9441429e1ab49ee05fbe754f519d229cc09538f9663"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "022a9a1017ffcf3ddd00867b05529d90d1e89ba0928f65f71f4788f889831231"
+hash = "a5175fe822a78dc54365b2e01dcf435cac158c3c6ab2ff3bedff823722f1cdb5"
 metafile = true
 
 [[files]]
@@ -79,17 +79,17 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "d9e16d803cf0a321698650c11cc59f16f3345530c95e8080d12ca7769be6b121"
+hash = "0e0f6b3047cdbfaf9add707ca6d6762c3aef6f4f3de5fdd855a99a23e79a55b3"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "262738c00df7a1815729fde1a9527298d2c1b6dbb3e53465063147fa52ee9dc7"
+hash = "ed810d6126283df7ca919ecdfaae8e78589230cfc7d6feed5ea7e7ab68138ae3"
 metafile = true
 
 [[files]]
