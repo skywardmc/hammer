@@ -14,11 +14,15 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "d8eec905de29447db4b7a8c82c317033104f812190e59a6df1bc80b1bbac94cb"
+hash = "2dcaab476ba54a00113e47f5c3b6d4805d475c6d4076227ae75dc94087f87df8"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -44,12 +48,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "eb6e048c2c950ece0d7cdec9f4d9d40f21eae84040120e11a2bec44e3df73c0e"
+hash = "28316a07bf2e2682cdb1fe096c70c498dd1d871181d39cf2dce738781d1df09d"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "2ead99bb21f42b5b2c7dd9441429e1ab49ee05fbe754f519d229cc09538f9663"
+hash = "a0083de1d569a304e8614862cba5e868e162e8703994204b1b261ef96daaf137"
 metafile = true
 
 [[files]]
@@ -64,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a5175fe822a78dc54365b2e01dcf435cac158c3c6ab2ff3bedff823722f1cdb5"
+hash = "9a30617f9bc859551459c6b56500a04558a5fa305d216e2ff9b57cbad64dfb30"
 metafile = true
 
 [[files]]
@@ -84,17 +88,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "afc42df2250bace60b6e4a03906f570544c849a50f3dd534ed5b4f8c3c58513e"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ed810d6126283df7ca919ecdfaae8e78589230cfc7d6feed5ea7e7ab68138ae3"
+hash = "72c9eb296b43757b6e54cf3815f55ef7e3bd535512f8e5392db9a1abe5dbe847"
 metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "91bc39eae82d1aee7134326e6634e820a970edec403091a10a293181b05e2bf3"
+hash = "38b586ce2f3afca79cb18888e3a71f0a437c4e815726137e4759f9f06dfbc716"
 metafile = true
 
 [[files]]

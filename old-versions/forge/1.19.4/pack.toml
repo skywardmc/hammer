@@ -1,6 +1,6 @@
 name = "Hammer"
 author = "intergrav and WaffleIBOT"
-version = "1.5.4+1.19.4.forge"
+version = "1.5.5+1.19.4.forge"
 pack-format = "packwiz:1.1.0"
 
 [index]

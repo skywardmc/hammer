@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/embeddium-options.json"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+
+[[files]]
 file = "config/entityculling.json"
-hash = "d8eec905de29447db4b7a8c82c317033104f812190e59a6df1bc80b1bbac94cb"
+hash = "2dcaab476ba54a00113e47f5c3b6d4805d475c6d4076227ae75dc94087f87df8"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -11,10 +15,6 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "5bd17b610deb9d6d3e20325f8728ba01a5fee575718749d31a4eb52c1761022b"
-
-[[files]]
-file = "config/rubidium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b426f426af27d4578d378c582b6fa9abb6471654ee224ae258401622addb7e87"
+hash = "e14facf054e5139fab9ce0b851eae430f30ad1756f6b0dc8e9937bcd682938f7"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bc09779adb18a3da2bc9da0cc25f846fa1fa370e6368c8f303473ca6eac71fd5"
+hash = "219023e1cfcbeaf0a05e615217f80115845954e3e232636fef213f841389b282"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "3a6cd9b5dd610bb86f7278e1109ec47ccd5c97989ced663d068a1b4f176046c8"
+hash = "ee439f52a7b0ebe024c54f05c461250dbb8e17991981c6636921ed659e96485d"
 metafile = true
 
 [[files]]
