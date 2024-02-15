@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/intergrav/Hammer">
+  <a href="https://github.com/skywardmc/Hammer">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/hammer/hammer_textlogo_256h.png" alt="Logo" height="90">
   </a>
   <br />
@@ -7,22 +7,22 @@
   <p align="center">
     Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
     <br />
+    <a href="https://github.com/intergrav/Hammer/wiki">Explore the wiki</a>
+    ·
     <a href="https://github.com/intergrav/Hammer/issues">Report Bugs</a>
     ·
     <a href="https://github.com/intergrav/Hammer/issues">Request Features</a>
   </p>
-  <a href="https://modrinth.com/modpack/hammer"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
-  <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
+  <a href="https://modrinth.com/modpack/Hammer"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+  <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
+  <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
 </div>
-
-> **Warning**
-> This pack is very experimental! For improved performance and compatiblity, it is much recommended to use [Adrenaline](https://modrinth.com/modpack/adrenaline) or [Additive](https://modrinth.com/modpack/additive) over this pack. Those packs, unlike this one, are made for Fabric and Quilt. They have more performance improvements and update faster too.
 
 Hammer is a simple **performance modpack** for Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
 
 ## 📥 Installation guide
 
-Please follow [this tutorial](https://github.com/intergrav/Hammer/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Hammer/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
+Please follow [this tutorial](https://github.com/skywardmc/Hammer/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/skywardmc/Hammer/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
 
 ## 🔥 Performance
 
@@ -34,7 +34,7 @@ Need improved performance? Use the better version of this pack, [Adrenaline](htt
 
 Hammer is created with the sole purpose of optimizing the game's performance, not to add any extra features. This means that you have full control over what features you want to add when setting up your instance, ensuring that only the necessary mods are installed and running, resulting in a very smooth and optimized experience without any unnecessary distractions.
 
-I do have a modpack called [Drill](https://modrinth.com/modpack/drill) that is based on [Additive](https://modrinth.com/modpack/additive), designed to be an open-source alternative to OptiFine for Forge. Feel free to check it out!
+I do have a modpack called [Drill](https://modrinth.com/modpack/drill) that is based on [Additive](https://modrinth.com/modpack/additive), designed to be an source-available alternative to OptiFine for Forge. Feel free to check it out!
 
 ## ✅ Compatibility
 
