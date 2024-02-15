@@ -38,7 +38,7 @@ hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "97336843286ec40ea61a10b44fad7f0fa8dec96598636ee1e59731cb9bf124af"
+hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
 
 [[files]]
@@ -53,12 +53,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "71435c92604bbfd25ac0bc604b6ada0135a106a19f4c639e7806e6136fec9181"
+hash = "820c2edd54fee628c8fba8306ff7bcb5798bc5403364aed8ba97cef7048f0818"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
+hash = "c7ac97f198d23d00be8d98db22da394d69aa568c42ec9c66cf0473716857ad3c"
 metafile = true
 
 [[files]]
@@ -83,27 +83,27 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "609bb98f1b3384e5484cb05fd1ae4b33704ab5994594a0bf183d00a254d285c4"
+hash = "8fb0e46b0189d77bb9b0813088fc6faf17e16822d82d6e1911632e56ec838eba"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "cbb1480b63c0a87061141c97d202d4e6f2d8d44a16ea32878e5b2b7e82332bd7"
 metafile = true
 
 [[files]]
 file = "mods/lazurite.pw.toml"
-hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
+hash = "03e5d86e69b73997b01943270844390ac341af08b1b91c0994715894db902cc5"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d6e3a22c78a334c6b6471b35839d2730caa47573ad4a3a6997c735ef58ad933"
+hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
 metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "d93fd218e8e11bcb871c4814d1a1871c1de2a9ccbdc91a117a3bc96d3accd5d5"
+hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
 metafile = true
 
 [[files]]

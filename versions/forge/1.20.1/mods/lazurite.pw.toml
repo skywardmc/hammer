@@ -1,13 +1,13 @@
 name = "Lazurite"
-filename = "lazurite-1.0.1+mc1.20.1.jar"
+filename = "lazurite-1.0.3+mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TkC4Gtkt/versions/ybcLjzgh/lazurite-1.0.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/TkC4Gtkt/versions/7XSkM0oe/lazurite-1.0.3%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "71ec4310da8270de58df25ad28065bbcff604aea"
+hash = "3c9e8654a398c4dabf6c99cd0669d4659057d2f8"
 
 [update]
 [update.modrinth]
 mod-id = "TkC4Gtkt"
-version = "ybcLjzgh"
+version = "7XSkM0oe"

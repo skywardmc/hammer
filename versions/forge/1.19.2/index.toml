@@ -30,12 +30,12 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "4dfc7f17216c5fde916187e5ff1bb8688fa2f6ae7e6f40891823db7a8675d196"
+hash = "cb66f9704e31a1e58068328943e74c604408cc380a576b396baab69a2dfb14f0"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "9cf47598b4134ebab4fa43c907638fc0ea4bdd4badf2bfa0e6490c93b552ddd8"
+hash = "b82006551fd339d4dccc32a6d1f9984209aed466a2d38b50f9386b658f3ad2f4"
 metafile = true
 
 [[files]]
@@ -50,12 +50,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "42928c8e2fbedaa09bf552c389d5f098c1b8a7fae4c3a9a235836ad8a7a25162"
+hash = "fe513bf0205db994a331f15b371dcc3795caf1bbbb7771f1400ce3c52c24ef48"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "91c6d641b6a4573a5998f7bc2ff1ef95b7ad9811c6ab515e642aae90c610ce05"
+hash = "05454aa444f0c2eabd96ed03510a549c678e32b08acf0d62522e8d3b5101b7fe"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "2eb09c70ee3b933e6a56264072cbc3b728cdb13d50892768906c617f7444e083"
+hash = "fd3ef7bb72dc095052f700d4923cfec55f22b1923b72bdb9d58b7a8b2fc3b5ea"
 metafile = true
 
 [[files]]
