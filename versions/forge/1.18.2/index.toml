@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e3e8be77e6561e14cd4e55c8e26a4bc348681725d375041185ba16be200d4639"
+hash = "f834d326df199f89e9846f9a435d07270304524462dbab708f84292f41961a92"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a65457ddbab6062c9b013ae0eb4ead393ec41f7cd62ac44d94371f4fc10adc4b"
+hash = "691aad127f474840311612239fd2c3833884d7f948c2ada3fc1d4e390935d270"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "080e5c59c8aa9bc2b2cef4cec1999396108c811de1979556ab811f176844d88c"
+hash = "3c1097e1f3ec461cf5fb2610052efae602315e2a9783d839acb6b85168bb3681"
 metafile = true
 
 [[files]]
@@ -67,4 +67,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
+hash = "ca0f88a35616fe30a8b477e546b09fc7c365e91bc3526343953627efef99ab3c"
