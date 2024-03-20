@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
+hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
 
 [[files]]
 file = "config/yosbr/config/embeddium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -14,7 +14,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "2dcaab476ba54a00113e47f5c3b6d4805d475c6d4076227ae75dc94087f87df8"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -26,11 +26,11 @@ hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
-hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
+hash = "b62170fe95e8e89ffd5a4b11de9b084685234fa32644db2c3e3ade8c7a8fb12c"
 
 [[files]]
 file = "config/yosbr/options.txt"
