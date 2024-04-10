@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1c57ab7a2557d0ac51e16c96de842c529d864bdfe126d5439a74524b775505a3"
+hash = "c0a4cdd50db474e08e60038e8d73aa374fa297e20cc5740ed62f999009b0b9a4"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "851c2360928ee865b6972534dc5cb1d1d04872748803bdbcf1e9e029a75b923f"
+hash = "2ce55fa1e0ee075bbef57bc74dae9f28a2e4958a33f6033b95336db7422f98fe"
 metafile = true
 
 [[files]]

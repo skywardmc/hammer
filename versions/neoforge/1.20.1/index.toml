@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "eb579d1e274aa9458acce982cd8de74dfaa63ee0bfd824c179694795008de971"
+hash = "de98aa581a459eb2a37a106074b4379982983e93ba72bbf69235b050f9970cb3"
 metafile = true
 
 [[files]]
@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1a6d0711f27c72fd535fef344cfda555859fdfc59951c2bd25730308dbb4c8e5"
+hash = "aadc8c76d4879e1caa1d3616e8b672876fc24a81e6f6a2270226850cc676b16a"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "b157127a0394f1454fea877faccc69f2cca1c53417073b100e786eee7d7423ae"
+hash = "83715cff2ef9636b83839b099f4da1392c90dcf6a9a00c8d896624f3660302cd"
 metafile = true
 
 [[files]]
@@ -88,12 +88,12 @@ metafile = true
 
 [[files]]
 file = "mods/lazurite.pw.toml"
-hash = "03e5d86e69b73997b01943270844390ac341af08b1b91c0994715894db902cc5"
+hash = "273449ac44c5a5a2f13b0790c6a6da5557d4d1a78a4e1904973ed51e8efbb018"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "712ac79bb4012b906355269fa28ac92c1cae6bf37b43a4dcd1320f98a323b4b2"
+hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
 metafile = true
 
 [[files]]

@@ -5,20 +5,20 @@
   <br />
   <br />
   <p align="center">
-    Lightweight performance layer for Forge with no extra features attempting to make Minecraft as fast as possible
+    Lightweight performance layer for (Neo)Forge with no extra features attempting to make Minecraft as fast as possible
     <br />
-    <a href="https://github.com/intergrav/Hammer/wiki">Explore the wiki</a>
+    <a href="https://github.com/skywardmc/hammer/wiki">Explore the wiki</a>
     ·
-    <a href="https://github.com/intergrav/Hammer/issues">Report Bugs</a>
+    <a href="https://github.com/skywardmc/hammer/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/intergrav/Hammer/issues">Request Features</a>
+    <a href="https://github.com/skywardmc/hammer/issues">Request Features</a>
   </p>
   <a href="https://modrinth.com/modpack/Hammer"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
 </div>
 
-Hammer is a simple **performance modpack** for Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
+Hammer is a simple **performance modpack** for (Neo)Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
 
 ## 📥 Installation guide
 
@@ -34,7 +34,7 @@ Need improved performance? Use the better version of this pack, [Adrenaline](htt
 
 Hammer is created with the sole purpose of optimizing the game's performance, not to add any extra features. This means that you have full control over what features you want to add when setting up your instance, ensuring that only the necessary mods are installed and running, resulting in a very smooth and optimized experience without any unnecessary distractions.
 
-I do have a modpack called [Drill](https://modrinth.com/modpack/drill) that is based on [Additive](https://modrinth.com/modpack/additive), designed to be an source-available alternative to OptiFine for Forge. Feel free to check it out!
+I do have a modpack called [Drill](https://modrinth.com/modpack/drill) that is based on [Additive](https://modrinth.com/modpack/additive), designed to be an source-available alternative to OptiFine for NeoForge. Feel free to check it out!
 
 ## ✅ Compatibility
 
@@ -52,11 +52,11 @@ Hammer utilizes a variety of optimization mods that are designed to work seamles
 
 ## 🐛 Reporting Issues
 
-Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/intergrav/Hammer/issues).
+Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/skywardmc/hammer/issues).
 
 ## ❓ Frequently Asked Questions
 
-For a few frequently asked questions, please visit the [wiki](https://github.com/intergrav/Hammer/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
+For a few frequently asked questions, please visit the [wiki](https://github.com/skywardmc/hammer/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
 
 ## 🍉 Sponsor
 Need a fast, reliable Minecraft server? Use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.

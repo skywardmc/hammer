@@ -1,0 +1,64 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/config/dynamic_fps.json"
+hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
+
+[[files]]
+file = "config/config/embeddium-options.json"
+hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
+
+[[files]]
+file = "config/config/entityculling.json"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "config/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/config/immediatelyfast.json"
+hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
+
+[[files]]
+file = "config/config/modernfix-mixins.properties"
+hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
+
+[[files]]
+file = "config/options.txt"
+hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "018eecf427d7a7541eff0ee2befc89634a13e0e99ba605aabe1e7da8fcb01cad"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "30dd58b3f732ac735b1fe961d9b148c8b806b48f5dff0faea00bc444678e4257"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "bb7e932ef3e9a7bf4f94cf6230b55132cb9f035468196a979d7ddcc7b4efc889"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "23fd9e764434d5f2eb33c417ca26648c0946ef3aa014a0c8fe909a9e3fb09bba"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4c1b778a25aa7335ae85ea0fa26216f0c7cd1585a1340d33e0189fc9149b6d57"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "efdad65d57c4bf7824c61b179fcb79e7a16ffff412f86dc27d91c60b558a7f88"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0e9c53a2107f586f22924133ced27af1cb4951586befa1b1bee4f8d3a03ba2f7"
+metafile = true
