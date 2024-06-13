@@ -22,7 +22,7 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
+hash = "3b438ee360fe76227d197c5179af097972e5dbfc4ae522830d09f182e82aba38"
 metafile = true
 
 [[files]]

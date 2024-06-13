@@ -34,7 +34,7 @@ hash = "b62170fe95e8e89ffd5a4b11de9b084685234fa32644db2c3e3ade8c7a8fb12c"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
+hash = "0a91e0082db7f646f28c882a9951f691a37221606444e5878765a5c59c9def33"
 metafile = true
 
 [[files]]
@@ -53,6 +53,11 @@ hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "7a9742b032332f9f572d5d39c492a4bdfce76bb60ff1ffeb90d804eb6f5ca629"
 metafile = true
@@ -64,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
+hash = "16b1f287be4abaefb276f61579afe65513cb5a08a647cca28014e892e9ef6324"
 metafile = true
 
 [[files]]
@@ -88,13 +93,8 @@ hash = "31689f28d9a1866d3892e8b0776ee140fdcbb5502a1fa135467783d6408e7b9f"
 metafile = true
 
 [[files]]
-file = "mods/lazurite.pw.toml"
-hash = "273449ac44c5a5a2f13b0790c6a6da5557d4d1a78a4e1904973ed51e8efbb018"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
+hash = "5313dd0c3ee565ae28c29e659db5937c65508220873dce58a70491aab76efb52"
 metafile = true
 
 [[files]]
@@ -115,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
 metafile = true
 
 [[files]]

@@ -30,7 +30,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "73e2cfee7992a5755b77bf7824733137e9997d1ef0996876447b491381041cbc"
+hash = "dbc464084ac0e26a4b0ff315ec4b78376d72f4947797d0ca40a41bec816f000d"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "01088f790773a03f31b2eaa82b74e831c21f9113c166b6141435796dfd0dd8ab"
+hash = "cdb2ffaf0ef8cc5b9344f1f201c4e389c228267d56aac7e1230e7d5d80a46179"
 metafile = true
 
 [[files]]

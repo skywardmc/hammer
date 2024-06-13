@@ -1,13 +1,13 @@
 name = "Hammer"
 author = "intergrav and WaffleIBOT"
-version = "1.6.2+1.18.2.forge"
+version = "1.6.3+1.19.2.forge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8703b5ff8cce49c63e629a3d1e98b73828447b7e00e08ee199087f5e0bbc1182"
+hash = "48270aab03a1b4e93504e7e873f13c955482ba0df704786935393dbea5001455"
 
 [versions]
-forge = "40.2.21"
-minecraft = "1.18.2"
+forge = "43.4.0"
+minecraft = "1.19.2"

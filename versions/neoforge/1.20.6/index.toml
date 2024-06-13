@@ -22,7 +22,7 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "48720fa4daacd4b092044f734342fb7ee07d6137d653c3a824d022bf72a08e47"
+hash = "59c8780265c413ecfa69a7004cb2946d46c943798d3230ea31d470452830442e"
 metafile = true
 
 [[files]]
@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7bbaba125ebeac0da0e0f9418de1146e3404cc2b12d287e86d8ef3809433c695"
+hash = "70b4a9751071e871a85cc53d553fedeb1cf41a42d6c53b72ae419f28725ea222"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e8a656425460c4f25ec01b5097523615a89a8ca5d545e867cca7aec9ce0d7d2d"
+hash = "433fa0f8f86403197f4db0cdee322b15281b5ed554d6b258ea11bb0cf63c5655"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3938a4e1d38abcdcc41b87a45e659ba9936966e7ae340d2cf7e2e2e7fec1d505"
+hash = "074914c7fbc1ec5491e664520621556b3a395847c2a89e5c2cc5e4c9675feb34"
 metafile = true
 
 [[files]]
