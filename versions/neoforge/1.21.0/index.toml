@@ -22,47 +22,32 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "83d45e627536fc1dc30f59dfd2c0accd85bab05a5599d07c0f9773b3534a0573"
+hash = "dd4a333665383d4af8f20f338b10b89f5ad383f5371d9dfc278f65b3d97d66f7"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "018eecf427d7a7541eff0ee2befc89634a13e0e99ba605aabe1e7da8fcb01cad"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "759254b630120aa7f8d1c161aca3d181a197d5d3c7dd2c6f9f0e1acc82baa919"
+hash = "d2dea28f4537240197547c2b21bf1f38ea81d64df0df4013c4ea861191c54839"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "cc4c87b3dc44344f3aefbda1c1985eb74e546069fbbf8fab86ff589035eaa3d9"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "a2cc3eca9b6a3693714009645764bfcd122692672cb0bb5fff64e9f8b953f537"
+hash = "2909bd87889881505c34a378ee68741ccc95b32f779fe09df912933d5acd8149"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4c1b778a25aa7335ae85ea0fa26216f0c7cd1585a1340d33e0189fc9149b6d57"
+hash = "33d8aed3c75ac75e772f4433319373e993b4c0a6a3e9b0f2d1d296abdfc0358b"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a58c37fedbcd34129a18e68e14d71503bcb13f3f6ee0493f3892d07ec82f55c1"
+hash = "878464c3e677794c46c5841eda638b66ff948945c3b5f313e906e0c9c00f4519"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7687abfba0a6bb45923f65a091a029f6e7cea7c46d07e9a130380a026ce57a1a"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "faf482e6800e25bfc846682619ba15f58232d3dcdacf4092da61c9e4910e304a"
+hash = "e94d12bc446a428db053595e9a54b996416a4e1c94e74636bfef2db03c915eb2"
 metafile = true
 
 [[files]]

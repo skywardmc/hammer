@@ -34,7 +34,7 @@ hash = "b62170fe95e8e89ffd5a4b11de9b084685234fa32644db2c3e3ade8c7a8fb12c"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "0a91e0082db7f646f28c882a9951f691a37221606444e5878765a5c59c9def33"
+hash = "71b985ec3eeb6823a6feacab1eec0d46ce7cc1cf97751c3c03541811c5028bc7"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
+hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
 metafile = true
 
 [[files]]

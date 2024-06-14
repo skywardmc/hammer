@@ -22,7 +22,7 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "59c8780265c413ecfa69a7004cb2946d46c943798d3230ea31d470452830442e"
+hash = "db7db9a5ba622abfbceb2ea08593c129ffdeed6c5b87ca98fcc61d1c31e93c83"
 metafile = true
 
 [[files]]
@@ -52,12 +52,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "19e769daaeae2f6e5505d5f2568f1d1908fd3343ebe7fc5b3e1216334c292d02"
+hash = "61fab60dd8b1712e7edfaee942c019bd10d90f96b2c20aca7b9e45a41362c0a5"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "074914c7fbc1ec5491e664520621556b3a395847c2a89e5c2cc5e4c9675feb34"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c3b411d2b94512c2416751138375bde812f070207a875f2a53653a4b25db1205"
 metafile = true
 
 [[files]]
