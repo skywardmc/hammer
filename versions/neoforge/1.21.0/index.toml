@@ -22,12 +22,17 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "dd4a333665383d4af8f20f338b10b89f5ad383f5371d9dfc278f65b3d97d66f7"
+hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d2dea28f4537240197547c2b21bf1f38ea81d64df0df4013c4ea861191c54839"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "520fc18bbbc0828b1db3c7f0d2c5dd6fa6c1ca90b15ecb6c499c3234837c627e"
 metafile = true
 
 [[files]]
@@ -42,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "33d8aed3c75ac75e772f4433319373e993b4c0a6a3e9b0f2d1d296abdfc0358b"
+hash = "ac87d2fd4d3d151915deb9a04b2ae2803291bb35d0e8fc8d66916f1269fd972a"
 metafile = true
 
 [[files]]
