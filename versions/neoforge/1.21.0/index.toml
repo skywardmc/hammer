@@ -57,8 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e94d12bc446a428db053595e9a54b996416a4e1c94e74636bfef2db03c915eb2"
+hash = "ec2f464472204d56df77370d0e29c7d4829a469b8a3260738905452f1a88ecf9"
 metafile = true
+
+[[files]]
+file = "note.txt"
+hash = "a14ad8f46d93d785120cf8ca678f2bff52b4306a4d48ccbc05285cc3c7d3d336"
 
 [[files]]
 file = "options.txt"
