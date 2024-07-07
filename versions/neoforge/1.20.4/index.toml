@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "759254b630120aa7f8d1c161aca3d181a197d5d3c7dd2c6f9f0e1acc82baa919"
+hash = "ada1d9e51ad8f93306028211e15eca45632defc9aee962330333a0a34c3de26a"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "cc4c87b3dc44344f3aefbda1c1985eb74e546069fbbf8fab86ff589035eaa3d9"
+hash = "60fb3c84d9fbedc431799465361161c2c055f944a22d7db85ef3082c9cfd8260"
 metafile = true
 
 [[files]]

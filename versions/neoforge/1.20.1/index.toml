@@ -1,36 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
+file = "config/connector.json"
+hash = "f00ca60d0f6e201b8f0b6fb0c571b98538817d2ea1e341110c53571fa408c0f1"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.json"
+hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
 hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
 
 [[files]]
-file = "config/embeddium-options.json"
-hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
-
-[[files]]
-file = "config/enhanced_bes.properties"
+file = "config/yosbr/config/enhanced_bes.properties"
 hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
-file = "config/entityculling.json"
+file = "config/yosbr/config/entityculling.json"
 hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
+file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
-file = "config/immediatelyfast.json"
+file = "config/yosbr/config/immediatelyfast.json"
 hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
+file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
-file = "config/smoothboot.json"
-hash = "b62170fe95e8e89ffd5a4b11de9b084685234fa32644db2c3e3ade8c7a8fb12c"
+file = "config/yosbr/config/sodium-options.json"
+hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -49,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
+hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
 metafile = true
 
 [[files]]
@@ -59,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7a9742b032332f9f572d5d39c492a4bdfce76bb60ff1ffeb90d804eb6f5ca629"
+hash = "47935c8cbbf76d827aded62f519bbc3b6e639090e0cb98e52e723c6cd790025e"
 metafile = true
 
 [[files]]
@@ -69,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "16b1f287be4abaefb276f61579afe65513cb5a08a647cca28014e892e9ef6324"
+hash = "e5a2825f8de2b1b4f9e6aee34417b6c1ae2fcf826a6033c3b542d35091e70b41"
 metafile = true
 
 [[files]]
@@ -99,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c93415111f987afcdfc932d834ded1d3e4bcf1c1e007621c768218e6d937c75d"
+hash = "6acafcd08aefc502b788f386ecb436e782466fe524acc34447a3aaccacbd0754"
 metafile = true
 
 [[files]]
@@ -108,13 +120,8 @@ hash = "70153a0d8cc39a3584589a0d66e7746c09acb43497cd0d271b6a69839fedebf3"
 metafile = true
 
 [[files]]
-file = "mods/saturn.pw.toml"
-hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
+file = "mods/threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
@@ -123,5 +130,6 @@ hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true

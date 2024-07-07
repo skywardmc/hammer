@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "520fc18bbbc0828b1db3c7f0d2c5dd6fa6c1ca90b15ecb6c499c3234837c627e"
+hash = "0745c524e2059db0b163aeb2ab2c659d33b260c218504dfc25e1690674b56343"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "2909bd87889881505c34a378ee68741ccc95b32f779fe09df912933d5acd8149"
+hash = "f94dd310157565efb5dd864340c60bea9c8132aa5c982dcb5f18350798b52632"
 metafile = true
 
 [[files]]
@@ -57,12 +57,13 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ec2f464472204d56df77370d0e29c7d4829a469b8a3260738905452f1a88ecf9"
+hash = "f12782f07dd88c68a8b0dc1eb3a6be32d4a02068511cbdffd7294f11eb44e02f"
 metafile = true
 
 [[files]]
-file = "note.txt"
-hash = "a14ad8f46d93d785120cf8ca678f2bff52b4306a4d48ccbc05285cc3c7d3d336"
+file = "mods/noisium.pw.toml"
+hash = "7281bc6bf57f125b1282bbf3218b8bfb984bd223253f8d2cecd0eb09345471f2"
+metafile = true
 
 [[files]]
 file = "options.txt"

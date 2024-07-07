@@ -1,12 +1,12 @@
 name = "Hammer"
-version = "1.6.4+1.21.0.neoforge"
+version = "1.7.0+1.21.0.neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d23ea338b29125f7089a5a28e701e070bbb619aad2ef5b797acc974cffb8d1a7"
+hash = "8ed3d560790ba5b40af0fe99d71c78a7b92c130ed205a8892d5329751d9c4432"
 
 [versions]
 minecraft = "1.21"
-neoforge = "21.0.21-beta"
+neoforge = "21.0.75-beta"

@@ -1,4 +1,0 @@
-Hello! 
-I recommend downloading the beta version of ModernFix (5.18.3-beta), as it fixes that "mixin.perf.dynamic_resources" will not work correctly for mc1.21.
-
-ModernFix Beta Download -> https://nightly.link/embeddedt/ModernFix/workflows/gradle/1.21/Package.zip
