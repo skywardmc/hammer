@@ -1,6 +1,6 @@
 name = "Noisium"
 filename = "noisium-neoforge-2.0.3+mc1.20.2-1.20.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/rS9OSRtd/noisium-neoforge-2.0.3%2Bmc1.20.2-1.20.4.jar"
