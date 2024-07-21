@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/A2wzQZLe/ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "bedf1769a47640f76599925d2481beed982e2aa4"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "A2wzQZLe"
