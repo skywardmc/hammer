@@ -27,17 +27,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d2dea28f4537240197547c2b21bf1f38ea81d64df0df4013c4ea861191c54839"
+hash = "4643951dc361f27340a1ae31c4208a3d9d795db0f5302316dd86939a1b7a1c24"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0745c524e2059db0b163aeb2ab2c659d33b260c218504dfc25e1690674b56343"
+hash = "d019e4a448f04662b9bafa3fe401c45da3a57d1b19c7d007e6f877f9c1e70836"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1b1a6cc6d0037f6ba11264dd82e3f5e16fe471f6abd1a8e011e43634b657154e"
+hash = "eca45c729e02623a433e0520ba396d821b924692bbdbc8d53a6eeb8588a64a80"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "87ac383e313eba239d0ee320e6b6c898ff88dfb4e7bec60f6665becbc4bb323b"
+hash = "dfd430664d767eadf2f24a85e545c46f027d92250d20e57625c24ecdafe4ec06"
 metafile = true
 
 [[files]]

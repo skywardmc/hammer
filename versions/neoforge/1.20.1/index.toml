@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "47935c8cbbf76d827aded62f519bbc3b6e639090e0cb98e52e723c6cd790025e"
+hash = "cf47cee3a06b7a15095b0a0ce7a9c6d2b0f398b7352fef216684a6cd5e218b57"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "70f677a3c35b5bb6f63450fe9b231529d2f17aefa5cca2cedcd56cb4d5e01e00"
+hash = "e5755503a6eabcdca52ad30c9badadf8427c51115a4d6c84defb7661f0a479cb"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
+hash = "1c99abbea7021a74d4fc8393b2dfe83516dd91a460fa2644236a5dda77eeab49"
 metafile = true
 
 [[files]]
