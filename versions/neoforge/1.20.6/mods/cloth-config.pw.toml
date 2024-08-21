@@ -1,13 +1,13 @@
 name = "Cloth Config API"
-filename = "cloth-config-14.0.126-neoforge.jar"
+filename = "cloth-config-14.0.129-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9s6osm5g/versions/PjKtC8lG/cloth-config-14.0.126-neoforge.jar"
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Y9QgGQ59/cloth-config-14.0.129-neoforge.jar"
 hash-format = "sha1"
-hash = "267e6cf228af4afa30e065f3e428a21485291c03"
+hash = "07013ac04962d60a657795e3c3e9f3f92b426599"
 
 [update]
 [update.modrinth]
 mod-id = "9s6osm5g"
-version = "PjKtC8lG"
+version = "Y9QgGQ59"

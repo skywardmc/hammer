@@ -1,13 +1,13 @@
 name = "Noisium"
-filename = "noisium-neoforge-2.2.1+mc1.21.jar"
+filename = "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/P6U3Rw6d/noisium-neoforge-2.2.1%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/nJBE6tif/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar"
 hash-format = "sha1"
-hash = "9109df21799eb335ef340848a1a568bf939dbd4e"
+hash = "1bea6b61378ba80f038256c4345d9ff3b67928c4"
 
 [update]
 [update.modrinth]
 mod-id = "KuNKN7d2"
-version = "P6U3Rw6d"
+version = "nJBE6tif"
