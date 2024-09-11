@@ -68,12 +68,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1e1806a28d76ba39be7923b436d279d2511b777be37381a8cc38e05f702d9858"
+hash = "719e6809d2aee4ff92f65daad9ab14f84f6b414d118f15b8a5c0cfc4230fd8ac"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "41b105e7714a1a7dff60eb55dce974997d7d99a4ffcf4d4a697176c1d5563b8c"
+hash = "df0c6c30ca36fa26f0a331c2f22a879c9cea01277c1342ddec35703e0342193a"
 metafile = true
 
 [[files]]
@@ -88,12 +88,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ba15d641ccb38102b9c85cab252ed12d12be5cfc3ce84bb85727806fdc8b8a0b"
+hash = "441a70e869dbbc80df894683b0c1f49f09dcdcf68b177945fc52aad8273c3f13"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "13f0baca7e08446cf68e25ac9dc80383122c93d24d01abe2da0de29fde0ca785"
+hash = "f64b3f7f3d22351ad6bedfba759b1a3dc70d8cbc314db73cb446131a8e7db4ee"
 metafile = true
 
 [[files]]
@@ -102,8 +102,13 @@ hash = "cf8096980a817d325b860d3d7e341883888584a50f481c1687c0dcd31e4fe28d"
 metafile = true
 
 [[files]]
+file = "mods/radium.pw.toml"
+hash = "73068d4542b7451709bbacb7099a803974ec55a116015fd0bafe82047eb92635"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
+hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
 
 [[files]]
