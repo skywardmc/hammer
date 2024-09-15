@@ -30,7 +30,7 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
+hash = "8d36f9cba8f5254dee76dcaa23a0eecf5ba68019f7ea85f4dae489b6659f5b1d"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -62,14 +62,13 @@ hash = "7cde7e1722cdbc76a3cba83db9f63d4bfa6c7f00b55e9eec9ee9c2bc036e71a7"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "719e6809d2aee4ff92f65daad9ab14f84f6b414d118f15b8a5c0cfc4230fd8ac"
 metafile = true
+
+[[files]]
+file = "mods/enhancedblockentities-0.10.1+1.21.jar"
+hash = "bb8500024f2fd5f6ab09b6c48661d80783eb25f9c8b41bade242f84e21432b75"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
