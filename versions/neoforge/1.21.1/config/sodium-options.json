@@ -3,6 +3,6 @@
     "cpu_render_ahead_limit": 4
   },
   "performance": {
-    "use_entity_culling": false,
-  },
+    "use_entity_culling": false
+  }
 }
