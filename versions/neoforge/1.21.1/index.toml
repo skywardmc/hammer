@@ -30,7 +30,7 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "8d36f9cba8f5254dee76dcaa23a0eecf5ba68019f7ea85f4dae489b6659f5b1d"
+hash = "7024ae4da9a2af7955ff6e5b33c496e6aadcc5f7f3d0a9192294697ae9eaff68"
 
 [[files]]
 file = "config/threadtweak.json"
