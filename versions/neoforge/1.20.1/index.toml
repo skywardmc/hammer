@@ -13,6 +13,10 @@ file = "configureddefaults/config/dynamic_fps.json"
 hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
 
 [[files]]
+file = "configureddefaults/config/embeddium-options.json"
+hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
+
+[[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
 hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
@@ -33,10 +37,6 @@ file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
-file = "configureddefaults/config/sodium-options.json"
-hash = "e4ff11608f1a0042290f924d3b759b1d5405dd5c3f2e686ed66604690c95a794"
-
-[[files]]
 file = "configureddefaults/config/threadtweak.json"
 hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
 
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "29f7a71e4d94c04a4c50c476daea4a9b13eba45d7bc477466fab8ed9c938ea24"
+hash = "627ffe350987695cfb3e9f49603f6293fd6c3890c9583c6a4fb44196772bf609"
 metafile = true
 
 [[files]]

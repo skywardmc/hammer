@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "018eecf427d7a7541eff0ee2befc89634a13e0e99ba605aabe1e7da8fcb01cad"
+hash = "07fb4624f62453e88d3a05495420747f4b750ca9d98191a09608293fc7fd9dd5"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "477469c0b8730becbf04b10df4972baa20c8d394e744739d7231a009f5b6b952"
+hash = "1830d5e26c617c20be17c6a5f87dd569e32d54d07035a058d363d68414a1efa4"
 metafile = true
 
 [[files]]

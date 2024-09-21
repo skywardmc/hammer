@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/connector.json"
-hash = "f00ca60d0f6e201b8f0b6fb0c571b98538817d2ea1e341110c53571fa408c0f1"
+hash = "f84a2235b1d6f0fb5b1b096e2d1bf07ace41bfbb08273867d76961667a3cd7b3"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "24a71d71c1e31373819bd5d8192981bc200c990a385f03e27f44d4cfcc671f24"
+hash = "60187311fc010bbf513ed8451ff6417f75b6d82f3fef7cbfb9cc296b098ed636"
 metafile = true
 
 [[files]]
@@ -58,12 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7cde7e1722cdbc76a3cba83db9f63d4bfa6c7f00b55e9eec9ee9c2bc036e71a7"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "719e6809d2aee4ff92f65daad9ab14f84f6b414d118f15b8a5c0cfc4230fd8ac"
+hash = "3c87dcb63fa21b492b8a3ff6d91985bbaab16ea0064330b7a95c7fcf4d0603a8"
 metafile = true
 
 [[files]]
@@ -102,7 +97,17 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "73068d4542b7451709bbacb7099a803974ec55a116015fd0bafe82047eb92635"
+hash = "73c4ed7ce7a640a07dd1ac0ee85937cabbfb604cb3b87425d9d412d032955125"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "49a0fc939b3bb385dba799c1f4cd93797493923835e596895d50f51d56145ac9"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "67f2760a251265ebe9edd39cf62804bb9316fa6ff91e48055782ce725d1df9c3"
 metafile = true
 
 [[files]]
