@@ -1,40 +1,44 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/connector.json"
+file = "configureddefaults/config/connector.json"
 hash = "f84a2235b1d6f0fb5b1b096e2d1bf07ace41bfbb08273867d76961667a3cd7b3"
 
 [[files]]
-file = "config/dynamic_fps.json"
+file = "configureddefaults/config/dynamic_fps.json"
 hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
 
 [[files]]
-file = "config/enhanced_bes.properties"
+file = "configureddefaults/config/enhanced_bes.properties"
 hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
-file = "config/entityculling.json"
+file = "configureddefaults/config/entityculling.json"
 hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
+file = "configureddefaults/config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
-file = "config/immediatelyfast.json"
+file = "configureddefaults/config/immediatelyfast.json"
 hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
+file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "configureddefaults/config/sodium-options.json"
 hash = "7024ae4da9a2af7955ff6e5b33c496e6aadcc5f7f3d0a9192294697ae9eaff68"
 
 [[files]]
-file = "config/threadtweak.json"
+file = "configureddefaults/config/threadtweak.json"
 hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -47,18 +51,23 @@ hash = "60187311fc010bbf513ed8451ff6417f75b6d82f3fef7cbfb9cc296b098ed636"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "b8aeb616e9d20f2080e60d3efcce2c438952ee22175f29807a92475edb922eda"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "194bcdf95b2917afbc9a47677707c12cd137e58ae2010b6fbd7c80c76a7811d4"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "1cd21a6750edbbefe44a6fed98b31a8f5cb932a256d084eca146cd4d5e8133cf"
+hash = "d8191e8785e0a2122a0b0f3c0abffcb31de284c6656362c806a6d2c14e095cfd"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c87dcb63fa21b492b8a3ff6d91985bbaab16ea0064330b7a95c7fcf4d0603a8"
+hash = "a8e7ac81fb719c8a1c6636c18129e356962b92c0f2b9624c7f6715dfda7c5792"
 metafile = true
 
 [[files]]
@@ -77,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "290787930537788be8554cf33c4d8dd4f0a801f3cd098daa448136881e83431a"
+hash = "be776ef85669a11030f5edd190cf9dda175b8ede2cc93b48ccaf920bad2bdb43"
 metafile = true
 
 [[files]]
@@ -114,7 +123,3 @@ metafile = true
 file = "mods/threadtweak.pw.toml"
 hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"

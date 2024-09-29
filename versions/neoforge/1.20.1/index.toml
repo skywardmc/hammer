@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
+hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "627ffe350987695cfb3e9f49603f6293fd6c3890c9583c6a4fb44196772bf609"
+hash = "a0fc94278ac9295ccfea4c068ad38c4ad3e25ff00d9f9ed9ce47fe08b21e3a44"
 metafile = true
 
 [[files]]
