@@ -1,0 +1,13 @@
+name = "Cloth Config API"
+filename = "cloth-config-16.0.141-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/uYoucpky/cloth-config-16.0.141-neoforge.jar"
+hash-format = "sha1"
+hash = "bceb716fd53166d2714a91cb932f679d04640506"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "uYoucpky"

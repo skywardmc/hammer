@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "80a835205f4a851dbecde334a4f43fefb9d80685f97ee75cd7ea28210afee1e1"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "7024ae4da9a2af7955ff6e5b33c496e6aadcc5f7f3d0a9192294697ae9eaff68"
+
+[[files]]
+file = "mods/ImmediatelyFast-NeoForge-1.3.1-SNAPSHOT+1.21.3.jar"
+hash = "e0728d03ee20173c69b7ce0d0269fdceadce2451214c482810ee07bd8741fe42"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "506e3a47306b180a3ea10a47e1d856f76785d68deeafe44834ef1ed179ec59c1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ffb6e52da0388397fb740637de9aaf4c73e1c7bb82d4a495baebad0a6d37037d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "533d68a5814288f4527dbc0ead8832008711ad151785c24069e8efeaf99f47d5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1.7.0-mc1.21.3+git.0084c5c.jar"
+hash = "e7c2388d00b487f178b4be6c317d8add30e0280d60f6bed026487851094ec3a8"
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "27ccde7f0ed9f901c70865aeb392ccbca5fdb94da7c92e23503e7a6eba8c5988"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-neoforge-5.19.5-beta.16+mc1.21.3.1e0d.jar"
+hash = "6f674456cd0be6e7cb6f07494dc07247f4be65351b95bd12c0e5d34835c9b2d2"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "05da24ed1a96568cafd15e9d5b3031c5b59754d7da4659447f022b4c5c42bb54"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"

@@ -42,7 +42,7 @@ hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
+hash = "78d340163d70e433a6c407c10e1f65ba3ab00b92bf22f61a66ca4b38ae6d3dfc"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a8e7ac81fb719c8a1c6636c18129e356962b92c0f2b9624c7f6715dfda7c5792"
+hash = "08c4b0e4d4928f9156010fcddc2d8952faf119b910acb02ece4de67cd85edde4"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "621f4562bd9ce35a9bd421de79c644a51d4c59334e15e668cf8625811588dec5"
+hash = "a8ab2d7be62d6cbe3f7538505ca986aff1c2d7ef9862cec2f83fe83fa463cf40"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "441a70e869dbbc80df894683b0c1f49f09dcdcf68b177945fc52aad8273c3f13"
+hash = "77985b69b608dd388487c8bc041ccdbf7f8ec92f8bd1b1ab3e8fb0fc09dda1bf"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "49a0fc939b3bb385dba799c1f4cd93797493923835e596895d50f51d56145ac9"
+hash = "00db10db8a14bafbf3b38e86a777edbd55aba43c8f75a373bbc47d285105f02d"
 metafile = true
 
 [[files]]
