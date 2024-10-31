@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
 file = "configureddefaults/config/connector.json"
 hash = "f84a2235b1d6f0fb5b1b096e2d1bf07ace41bfbb08273867d76961667a3cd7b3"
 
 [[files]]
 file = "configureddefaults/config/dynamic_fps.json"
-hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
@@ -30,7 +34,7 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
-hash = "7024ae4da9a2af7955ff6e5b33c496e6aadcc5f7f3d0a9192294697ae9eaff68"
+hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
 file = "configureddefaults/config/threadtweak.json"
@@ -67,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "08c4b0e4d4928f9156010fcddc2d8952faf119b910acb02ece4de67cd85edde4"
+hash = "be4498836ea59a2a032afc67b3569a7ff4abc93c9d807fb57685184906144978"
 metafile = true
 
 [[files]]
@@ -92,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "77985b69b608dd388487c8bc041ccdbf7f8ec92f8bd1b1ab3e8fb0fc09dda1bf"
+hash = "b9dc4997bc13e0aa8c4e4a7411089778cf2f76e238527e4652c952db7da9a69d"
 metafile = true
 
 [[files]]

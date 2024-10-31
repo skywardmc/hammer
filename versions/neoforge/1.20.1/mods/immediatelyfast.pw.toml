@@ -1,13 +1,13 @@
 name = "ImmediatelyFast"
-filename = "ImmediatelyFast-Forge-1.3.0+1.20.4.jar"
+filename = "ImmediatelyFast-Forge-1.3.1+1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/HfcDIKwc/ImmediatelyFast-Forge-1.3.0%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/K9wJZa3T/ImmediatelyFast-Forge-1.3.1%2B1.20.4.jar"
 hash-format = "sha1"
-hash = "2b183a00d16f85ab30fc916ec0d7fefc257252f6"
+hash = "af05a28a91d4552ed830ad43ce38a3ada4d9f314"
 
 [update]
 [update.modrinth]
 mod-id = "5ZwdcRci"
-version = "HfcDIKwc"
+version = "K9wJZa3T"

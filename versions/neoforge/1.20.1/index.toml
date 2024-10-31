@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
 file = "configureddefaults/config/connector.json"
 hash = "f00ca60d0f6e201b8f0b6fb0c571b98538817d2ea1e341110c53571fa408c0f1"
 
@@ -10,7 +14,7 @@ hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
 
 [[files]]
 file = "configureddefaults/config/dynamic_fps.json"
-hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "configureddefaults/config/embeddium-options.json"
@@ -76,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "777f750d60298e7543629a9667e191484e088ab07b08ded4acf67fde715e52f9"
+hash = "8891d0ed29a9949e3f9571b0cdfdf325ffffae7a7f4beb63a158e93680955f97"
 metafile = true
 
 [[files]]
@@ -106,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8412e2a77806bc79d67b4ba1f4da9b60ddda1ff481b47424c106425c040ffad0"
+hash = "71ad723c7dd152a74416400380a99102e4f85d76ddd983cd22fac9f34173bcfe"
 metafile = true
 
 [[files]]

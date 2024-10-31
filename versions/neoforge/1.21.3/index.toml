@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
 file = "config/dynamic_fps.json"
-hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "config/entityculling.json"
@@ -18,15 +22,7 @@ hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "80a835205f4a851dbecde334a4f43fefb9d80685f97ee75cd7ea28210afee1e1"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "7024ae4da9a2af7955ff6e5b33c496e6aadcc5f7f3d0a9192294697ae9eaff68"
-
-[[files]]
-file = "mods/ImmediatelyFast-NeoForge-1.3.1-SNAPSHOT+1.21.3.jar"
-hash = "e0728d03ee20173c69b7ce0d0269fdceadce2451214c482810ee07bd8741fe42"
+hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -40,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "533d68a5814288f4527dbc0ead8832008711ad151785c24069e8efeaf99f47d5"
+hash = "e68de8de8a61855af07b4e239c70ba79578f4d8b4751b4a9072a4fb12eb6697d"
 metafile = true
 
 [[files]]
@@ -50,6 +46,11 @@ hash = "e7c2388d00b487f178b4be6c317d8add30e0280d60f6bed026487851094ec3a8"
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "27ccde7f0ed9f901c70865aeb392ccbca5fdb94da7c92e23503e7a6eba8c5988"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c5407d60fd4850fb2af8398946980a29852f920d50622e6288f4d403de9f3967"
 metafile = true
 
 [[files]]

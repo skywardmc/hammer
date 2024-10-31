@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
 file = "config/dynamic_fps.json"
-hash = "62721e017d7bd5f257dd8d2eaac63335c30ac6e3ad07b7302b84d27448f2a823"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -32,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "84eaef7b2faeed41dbcb4da8af372cd83f29abe488c602d349ea1024fec704dd"
+hash = "6635bc24e2c18bedf837316126a3e03f4cbde2dc45a2076a6cba02401a935083"
 metafile = true
 
 [[files]]
@@ -52,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "19c6049ccc37abd9491a1dc711438c2dbd076716de7e7dd383749297926a9a24"
+hash = "1d60272e8e1e8506dc26d0f78aac8344a6fa17d062ae30e7f205ca14a7524054"
 metafile = true
 
 [[files]]
