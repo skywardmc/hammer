@@ -40,8 +40,9 @@ hash = "e68de8de8a61855af07b4e239c70ba79578f4d8b4751b4a9072a4fb12eb6697d"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-neoforge-1.7.0-mc1.21.3+git.0084c5c.jar"
-hash = "e7c2388d00b487f178b4be6c317d8add30e0280d60f6bed026487851094ec3a8"
+file = "mods/entityculling.pw.toml"
+hash = "17fa952151cc5cc369a74245aa31673be180b96ed36ff446eb447cd7605b40a1"
+metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
@@ -54,8 +55,13 @@ hash = "c5407d60fd4850fb2af8398946980a29852f920d50622e6288f4d403de9f3967"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-neoforge-5.19.5-beta.16+mc1.21.3.1e0d.jar"
-hash = "6f674456cd0be6e7cb6f07494dc07247f4be65351b95bd12c0e5d34835c9b2d2"
+file = "mods/modernfix-neoforge-5.19.5-beta.18+mc1.21.3.103d.jar"
+hash = "9f5329dd147a4fdeb629846e82dbae1b08cfe0102736131a485e87257028a94b"
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "b144667418689c211bcbb145f8b333c90e7484506c27d94025d1156b8b97bf46"
+metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
