@@ -46,7 +46,7 @@ hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
+hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "71ad723c7dd152a74416400380a99102e4f85d76ddd983cd22fac9f34173bcfe"
+hash = "97aefa821f814e8d1edd11568842b78bb527c2e96f08a0bda3f83c5baa949b92"
 metafile = true
 
 [[files]]

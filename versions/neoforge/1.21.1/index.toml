@@ -42,7 +42,7 @@ hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c42352cd185e0d32c6c42f337a0cae8ea758e3db96a3b7468f1cf7faf8dc3e44"
+hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "d8191e8785e0a2122a0b0f3c0abffcb31de284c6656362c806a6d2c14e095cfd"
+hash = "f02a45ec108a43e58bafcdc1e9c47fb73775bbb635348d7051e24bba70e21a1f"
 metafile = true
 
 [[files]]
@@ -91,17 +91,17 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "9c9784eb503fa01407d3ac2b704c04f247ce87be2319eaf2908909774296a6a8"
+hash = "8040e3d012dbb8101ae707819d906aaa7d056def5a8e3e84bce3b0c20e180c3f"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b9dc4997bc13e0aa8c4e4a7411089778cf2f76e238527e4652c952db7da9a69d"
+hash = "c9eb034ac7373f836653f6a395a4cf702d46121089bb8a408c221f80a3505471"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "12a12c6d8ad4c31d27ee95a8f1c63d94c7b22f9a3e55deba5524210d96fa508c"
+hash = "0872e3776db71db799e47d65e1f6c06f0dfacde765c30d9bd8b34286b6137405"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "00db10db8a14bafbf3b38e86a777edbd55aba43c8f75a373bbc47d285105f02d"
+hash = "704f65b086fb0eb4237ed436686a85785b9412aeae0e7416c03284eb6f6a1f37"
 metafile = true
 
 [[files]]
