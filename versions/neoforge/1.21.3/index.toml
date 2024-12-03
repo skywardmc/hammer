@@ -60,8 +60,8 @@ hash = "7325ff7624bc49d37ae53ccf63fe7df90f84ab4516b696dd158620ce4f5f11d0"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-neoforge-5.19.5-beta.18+mc1.21.3.103d.jar"
-hash = "9f5329dd147a4fdeb629846e82dbae1b08cfe0102736131a485e87257028a94b"
+file = "mods/modernfix-neoforge-5.19.5-beta.19+mc1.21.3.1bb7.jar"
+hash = "6d5ac63656d7e22267fad41ed9cb48bebb7cb23d1876fbde00fccde16dae3a73"
 
 [[files]]
 file = "mods/noisium.pw.toml"
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "826a2650962d329b9e1820dcdcc9367fef8ca7923f64d3de784137efb18bc43f"
+hash = "36362bf6d1f24866a132e2eadf3cd2a47a0c6ecfa68d260a8f5717ffe125cf6e"
 metafile = true
 
 [[files]]
