@@ -26,7 +26,7 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "506e3a47306b180a3ea10a47e1d856f76785d68deeafe44834ef1ed179ec59c1"
+hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "93a481f50b065e9abac763e589073ec8ab5c7b1b41b923648d76d9c878a53d23"
+hash = "226363c98282c10cf9a830c26407aec90aa8b5212374a7b7b476e98b2f92affa"
 metafile = true
 
 [[files]]
