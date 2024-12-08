@@ -1,6 +1,6 @@
 name = "Hammer"
 author = "WaffleIBOT"
-version = "1.13.1+1.21.4.neoforge"
+version = "1.13.2+1.21.4.neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
