@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "17fa952151cc5cc369a74245aa31673be180b96ed36ff446eb447cd7605b40a1"
+hash = "79a704596f4b5ed08b0f4399001820eda7226ef599e73642b93a7ede89027252"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "57ce66ba87de34ffa1f3b571f400313e8335b88fefa77261110324093440df26"
+hash = "52359bfa2f733d288c6bb97cfcb5a98be6f30cf7bf728dc69b06b86e051cf4c8"
 metafile = true
 
 [[files]]
