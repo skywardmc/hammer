@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a628ec9679359bfbbf7d72b0fad460b96aea27779bde374f3d47307276c6c526"
+hash = "ac50a02f87ff58b347da93f35b525631cc9cb600f99127c1c8c3a9629715feef"
 metafile = true
 
 [[files]]
@@ -60,17 +60,17 @@ hash = "226363c98282c10cf9a830c26407aec90aa8b5212374a7b7b476e98b2f92affa"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-neoforge-5.19.5-beta.24+mc1.21.4.e82f.jar"
-hash = "eaaaf5cbbb94c39a515cdfa954c027c5d95d667b41703f29169da68c9df7acfb"
+file = "mods/modernfix-neoforge-5.19.5-beta.28+mc1.21.4.4691.jar"
+hash = "ff621412c5db2cc3b01f16489fa2dd29974918f845602544939e989e2c009382"
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "b144667418689c211bcbb145f8b333c90e7484506c27d94025d1156b8b97bf46"
+hash = "d7235bc47ae781b06b8c7ab4c7bc22128fdf0b955df82223d335128f6c7ce679"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c4892bbae1d8207802e32de135a3763b6f77a523974d0215e39232028ae59bfe"
+hash = "4929fbfc1d3401e4448ebd7a42afb604f2ba26f1d0f30687d8ddf05d7cbbabc3"
 metafile = true
 
 [[files]]

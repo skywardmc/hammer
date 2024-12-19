@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "8040e3d012dbb8101ae707819d906aaa7d056def5a8e3e84bce3b0c20e180c3f"
+hash = "b6e89f791fddbc32b99dc5652679dbe3b26664150cfe958868ee3cfa4fe96834"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b37075ef898852ae2c28b36b31059f56483c93075ab3054086748339cca99994"
+hash = "3cca4d7afdd112b7875c09e3e5f95f7b705fdb2434247f68df33b68dfb95e531"
 metafile = true
 
 [[files]]

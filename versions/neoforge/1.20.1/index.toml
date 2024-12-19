@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
+hash = "e6c184b3eab95901a7a54dcec7a30a197538d5f580febceb1a1b461b16a75dc1"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d7d6db6ce3af491ed1710fe54a8397d82ac0364b0eb2046c28d735e2b48d6ded"
+hash = "e3501be82bd8d13cef6e7c333b076dd5cbb39c795f0618c029bb2b957282bdea"
 metafile = true
 
 [[files]]

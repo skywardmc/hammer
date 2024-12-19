@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ffb6e52da0388397fb740637de9aaf4c73e1c7bb82d4a495baebad0a6d37037d"
+hash = "dd7736206f0c6340a02d517d23922787bfb32ff359ba9822ffb416b49ceb5380"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "52359bfa2f733d288c6bb97cfcb5a98be6f30cf7bf728dc69b06b86e051cf4c8"
+hash = "132f31067788a81ac0da429f804ef0ccb96d03218175f564bc8ec1d6225994a8"
 metafile = true
 
 [[files]]
