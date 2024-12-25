@@ -59,8 +59,6 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 For a few frequently asked questions, please visit the [wiki](https://github.com/skywardmc/hammer/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
 
 ## 🍉 Sponsor
-Need a fast, reliable Minecraft server? Use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
+Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my client/server performance pack [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
-
-> *This description was copied from the [Modrinth page](https://modrinth.com/modpack/hammer). It may not be formatted correctly.*
