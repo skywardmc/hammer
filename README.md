@@ -20,6 +20,7 @@
 
 Hammer is a simple **performance modpack** for (Neo)Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
 
+Want to use a simple (Neo)Forge OptiFine alternative modpack? Use [Drill](https://modrinth.com/modpack/drill), the modpack based on Additive.
 ## 📥 Installation guide
 
 Please follow [this tutorial](https://github.com/skywardmc/Hammer/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/skywardmc/Hammer/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
@@ -33,8 +34,6 @@ Need improved performance? Use the better version of this pack, [Adrenaline](htt
 ## ◽ Keeping it simple
 
 Hammer is created with the sole purpose of optimizing the game's performance, not to add any extra features. This means that you have full control over what features you want to add when setting up your instance, ensuring that only the necessary mods are installed and running, resulting in a very smooth and optimized experience without any unnecessary distractions.
-
-I do have a modpack called [Drill](https://modrinth.com/modpack/drill) that is based on [Additive](https://modrinth.com/modpack/additive), designed to be an source-available alternative to OptiFine for NeoForge. Feel free to check it out!
 
 ## ✅ Compatibility
 
