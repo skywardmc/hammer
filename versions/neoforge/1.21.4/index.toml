@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4929fbfc1d3401e4448ebd7a42afb604f2ba26f1d0f30687d8ddf05d7cbbabc3"
+hash = "c6bf9caaa9a0b15b2f5f73e99b6f4625dd261b40edd061d0ec9f4f0d6df76f50"
 metafile = true
 
 [[files]]
