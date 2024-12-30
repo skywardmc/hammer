@@ -1,28 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/badoptimizations.txt"
+file = "configureddefaults/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
 [[files]]
-file = "config/dynamic_fps.json"
+file = "configureddefaults/config/dynamic_fps.json"
 hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
-file = "config/entityculling.json"
+file = "configureddefaults/config/entityculling.json"
 hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
+file = "configureddefaults/config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
-file = "config/immediatelyfast.json"
+file = "configureddefaults/config/immediatelyfast.json"
 hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
+file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -77,7 +81,3 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "132f31067788a81ac0da429f804ef0ccb96d03218175f564bc8ec1d6225994a8"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
