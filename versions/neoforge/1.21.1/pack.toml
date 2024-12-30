@@ -1,6 +1,6 @@
 name = "Hammer"
 author = "WaffleIBOT"
-version = "1.13.3+1.21.1.neoforge"
+version = "1.13.4+1.21.1.neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "48f11474fd38dc234f8b915702643232c499eaeeff93fd9c5678725e944387ff"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.90"
+neoforge = "21.1.92"
 
 [options]
 acceptable-game-versions = ["1.21"]
