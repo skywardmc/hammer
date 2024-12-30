@@ -1,0 +1,13 @@
+name = "ModernFix"
+filename = "modernfix-neoforge-5.20.1+mc1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/vOIDbZlt/modernfix-neoforge-5.20.1%2Bmc1.21.4.jar"
+hash-format = "sha1"
+hash = "1631979afed8353c71069f79278977ab44640b72"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "vOIDbZlt"

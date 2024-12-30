@@ -60,8 +60,9 @@ hash = "226363c98282c10cf9a830c26407aec90aa8b5212374a7b7b476e98b2f92affa"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-neoforge-5.19.5-beta.28+mc1.21.4.4691.jar"
-hash = "ff621412c5db2cc3b01f16489fa2dd29974918f845602544939e989e2c009382"
+file = "mods/modernfix.pw.toml"
+hash = "3fdba6709ae25da89b02f330ceb80418f4208b88ad135d6ec22f1811bb365be3"
+metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"

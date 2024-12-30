@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
-hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
+hash = "998f558afcc8ab67ae54cec69b112d18dd2ada23d821cc6640d5061cb85798ce"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e3501be82bd8d13cef6e7c333b076dd5cbb39c795f0618c029bb2b957282bdea"
+hash = "db076e3f15ef19f439e2101dfec27b216f4c904f657ac517cb5bc9a8c1b774aa"
 metafile = true
 
 [[files]]

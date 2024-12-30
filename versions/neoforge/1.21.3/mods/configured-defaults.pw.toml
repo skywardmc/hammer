@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.3.2-1.21.3-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/Opx7npUD/ConfiguredDefaults-v21.3.2-1.21.3-NeoForge.jar"
+hash-format = "sha1"
+hash = "2a77623e72f9c577d1c6e8a5c656c0b0430074fe"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "Opx7npUD"
