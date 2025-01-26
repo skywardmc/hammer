@@ -1,13 +1,13 @@
 name = "Configured Defaults"
-filename = "ConfiguredDefaults-v21.3.2-1.21.3-NeoForge.jar"
+filename = "ConfiguredDefaults-v21.3.3-1.21.3-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SISoSFPP/versions/Opx7npUD/ConfiguredDefaults-v21.3.2-1.21.3-NeoForge.jar"
-hash-format = "sha1"
-hash = "2a77623e72f9c577d1c6e8a5c656c0b0430074fe"
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/CPzink4Z/ConfiguredDefaults-v21.3.3-1.21.3-NeoForge.jar"
+hash-format = "sha512"
+hash = "1e2cf4fd50fd7c72beb9ed37062f7be148cd2ffd8ac689443e6904307efd4446971cd982ba70d94078ed594cec23ed136335f6720818d5496150154e017fe592"
 
 [update]
 [update.modrinth]
 mod-id = "SISoSFPP"
-version = "Opx7npUD"
+version = "CPzink4Z"

@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
-hash = "fa676a673edfc52234754ddcf0d87ae14e93184ec871060f2a04fd3d008592ac"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "9383c4614e27b70acef0607934e693aa8d523a5c7b82725980aa4238af435ce5"
+hash = "e938fccd95772c9c540587d4e9c1a4cd41a7f356d692b57ac884f11296333f16"
 metafile = true
 
 [[files]]
@@ -96,22 +96,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3d0ea2b9c47dab31e5231cb17b33cd4716706c18521bb1c81cd40ea5dbbeed73"
+hash = "682e83efe5ebc5db45f4f74afa47b0f5f82a3ffc38b5c548332c7bad291bbaa0"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b121234a9b07b1670e1593d1fa8cea20eea04b87d8e34ac9b6234f09d0aaff3c"
+hash = "1348d9c5ff54859303da087b90b01535e586aeeb2999b3d81ef7e9ff1af68833"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "38083e572891e36f567d826be04c0e4c5dbcb20d7119857895896ff7ecd85aa7"
+hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]

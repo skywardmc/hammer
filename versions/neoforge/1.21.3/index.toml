@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
-hash = "827dece2c0094583b948b56332a7f89feee74199d7e2a843a89588ac012ff532"
+hash = "6a52e1db47320bd9509809f48d99c24adbdf8bdfd2a3aee9314b68a26c6a7a38"
 metafile = true
 
 [[files]]
@@ -60,12 +60,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "271ade76fb81562d4f89d24b4e147aacb70d4b78d466184275c206e47a2a7f0f"
+hash = "5e2c331b48c43ff49b18d692c3b4ecd2521405b0f1691cb70dc8f21754a0c579"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8e2257045c61d60b18c7d7645e19e6601e8a3127fb50e1e58168b3dfcd51c0e4"
+hash = "ec6f7551c77f401593c96a13c3431b8cc05496e04858e082e9d53295f0abfe1d"
 metafile = true
 
 [[files]]

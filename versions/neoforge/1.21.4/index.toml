@@ -51,22 +51,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "183ff27af162fbaa7fd2924aa6dc88f0a02ca0fd81faea2b8304cec4ceaf462e"
+hash = "28ab2250ca07b9e7aa0b18c142ae22a5a3ad06105fba5d55b32cd47dd413e777"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "226363c98282c10cf9a830c26407aec90aa8b5212374a7b7b476e98b2f92affa"
+hash = "0f5fa61ce99cb09c07483d73e6cb56112ef0f19ed32b06ed7e567e6341f2ff23"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5549408e9b3cb7695fac3e5c03eaa2caab533400bd37b715e13af1dbbbf79fd5"
+hash = "82a67e5cd2e0523be15155055caf9d31213b949e6fedcfb0470f847dd2211a5c"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "f916e0aeb4989a8fec48a9552bf2e7092db83db99285b5b1bd61145eb92dd3e5"
+hash = "1413a7ad6f56cfaa8252df2e17f43f31be484e5300763cdaf77b2042147db3bc"
 metafile = true
 
 [[files]]
