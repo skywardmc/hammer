@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/2Jm6cdbX/fabric-api-0.92.2%2B1.11.9%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "c3e2030ca7652d3cb05c688c0cb37cccffb93363"
+hash-format = "sha512"
+hash = "c946edeb9d245f6f1a6c59948fec66075f06198c77a79b01e2c6f653c02e57ec3debb4c10614226bae6f4f117cc9036a903389e70b8f8ce3b5d67b25b164a839"
 
 [update]
 [update.modrinth]

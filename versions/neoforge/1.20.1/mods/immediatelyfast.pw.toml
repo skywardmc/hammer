@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/abfWjwdT/ImmediatelyFast-Forge-1.3.3%2B1.20.4.jar"
-hash-format = "sha1"
-hash = "f3a9a180b6cb062bc6604fe2ec27e11b38c990e5"
+hash-format = "sha512"
+hash = "4f64d2eb6780ac31d3e9865922e37844494ea96416aea71f7e3a87b57b1eb97e44d7f11f30d6fef8603de99c6250a34a8f7c44e499ab62c8f961006224b16411"
 
 [update]
 [update.modrinth]

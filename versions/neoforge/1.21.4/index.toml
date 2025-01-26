@@ -26,32 +26,32 @@ hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ac50a02f87ff58b347da93f35b525631cc9cb600f99127c1c8c3a9629715feef"
+hash = "fa3b6c0f8500a3afa447e655d2227e613c128b4f0d04e32bcfb7d9795f42cf8a"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8b8edef314e8b9a2958177559f4517233d95e6fa1085c071bb37308f88893a51"
+hash = "1b7ca699b2817d877308d1e085ebb0eb6ccc38bb9f62b79babc5336694978132"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8c2b6a399172ad70e7008e1f25b5c0c72cb2c567fcb34db7978c4df17d976e3f"
+hash = "da509ee6d33a230ac8ffff6fad82b3403c886dc453658f38b315c84c2c0f26bc"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "27ccde7f0ed9f901c70865aeb392ccbca5fdb94da7c92e23503e7a6eba8c5988"
+hash = "5f72929e199055246e81575af79b4836500c3e374bccb3711ed49cbf1ae27e61"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7f66c57fe989fcf83506a055ffb98988f4ccceb4522dd5120b1304e69026439e"
+hash = "183ff27af162fbaa7fd2924aa6dc88f0a02ca0fd81faea2b8304cec4ceaf462e"
 metafile = true
 
 [[files]]
@@ -61,17 +61,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3fdba6709ae25da89b02f330ceb80418f4208b88ad135d6ec22f1811bb365be3"
+hash = "5549408e9b3cb7695fac3e5c03eaa2caab533400bd37b715e13af1dbbbf79fd5"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d7235bc47ae781b06b8c7ab4c7bc22128fdf0b955df82223d335128f6c7ce679"
+hash = "f916e0aeb4989a8fec48a9552bf2e7092db83db99285b5b1bd61145eb92dd3e5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c6bf9caaa9a0b15b2f5f73e99b6f4625dd261b40edd061d0ec9f4f0d6df76f50"
+hash = "e2a2937eda21d28930f2b4ca6d7d4ba944878383074b7b59685b0a6d3bb2234d"
 metafile = true
 
 [[files]]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9s6osm5g/versions/h06GalE6/cloth-config-16.0.143-neoforge.jar"
-hash-format = "sha1"
-hash = "7dc3c746270310e2328646d9a8bc95a1adfe50a5"
+hash-format = "sha512"
+hash = "2449d512c35f3d182875f020e806bcc9a73b593509433d1a3b485bbb1c8ca77cebfbddec4ec5fdb7f48238803809161d7f618857ac850c99b49e232368c4c06d"
 
 [update]
 [update.modrinth]

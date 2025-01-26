@@ -30,12 +30,12 @@ hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "dd7736206f0c6340a02d517d23922787bfb32ff359ba9822ffb416b49ceb5380"
+hash = "ad9d95f807fcc357ee393ea3ab63f1e8c73a96ab40ce8c7d969442531edce1d0"
 metafile = true
 
 [[files]]
@@ -45,22 +45,22 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8b8edef314e8b9a2958177559f4517233d95e6fa1085c071bb37308f88893a51"
+hash = "1b7ca699b2817d877308d1e085ebb0eb6ccc38bb9f62b79babc5336694978132"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "79a704596f4b5ed08b0f4399001820eda7226ef599e73642b93a7ede89027252"
+hash = "689137b675dd119c228930d0d3eb1a95666d01a3eaeb44eab7419e2b4052e6dd"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "27ccde7f0ed9f901c70865aeb392ccbca5fdb94da7c92e23503e7a6eba8c5988"
+hash = "5f72929e199055246e81575af79b4836500c3e374bccb3711ed49cbf1ae27e61"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "856df30c5ef2163160ef44a00afc90b0da2f086c11920e701ef951c12822e777"
+hash = "271ade76fb81562d4f89d24b4e147aacb70d4b78d466184275c206e47a2a7f0f"
 metafile = true
 
 [[files]]
@@ -79,5 +79,5 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "132f31067788a81ac0da429f804ef0ccb96d03218175f564bc8ec1d6225994a8"
+hash = "c7a2be75c9b95c5a188905284d1d508b5894e975aa5d47700b66ed812cd85686"
 metafile = true

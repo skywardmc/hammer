@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/5JoGTWve/noisium-neoforge-2.5.0%2Bmc1.21.4.jar"
-hash-format = "sha1"
-hash = "2addd16c4f9633b194afa4f11b25a130c6748054"
+hash-format = "sha512"
+hash = "c54ebd29b21936b660ac32a2fbe174e6f3c7ea855054de016581754ae5afd968ecd67bd49fd23b70ce84b38e28b1ed82fc32d292712769e47be48684254f62ba"
 
 [update]
 [update.modrinth]

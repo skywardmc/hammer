@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nmDcB62a/versions/vOIDbZlt/modernfix-neoforge-5.20.1%2Bmc1.21.4.jar"
-hash-format = "sha1"
-hash = "1631979afed8353c71069f79278977ab44640b72"
+hash-format = "sha512"
+hash = "02f22746826566a5662baded6bdb8ed856edba35b63d6bd9ff2ab7c981d9f4479fa1ac0aebb817313a2f1ceb4fc666d7acf173fc854dca09b62e9d686d17a0d0"
 
 [update]
 [update.modrinth]
