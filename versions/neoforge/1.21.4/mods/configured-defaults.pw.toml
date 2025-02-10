@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.4.0-1.21.4-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/mAuWsrDx/ConfiguredDefaults-v21.4.0-1.21.4-NeoForge.jar"
+hash-format = "sha512"
+hash = "c503b09c58828a2b31da8eef8187c1a82518ccf567521a62fd7be76f5919560acf775d0e627795637b9a9da320e3d6155b61d594a72bd971ed52d2367fc70e63"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "mAuWsrDx"
