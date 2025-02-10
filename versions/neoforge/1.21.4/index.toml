@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "5f72929e199055246e81575af79b4836500c3e374bccb3711ed49cbf1ae27e61"
+hash = "424818d3c9640910f81316fc8e8ece6804c2b21932d57d23c68f12320405b109"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "82a67e5cd2e0523be15155055caf9d31213b949e6fedcfb0470f847dd2211a5c"
+hash = "f267121c7a18c0fa1631a308e678588f5c0802682246635072fc2868dc140411"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e2a2937eda21d28930f2b4ca6d7d4ba944878383074b7b59685b0a6d3bb2234d"
+hash = "7f578d7f87791d11df097317171899ed0153c69cedd32ca8b1e9d9979f2875dc"
 metafile = true
 
 [[files]]
