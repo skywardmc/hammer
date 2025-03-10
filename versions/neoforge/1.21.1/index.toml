@@ -26,7 +26,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "configureddefaults/config/immediatelyfast.json"
-hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
+hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
@@ -91,12 +91,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "337eaef4f0cb6806463510c64a2de777a8a6c396d9855a26231d6a111caa05a2"
+hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
+hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
 metafile = true
 
 [[files]]
