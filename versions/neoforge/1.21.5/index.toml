@@ -1,0 +1,74 @@
+hash-format = "sha256"
+
+[[files]]
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "configureddefaults/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "configureddefaults/config/immediatelyfast.json"
+hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
+
+[[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c3960a9aea11d9c0d8d5a683e79a0ddb5db0911104379f419b9a45162a30e820"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "0163f16a0c7eb29a479782fe19f2cc9a05e908327151bc01bd2505263dd44b07"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "22152c4b47b83f4f76fd80b765a548a5f4b99b0b5a772e168a93f37b9341ea89"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "766b6ecc10c69cd779fd3300c6df66f9abcd766b5a438a92be4cb0b43a624022"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c63d74160e337597c5c5cd8b33146c7fbbe1763dc84277700cd016f7d1b51590"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a2ed0485aac733b06bbbea9ffe244955ed8cc16094c1c06a4c4f803f3d2a1546"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2b6d6dd18816176024a92d5793b12ce3a62cd0c4b0cf31fc92bb59058444a303"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e8c6a0ba7e512020ee5461dfefbb1d6b15c2dd336e4084bbdb5b7facb65b923a"
+metafile = true
