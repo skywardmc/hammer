@@ -45,12 +45,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "98b53c59696c818a15db72ca552a6f0968a45b181f457200d941fcefc627f335"
+hash = "c85c5792c72f95875578bb757164b78285e2dc7a92888b5e0878ccf9f32887aa"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4233b0121676c147983f77ee7edfab693ea4f26c1551e812df8de69594f3f939"
+hash = "895804bb4f92ae98e51ad5f04978524f6a5a8b4f371cc20156d78117b1bb9bef"
 metafile = true
 
 [[files]]
@@ -60,12 +60,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5a7d2f79662f79748a934a798db826ed41ee023695f0f2a14447a4a5bd8f49dc"
+hash = "2675fe7c20ddc8256b9fef587c0bd91d4e17d99e2e26e57558e560da3f1b8a77"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "22ebf1f1ef9694e93cad519038df4871a13075bfb8abb1f1d33983078e5a08b5"
+hash = "0a88bc70b17649007edf803e4cb762d387f37b2c9db7626ad0b51387b60104e9"
 metafile = true
 
 [[files]]
@@ -80,5 +80,5 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a16fd2a62ff08fe7a8d6b3669c33d48911036bee5699c20bc96cf52682b8cd5d"
+hash = "15eab2a8f26b97afd4ce8d9c64eafe540f9dd649f083b45d40a9285de1d53dc2"
 metafile = true
