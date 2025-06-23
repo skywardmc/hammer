@@ -1,0 +1,70 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a771d1143eaa0370fe7f5bd27c525d846ee341183e11175ae7295e724ba0a4bf"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "29e652ce09d216ab818e45a63d043483a323ebdc2bbb37f6025e9c3162844a09"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "821f4965becdcaec7877487696928d2451266dc099f334d8b6a2758c027236b4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c63d74160e337597c5c5cd8b33146c7fbbe1763dc84277700cd016f7d1b51590"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0585131b1fb422f62cac377b70969c20767cc0ceb586931846520e15da633ce1"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7ca68ae33f6d1ec81726ebdda4cc52f1f2c16b6518c6fedb734de64e24f8610d"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "ae01096697bd442dd7433238190677f0062d418981cb8f7a48a993d41dda2667"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6e25bba92c384d905a10966ea133c97a3c39ac7702e2a792830fafee44356d71"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
