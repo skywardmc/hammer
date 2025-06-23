@@ -46,7 +46,7 @@ hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
+hash = "37a218f4aa85b545cc95b0a5c16d2da12c093c8a1a5a3bad60be72a4bf86a01a"
 metafile = true
 
 [[files]]
@@ -66,12 +66,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "cd9c8153bf903c0f86cfa8e91d8fe3d715ce717ca21b02f2e09253910ca2fe0b"
+hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5c58b5f90359fa2516855ddea5406998e7671889b4c89c46fec1f142e79357a3"
+hash = "24a7bd108a54ab9a536c49395930f8f4ef856ab8c61a55f9cdade5fe39dc6bae"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
+hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
+hash = "cac351a2081dc73e6922ea757c1515e4b5d93c40c7a060278975b0de0b5863b8"
 metafile = true
 
 [[files]]
