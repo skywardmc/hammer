@@ -30,7 +30,7 @@ hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
@@ -45,12 +45,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c85c5792c72f95875578bb757164b78285e2dc7a92888b5e0878ccf9f32887aa"
+hash = "0e69839c99bea2457f07e3a2c52125b38e42ee7418f3f3287bde06def5ddc5b9"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "895804bb4f92ae98e51ad5f04978524f6a5a8b4f371cc20156d78117b1bb9bef"
+hash = "64ae9a8d05b7df018f161acd16939bf33aca2bbf723c890f7956eaf3e41d0a83"
 metafile = true
 
 [[files]]
