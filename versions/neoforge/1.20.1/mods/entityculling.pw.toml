@@ -1,13 +1,13 @@
 name = "Entity Culling"
-filename = "entityculling-forge-1.7.4-mc1.20.1.jar"
+filename = "entityculling-forge-1.8.0-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/kMC7OLoZ/entityculling-forge-1.7.4-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/DQD98FEX/entityculling-forge-1.8.0-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "b9d36a1320dbe41deec4b19b292b6936c3b9f699621beb148330e7dd8b4d63e9107967a6bcd658d89db69e953d8690c33ce686dc17f37862be7e53f200f987c0"
+hash = "af9ba81d12b1f3f425203cabecbd0409686cedc7b4491e751e09b32732a971adfaeca0f8e81671d2055621cdcd6160481f2c7268a38280fd80626a4ffa61fb68"
 
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"
-version = "kMC7OLoZ"
+version = "DQD98FEX"
