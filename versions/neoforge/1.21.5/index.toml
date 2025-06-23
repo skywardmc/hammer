@@ -21,16 +21,12 @@ file = "configureddefaults/config/immediatelyfast.json"
 hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
 
 [[files]]
-file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
-
-[[files]]
 file = "configureddefaults/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
@@ -45,12 +41,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "22152c4b47b83f4f76fd80b765a548a5f4b99b0b5a772e168a93f37b9341ea89"
+hash = "392d7127e55b2a4d45071cedcd5c9eb07f446eb1e69ba5ae96bc604a9b09e50f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "766b6ecc10c69cd779fd3300c6df66f9abcd766b5a438a92be4cb0b43a624022"
+hash = "a4f05e80119466c99c9be82de7d299b5840e9dedc5dc6f280f872ba868ccb1f2"
 metafile = true
 
 [[files]]
@@ -60,12 +56,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a2ed0485aac733b06bbbea9ffe244955ed8cc16094c1c06a4c4f803f3d2a1546"
+hash = "ded2249789352333403a89b2e398fc266f703d5cd7031ec7808294de70bf1778"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2b6d6dd18816176024a92d5793b12ce3a62cd0c4b0cf31fc92bb59058444a303"
+hash = "78f939c48d5c9acfdd77c3eee0ac6cca9ed3d25713e8cd08e2ddf74c4e6d8585"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "ae01096697bd442dd7433238190677f0062d418981cb8f7a48a993d41dda2667"
 metafile = true
 
 [[files]]
