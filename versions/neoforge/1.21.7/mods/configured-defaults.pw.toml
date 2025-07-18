@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.7.0-1.21.7-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/bVOEdXZ2/ConfiguredDefaults-v21.7.0-1.21.7-NeoForge.jar"
+hash-format = "sha512"
+hash = "0b336abfc1c36c691b0260693265673fd7bf418fa98a4292e6c21c554791463fc7dbb75cea8374be0d92d52b9de95f06ce5e980ad8a220c04c5d1aa37ffe86af"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "bVOEdXZ2"
