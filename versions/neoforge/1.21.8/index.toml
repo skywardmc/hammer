@@ -1,0 +1,78 @@
+hash-format = "sha256"
+
+[[files]]
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "configureddefaults/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "configureddefaults/config/immediatelyfast.json"
+hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
+
+[[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "f8be9498738d7bf73fdbc925e84c0adbca049568cab6f6fba923239e4f071a95"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a771d1143eaa0370fe7f5bd27c525d846ee341183e11175ae7295e724ba0a4bf"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "8401023347c26a5286c1e17465bea1038f485256123d55bb2fe9475c1a79f327"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "210a32d4bc0650548a7e41ba0c28a5a76687502184ec2f2cc77ca0f1615f94be"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7cb7f16ab57552f70bc568b1a5f72459acc2ca367e26c4b8e270d3446f4f77d6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c63d74160e337597c5c5cd8b33146c7fbbe1763dc84277700cd016f7d1b51590"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "2ded2267273f12e24edf30fa9a3eedc21c128a5794278a732f173aac9ddbbe4e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "911f53b283733884fdd6e046c365885d6e3f36edf4d38a06eea84fced393120c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-neoforge-5.20.4-beta.51+mc1.21.7.a724.jar"
+hash = "e331b336c612c2fe4322428a1aa116a7120fe7ffaf31835a987df3f4a2746afb"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6e25bba92c384d905a10966ea133c97a3c39ac7702e2a792830fafee44356d71"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.8.0-1.21.8-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/natMQQfs/ConfiguredDefaults-v21.8.0-1.21.8-NeoForge.jar"
+hash-format = "sha512"
+hash = "5e7015e9fc6b6076f9c61088fe0b655c8f4e6f05953bc06e0ef7387a4e68f460c8da6791dc44d2d4bb023ff60c79ccb085c22791aca75d97ddbc601d8507e990"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "natMQQfs"
