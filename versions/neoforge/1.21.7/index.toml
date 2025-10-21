@@ -22,7 +22,7 @@ hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "f8be9498738d7bf73fdbc925e84c0adbca049568cab6f6fba923239e4f071a95"
+hash = "80a835205f4a851dbecde334a4f43fefb9d80685f97ee75cd7ea28210afee1e1"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -30,7 +30,7 @@ hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
+hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8d20f2132c0889cf5b554930d3c94f5712cc411400081690946a03b8fcc20ea2"
+hash = "411d7b70986722b65282fee3aaae6b5e0b35b614323c2a8a4084a2ab506c4784"
 metafile = true
 
 [[files]]
@@ -74,5 +74,5 @@ hash = "e331b336c612c2fe4322428a1aa116a7120fe7ffaf31835a987df3f4a2746afb"
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6e25bba92c384d905a10966ea133c97a3c39ac7702e2a792830fafee44356d71"
+hash = "c4ab840ad3081d588efeb1fc60e62c1ead5e62af31be743de0b84dce9b843180"
 metafile = true
