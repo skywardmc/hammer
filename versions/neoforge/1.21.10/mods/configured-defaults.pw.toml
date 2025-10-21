@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.10.0+mc1.21.10-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/GpuW9yDQ/ConfiguredDefaults-v21.10.0%2Bmc1.21.10-NeoForge.jar"
+hash-format = "sha512"
+hash = "e4f228c5ff71c1a5b81645095096e9f6ebf35e4a9d8ae5ec2fcc53266350f2de1d65c025cc4f2c3cc6d3adc50c55f118a071260584a0db076183bfef2985c7f3"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "GpuW9yDQ"

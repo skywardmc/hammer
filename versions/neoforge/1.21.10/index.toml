@@ -1,0 +1,65 @@
+hash-format = "sha256"
+
+[[files]]
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+
+[[files]]
+file = "configureddefaults/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "configureddefaults/config/immediatelyfast.json"
+hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "ae86765993c59b09e06f972045b8f780e06c504f5210c0991a3b27b95dfacc80"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3b337bae241e88eaade92926d49f4856d01cd7cef5568340a6d825ca4312322c"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "9ca39205c97066290147c2ecb61ad879ce212fd8d52823407aae877d1d14b124"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "803d8356755759d755384750c87d059180a7c88546b1bb54dd1c14e26004c854"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b2f6c965867e7104254eea7ad0f16ad9a969580a1155d81d8d5c73449e849969"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "bb019f14edf3ca023e506b8b5b3706ad622f87c4cfeb850a6c5f0a23c42dce56"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1b726648d074a432f567aeedca336f8b3a287dc07ffac0b20cd3a0f8810732fb"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2a43cce7b1522239a1e297e9f10fea062cb48288dd66ef6a4a89a91e8ae2b40c"
+metafile = true
