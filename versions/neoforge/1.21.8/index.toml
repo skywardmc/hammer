@@ -22,7 +22,7 @@ hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "80a835205f4a851dbecde334a4f43fefb9d80685f97ee75cd7ea28210afee1e1"
+hash = "96ca5ff916c7ee89141f11e957779375ac1eb288dec650fe5f216f1494f83c2a"
 
 [[files]]
 file = "configureddefaults/options.txt"
@@ -69,8 +69,8 @@ hash = "c2d10103909dc13c52e1d067d25422126ed8dbfdb75164336e67e615bf213e88"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-neoforge-5.20.4-beta.51+mc1.21.7.a724.jar"
-hash = "e331b336c612c2fe4322428a1aa116a7120fe7ffaf31835a987df3f4a2746afb"
+file = "mods/modernfix-neoforge-5.20.4-beta.54+mc1.21.8.c05a.jar"
+hash = "a8f163b65bea6853b149f986bdd0f069fe08fa64aaeca7894dbc275fca1fbfaa"
 
 [[files]]
 file = "mods/sodium.pw.toml"
