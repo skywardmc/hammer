@@ -10,7 +10,7 @@ hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
-hash = "f47bc240cb42ff2838ec9f833b25b142f5f85b29caf5958f04df637252013b09"
+hash = "0f7aa9ee2eead7f794a5e4887ad1277d70d328f6150a2c2777362ec87219de9e"
 
 [[files]]
 file = "configureddefaults/config/ferritecore.mixin.properties"
@@ -26,7 +26,7 @@ hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "a2aa577e93491f2231af331570b5c96a384d260d8770bbd8271742567baaf2f7"
+hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
 metafile = true
 
 [[files]]
@@ -41,30 +41,30 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d8bd3de31b1330002c415246248d315fddc8d8733d3d96a9ac712729ca1735fd"
+hash = "6ca112cbaf480fb79b15a6c847cb6f5a571e841135816232f6e91307e0103476"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "38517105ae8c6d81b682f9904c64e5504f9c4b356fef06666a1eb55d106112ed"
+hash = "5cd9cdf565062cd6df5912c8a39c4c2724ec6e05b83bc4327d40f1cdcd291d95"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "bb019f14edf3ca023e506b8b5b3706ad622f87c4cfeb850a6c5f0a23c42dce56"
+hash = "4a487a6fecdf081fc33667611d530b276ed0f2a3ba9458f25fc8f761f957e777"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c9cc0627c2a2e317b33f46a4f7ef0bcc52cc5fd8fe00a2665c2b1573b3bef1ef"
+hash = "8598e1068559277517584eb5e9ff74922e3501b98dc67c283d422b978b32ffc9"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2a43cce7b1522239a1e297e9f10fea062cb48288dd66ef6a4a89a91e8ae2b40c"
+hash = "ec412163a1b43638371783147f891d729c310fabfac1de97df1f47933614ee23"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4ec157e7b7b050768a3ced8a663b6e98b0c2ce0d94fbdae77e4645cd93210668"
+hash = "6d51169189704b9c3c6aa268e998273a63ed94360b95ca4f24c3a08047557693"
 metafile = true
