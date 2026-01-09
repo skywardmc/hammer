@@ -1,0 +1,13 @@
+name = "Cloth Config API"
+filename = "cloth-config-21.11.153-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Wsus0EWg/cloth-config-21.11.153-neoforge.jar"
+hash-format = "sha512"
+hash = "04713c7d5c3e0a8de711b4f54933c2adf72836008e37dd6e65e8c10b4c7a45d28f3ecdf4b3a94dad6c62725cd5135247cafc378ae2711b13440962abf9c61dfe"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "Wsus0EWg"

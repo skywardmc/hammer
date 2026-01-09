@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.11.0-mc1.21.11-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/uAddrjun/ConfiguredDefaults-v21.11.0-mc1.21.11-NeoForge.jar"
+hash-format = "sha512"
+hash = "1cbb61000c6dee3350a9b94d16fd1ca9701d87a87a74cddc9ab848c36e982bbe4c55a37e663f3ab6e7ea8cde4c165a569d1929136285e87e158aab69ecaedb16"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "uAddrjun"
