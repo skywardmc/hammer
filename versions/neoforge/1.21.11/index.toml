@@ -65,6 +65,11 @@ hash = "e612afec52bf64afc5792d2c65a35434a1bc8f3ab985b043a41c0493a00bd532"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "1660e89546cdcb96da40ab0512a273933b120ce9f739993730a72cbfef9cc163"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "527441f56f12bd48d63de82dc5acec0a371fcaf4d2b21ec6975019b4dc79a5d3"
 metafile = true
