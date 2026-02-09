@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "84ec426a6186b5a0d6935d676d10ac746238c9d4be860f2b8ab6f843b0ac56cc"
+hash = "0b72698138ee96fdd09e82a31decf71eea4c63df0092aef5686e84aa18377287"
 metafile = true
 
 [[files]]
@@ -51,17 +51,17 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "d3b873718fd52fbc23823868871a1c2646f9a0e873bd4f0292076c62801119f5"
+hash = "b0d0bf558a2c03d422be25ac0c66b365cdb58cbb247873ff3d68664c9a256369"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6e800080e9bc8efb8f1a94a6e4ed3167a58b3d8f29a4ae7aba8cdde35c08d13e"
+hash = "f7054e5a8bce2ea8003957b78ea3390ce40c02579a8bf40d51fdec90f2d1e88a"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e612afec52bf64afc5792d2c65a35434a1bc8f3ab985b043a41c0493a00bd532"
+hash = "8e861014d3dfac68e70da3f72e5e3d8168ec31f5e7f467757d998497818526fb"
 metafile = true
 
 [[files]]
@@ -71,5 +71,5 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "527441f56f12bd48d63de82dc5acec0a371fcaf4d2b21ec6975019b4dc79a5d3"
+hash = "af3c899651ebfc631aef464bdf3cca27a063d8e490c3caa8d5e20afe9773c8b7"
 metafile = true
