@@ -66,12 +66,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "aa242da373359065cb62d8e1094e2f17b456f3ea300db145896cf6c6aae43101"
+hash = "c2886290bb5b8fbfd2378434ca850141d93f609b39e47fe9b557ef64a869f861"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "782240ff21ef1d197f255029b155e5799ba3e96cea1143df27cdf1a8779f6e84"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
@@ -86,27 +86,27 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "b5d7571bff8454770fcbba30a4c90d8f020e84d626c731f92d46dc9ecea34d85"
+hash = "e7d3ceeeace4ddfb8c2e3912609170e22999824d899167b9f224afd0655fdfb8"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5f1dc2d965a2764f1d9fa02d34932898593de140a4243d83f2e43f4663f2ed7e"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
+hash = "e7544296d2cdd85e43a60cf3e7a8f3e036782e14abc4efeea7f064d980d59dd5"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
+hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
 metafile = true
 
 [[files]]
