@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6ca112cbaf480fb79b15a6c847cb6f5a571e841135816232f6e91307e0103476"
+hash = "806374b330fd4ae1a6d7de16cd66c4132a20fa6d4f2ac23f65e60432937bf537"
 metafile = true
 
 [[files]]
@@ -51,12 +51,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4a487a6fecdf081fc33667611d530b276ed0f2a3ba9458f25fc8f761f957e777"
+hash = "9f69fcdf8fab80b2095dc8c3e89d5cfc7685c812c8bdf424660b10bf660fd1d1"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8598e1068559277517584eb5e9ff74922e3501b98dc67c283d422b978b32ffc9"
+hash = "946e19ce25d9522725c9e123fe24c7755eb33c54d2145dd6eb8161e8aa2ab101"
 metafile = true
 
 [[files]]
