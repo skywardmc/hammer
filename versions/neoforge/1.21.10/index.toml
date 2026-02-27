@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
 file = "configureddefaults/config/dynamic_fps.json"
 hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
@@ -23,11 +19,6 @@ hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
-metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"

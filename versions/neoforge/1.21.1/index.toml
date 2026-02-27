@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
 file = "configureddefaults/config/connector.json"
 hash = "f84a2235b1d6f0fb5b1b096e2d1bf07ace41bfbb08273867d76961667a3cd7b3"
 
@@ -37,17 +33,8 @@ file = "configureddefaults/config/sodium-options.json"
 hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
-file = "configureddefaults/config/threadtweak.json"
-hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
-
-[[files]]
 file = "configureddefaults/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
-metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -122,9 +109,4 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true

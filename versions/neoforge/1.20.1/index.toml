@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
 file = "configureddefaults/config/connector.json"
 hash = "f00ca60d0f6e201b8f0b6fb0c571b98538817d2ea1e341110c53571fa408c0f1"
 
@@ -37,17 +33,8 @@ file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
 
 [[files]]
-file = "configureddefaults/config/threadtweak.json"
-hash = "2189dfffbad0aa5ba4e8323071082826573c70db8291f1ea2d2a3ec5c88e1a32"
-
-[[files]]
 file = "configureddefaults/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
-metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -125,8 +112,6 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "53b00436579bd2ea920ef8ae8b1464cb4744dbfd21055d8a3f4768019b78e5bc"
 metafile = true
 
 [[files]]
