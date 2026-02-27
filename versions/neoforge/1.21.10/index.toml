@@ -46,8 +46,18 @@ hash = "9f69fcdf8fab80b2095dc8c3e89d5cfc7685c812c8bdf424660b10bf660fd1d1"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "2712e6db409cd8fd91eef7c36bcd2bf1d186dffed2c41b859405de7fa98d6c0d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "946e19ce25d9522725c9e123fe24c7755eb33c54d2145dd6eb8161e8aa2ab101"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "2ac56d20581dce819a4373a7fc3a87e9b53587fe5524d7a5b0d2d20c8b6fd711"
 metafile = true
 
 [[files]]
@@ -58,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "cc3791c15a79a8c9f720ac56d203cadfa86e5029ff0c4d1c22f568e90d636459"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "aadfbea60d54f32297f64cbc173d79e83a0cbd5d76101f007111817345faa96d"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "8b643459c173123d42d588f6d3493dad7201908246f0591601ce5e8a7888a754"
 metafile = true
 
 [[files]]
