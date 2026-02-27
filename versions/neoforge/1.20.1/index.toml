@@ -10,7 +10,7 @@ hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
 
 [[files]]
 file = "configureddefaults/config/dynamic_fps.json"
-hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
@@ -30,7 +30,7 @@ hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
+hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
 file = "configureddefaults/options.txt"

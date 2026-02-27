@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "configureddefaults/config/dynamic_fps.json"
-hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
@@ -13,12 +13,12 @@ file = "configureddefaults/config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
-file = "configureddefaults/config/immediatelyfast.json"
-hash = "03779458da1558271cd21fc15671eda0da3cf267059f314e954b2c1c29a8561b"
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "c996b2c6e4e32541dafe0c76b51fd5f6c1f54ba637aab9c0cd5d81cffa6936b8"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
+hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"

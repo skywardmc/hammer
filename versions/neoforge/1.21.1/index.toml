@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/config/connector.json"
-hash = "f84a2235b1d6f0fb5b1b096e2d1bf07ace41bfbb08273867d76961667a3cd7b3"
-
-[[files]]
 file = "configureddefaults/config/dynamic_fps.json"
-hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
@@ -26,7 +22,7 @@ hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "01fccbbb144a4bd999c5127480e587e626cf6552ff390eeec85a7e68aaed1d9f"
+hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
