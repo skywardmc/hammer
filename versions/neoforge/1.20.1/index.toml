@@ -57,6 +57,11 @@ hash = "68a935746aad424891dcb36fa705cdafd652ea1170ecb8144b1db0c87e30297b"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "65249750d5dcfa5d191aa000acc631a99e528d14c7bcee55232c5fff2f7b8078"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "9533bf5a38bb96fe67df246f0c2ac5ce26604c375bfc069487a715e44fabecb9"
 metafile = true

@@ -53,6 +53,11 @@ hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "4041e8467de084fbd33e4c99cd81c3edb064332ab2992a94eab7c6acbff619f5"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
