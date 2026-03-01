@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "7a59815c66ba37c0fc1f5f928bb3614f8fb082c16ed48b38521633b5615579ef"
+hash = "b235719a15a2dec0886fa705146e79a79792c963ff1d818c8a9a16b072bec7b7"
 metafile = true
 
 [[files]]
