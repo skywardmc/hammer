@@ -71,11 +71,6 @@ hash = "cc3791c15a79a8c9f720ac56d203cadfa86e5029ff0c4d1c22f568e90d636459"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "aadfbea60d54f32297f64cbc173d79e83a0cbd5d76101f007111817345faa96d"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "8b643459c173123d42d588f6d3493dad7201908246f0591601ce5e8a7888a754"
 metafile = true
