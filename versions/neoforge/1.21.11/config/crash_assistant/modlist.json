@@ -1,0 +1,103 @@
+{
+  "neoforge-21.11.38-beta (modloader)": {
+    "jarName": "neoforge-21.11.38-beta (modloader)",
+    "modId": "neoforge",
+    "version": "neoforge-21.11.38-beta"
+  },
+  "cloth-config-21.11.153-neoforge.jar": {
+    "jarName": "cloth-config-21.11.153-neoforge.jar",
+    "modId": "cloth_config",
+    "version": "21.11.153",
+    "curseForgeHash": 1970657014,
+    "modrinthHash": "e9cb40c59491f8e4c5a87866f152432dfb17642e"
+  },
+  "ConfiguredDefaults-v21.11.0-mc1.21.11-NeoForge.jar": {
+    "jarName": "ConfiguredDefaults-v21.11.0-mc1.21.11-NeoForge.jar",
+    "modId": "configureddefaults",
+    "version": "21.11.0",
+    "curseForgeHash": 2042715453,
+    "modrinthHash": "341bf4458030c9428c7ca4589484acd0af9055d9"
+  },
+  "CrashAssistant-neoforge-1.21.9-1.21.11-1.10.30.jar": {
+    "jarName": "CrashAssistant-neoforge-1.21.9-1.21.11-1.10.30.jar",
+    "modId": "crash_assistant",
+    "version": "1.10.30",
+    "curseForgeHash": 318760681,
+    "modrinthHash": "fb37fc131b2a1485eda018962ca028bd77c13ca3"
+  },
+  "dynamic-fps-3.11.4+minecraft-1.21.11-neoforge.jar": {
+    "jarName": "dynamic-fps-3.11.4+minecraft-1.21.11-neoforge.jar",
+    "modId": "dynamic_fps",
+    "version": "3.11.4",
+    "curseForgeHash": 2454894822,
+    "modrinthHash": "cf0a4e8189a5f5f9488519f54e9c12dbcb77ea2e"
+  },
+  "entityculling-neoforge-1.9.5-mc1.21.11.jar": {
+    "jarName": "entityculling-neoforge-1.9.5-mc1.21.11.jar",
+    "modId": "entityculling",
+    "version": "1.9.5",
+    "curseForgeHash": 753837978,
+    "modrinthHash": "ced1c873d7085548cac428c60d86e998ed4fbe30"
+  },
+  "ferritecore-8.2.0-neoforge.jar": {
+    "jarName": "ferritecore-8.2.0-neoforge.jar",
+    "modId": "ferritecore",
+    "version": "8.2.0",
+    "curseForgeHash": 718278963,
+    "modrinthHash": "900f0f673fef88784711ee952cbf1fe8be2480bd"
+  },
+  "fzzy_config-0.7.6+1.21.11+neoforge.jar": {
+    "jarName": "fzzy_config-0.7.6+1.21.11+neoforge.jar",
+    "modId": "fzzy_config",
+    "version": "0.7.6+1.21.11+neoforge",
+    "curseForgeHash": 1735368667,
+    "modrinthHash": "09a75d4322daaf12c3e5e7d77f6eeceb62abb671"
+  },
+  "ImmediatelyFast-NeoForge-1.14.2+1.21.11.jar": {
+    "jarName": "ImmediatelyFast-NeoForge-1.14.2+1.21.11.jar",
+    "modId": "immediatelyfast",
+    "version": "1.14.2+1.21.11",
+    "curseForgeHash": 244933104,
+    "modrinthHash": "338e7ebdd4ad6ca3001a7c9aaeea03006594d149"
+  },
+  "kotlinforforge-6.1.0-all.jar": {
+    "jarName": "kotlinforforge-6.1.0-all.jar",
+    "curseForgeHash": 2861008455,
+    "modrinthHash": "ca2513595abb417c60b292a0ff7292f32f030fa4"
+  },
+  "lithium-neoforge-0.21.3+mc1.21.11.jar": {
+    "jarName": "lithium-neoforge-0.21.3+mc1.21.11.jar",
+    "modId": "lithium",
+    "version": "0.21.3+mc1.21.11",
+    "curseForgeHash": 3038337275,
+    "modrinthHash": "ee1aa91dbc7db860579082d6ca5bfd8efade1bda"
+  },
+  "modernfix-neoforge-5.21.0.jar": {
+    "jarName": "modernfix-neoforge-5.21.0.jar",
+    "modId": "modernfix",
+    "version": "5.21.0",
+    "curseForgeHash": 2888855920,
+    "modrinthHash": "b8756f317cd1ff36fdf7aeb7df19fda031f15817"
+  },
+  "particle_core-0.3.2+1.21.11+neoforge.jar": {
+    "jarName": "particle_core-0.3.2+1.21.11+neoforge.jar",
+    "modId": "particle_core",
+    "version": "0.3.2+1.21.11+neoforge",
+    "curseForgeHash": 990799068,
+    "modrinthHash": "844ea8bea5d173aaa006403067ddc1ff80aa1cd5"
+  },
+  "servercore-neoforge-1.5.15+1.21.11.jar": {
+    "jarName": "servercore-neoforge-1.5.15+1.21.11.jar",
+    "modId": "servercore",
+    "version": "1.5.15+1.21.11",
+    "curseForgeHash": 36258058,
+    "modrinthHash": "c3c70a65604d3b38b4f3c3f4ff1cfb5961e20e56"
+  },
+  "sodium-neoforge-0.8.6+mc1.21.11.jar": {
+    "jarName": "sodium-neoforge-0.8.6+mc1.21.11.jar",
+    "modId": "sodium",
+    "version": "0.8.6+mc1.21.11",
+    "curseForgeHash": 904794265,
+    "modrinthHash": "d5e142702e04b8a57715027b538d03082b51d901"
+  }
+}

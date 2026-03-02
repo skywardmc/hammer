@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "e1315e9641ba812eade21816e8b0a83eed30af3a3866d640fc0ad62a2cebb94a"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "ed225c585d56056687e05da753dc40aa18dfcacc99c55f830858d677ad4b0d89"
+
+[[files]]
 file = "configureddefaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
