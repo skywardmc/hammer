@@ -126,11 +126,6 @@ hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "2448ee89974f5934aa9114270f3e6666cbe203bffe5be6c2905231bb5dc1af81"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "cc71ab4296fffdfca0a373adba4c7721ccad228f305fda8566507063de65e40e"
 metafile = true
@@ -148,4 +143,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "c5b66cb75b425a4cc58a3a143100fd88e1d670d76362f603dbd883d244de5934"
 metafile = true
