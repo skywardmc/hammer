@@ -111,6 +111,11 @@ hash = "4827e5588f4f3478605956696bc890c2cf1ac92f44108873aa27f33adefcfb4f"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "addc38f9d22675fa395fd52aa3ec745f8604ea1f9ab52c1e7cc39444a82ac24e"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
