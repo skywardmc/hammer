@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "2c4f842bb0c785318de406261f90166c464ad3e7cd50aee1dce48780c8c5adda"
+hash = "76270e8c3e05c9ed868969c45e5f3ebc20235bf21dfa1c9b0541e0a4ca339c7a"
 metafile = true
 
 [[files]]
@@ -70,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "2ac56d20581dce819a4373a7fc3a87e9b53587fe5524d7a5b0d2d20c8b6fd711"
+hash = "0d94f48609d924115e9ef7b05839b085dec0390cb00809fe60cbb0058ce067d8"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8e861014d3dfac68e70da3f72e5e3d8168ec31f5e7f467757d998497818526fb"
+hash = "b6df11a3141f245f1d048cf8a20c596b3729dca2d97792d61b4d4a2dbd1fa497"
 metafile = true
 
 [[files]]

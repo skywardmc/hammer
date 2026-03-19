@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "4041e8467de084fbd33e4c99cd81c3edb064332ab2992a94eab7c6acbff619f5"
+hash = "2d0219d9740563ddc04b4d5f9f095b3a57bd22fded3b07eabc520bb766c9e050"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e7544296d2cdd85e43a60cf3e7a8f3e036782e14abc4efeea7f064d980d59dd5"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
