@@ -1,27 +1,27 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/config/dynamic_fps.json"
+hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
+
+[[files]]
+file = "config/config/entityculling.json"
+hash = "0f7aa9ee2eead7f794a5e4887ad1277d70d328f6150a2c2777362ec87219de9e"
+
+[[files]]
+file = "config/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/config/modernfix-mixins.properties"
+hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "ee6b8099f178fb84fc55aafe2a3371df3996e3f222ca058c0bc4f0691e8ab526"
 
 [[files]]
-file = "configureddefaults/config/dynamic_fps.json"
-hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
-
-[[files]]
-file = "configureddefaults/config/entityculling.json"
-hash = "0f7aa9ee2eead7f794a5e4887ad1277d70d328f6150a2c2777362ec87219de9e"
-
-[[files]]
-file = "configureddefaults/config/ferritecore.mixin.properties"
-hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
-
-[[files]]
-file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
-
-[[files]]
-file = "configureddefaults/options.txt"
+file = "config/options.txt"
 hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
 [[files]]

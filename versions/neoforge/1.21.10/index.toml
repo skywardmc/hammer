@@ -5,23 +5,23 @@ file = "config/crash_assistant/config.toml"
 hash = "ee6b8099f178fb84fc55aafe2a3371df3996e3f222ca058c0bc4f0691e8ab526"
 
 [[files]]
-file = "configureddefaults/config/dynamic_fps.json"
+file = "config/modpack_assistant/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
-file = "configureddefaults/config/entityculling.json"
+file = "config/modpack_assistant/config/entityculling.json"
 hash = "0f7aa9ee2eead7f794a5e4887ad1277d70d328f6150a2c2777362ec87219de9e"
 
 [[files]]
-file = "configureddefaults/config/ferritecore.mixin.properties"
+file = "config/modpack_assistant/config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
-file = "configureddefaults/config/modernfix-mixins.properties"
+file = "config/modpack_assistant/config/modernfix-mixins.properties"
 hash = "c996b2c6e4e32541dafe0c76b51fd5f6c1f54ba637aab9c0cd5d81cffa6936b8"
 
 [[files]]
-file = "configureddefaults/options.txt"
+file = "config/modpack_assistant/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
