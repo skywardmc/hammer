@@ -1,6 +1,6 @@
 name = "Config Manager"
 filename = "ConfigManager-neoforge-1.21.8-1.21.11-1.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jlNms3Jp/versions/Vsn81b54/ConfigManager-neoforge-1.21.8-1.21.11-1.1.1.jar"
