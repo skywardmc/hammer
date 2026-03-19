@@ -1,0 +1,13 @@
+name = "Config Manager"
+filename = "ConfigManager-neoforge-1.21.8-1.21.11-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jlNms3Jp/versions/Vsn81b54/ConfigManager-neoforge-1.21.8-1.21.11-1.1.1.jar"
+hash-format = "sha512"
+hash = "b1f6a80e186674c254f505a52a5752406cb2f78a0f6cf517ed7351ccf2cad7aee33397d55e263635777bb39b3914c6deae1ddb4d39df340fc186ce407f046867"
+
+[update]
+[update.modrinth]
+mod-id = "jlNms3Jp"
+version = "Vsn81b54"
