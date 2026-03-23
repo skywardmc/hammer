@@ -1,12 +1,12 @@
 name = "Hammer"
 author = "WaffleIBOT"
-version = "1.17.3+1.21.11.neoforge"
+version = "1.17.4+1.21.11.neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fb5aee599a4aa7d635d5805ff73f72ea549a46f369083c57c1ea6726713d8884"
+hash = "9698474791f7c162e0e996f3de95d2d89b35faf9043cd72ec7ff7d18322773cd"
 
 [versions]
 minecraft = "1.21.11"
