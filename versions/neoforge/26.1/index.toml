@@ -1,0 +1,40 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "ee6b8099f178fb84fc55aafe2a3371df3996e3f222ca058c0bc4f0691e8ab526"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
+hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
+
+[[files]]
+file = "config/modpack_defaults/config/entityculling.json"
+hash = "0f7aa9ee2eead7f794a5e4887ad1277d70d328f6150a2c2777362ec87219de9e"
+
+[[files]]
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
+hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/modpack_defaults/config/modernfix-mixins.properties"
+hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+hash = "a6638892123d04b688783e514e260ac7c8d152d65d408fb3d675a8ab1cf9043c"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "3ee27507762353014673ca8c1945a02b8348b8d71a023ceada66cb8d1e0d2991"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
