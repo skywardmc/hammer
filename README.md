@@ -1,63 +1,66 @@
 <div align="center">
-  <a href="https://github.com/skywardmc/Hammer">
-    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/hammer/hammer_textlogo_256h.png" alt="Logo" height="90">
+  <a href="https://github.com/skywardmc/hammer">
+    <img src="https://skywardmc.org/branding/hammer/text-logo.png" alt="Hammer" height="90">
   </a>
   <br />
   <br />
   <p align="center">
-    Lightweight performance layer for (Neo)Forge with no extra features attempting to make Minecraft as fast as possible
+    A lightweight, open-source performance modpack for NeoForge
     <br />
-    <a href="https://github.com/skywardmc/hammer/wiki">Explore the wiki</a>
+    <a href="https://skywardmc.org/hammer">Explore the wiki</a>
     ·
     <a href="https://github.com/skywardmc/hammer/issues">Report Bugs</a>
     ·
     <a href="https://github.com/skywardmc/hammer/issues">Request Features</a>
   </p>
-  <a href="https://modrinth.com/modpack/Hammer"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
-  <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
-  <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
 </div>
 
-Hammer is a simple **performance modpack** for (Neo)Forge that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks and instances or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, just optimization.
+Hammer is a **client-side** modpack, developed for (Neo)Forge, comprised of the **best combination of mods** (e.g. Sodium and Lithium, along with many more) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! 
 
-Want to use a simple (Neo)Forge OptiFine alternative modpack? Use [Drill](https://modrinth.com/modpack/drill), the modpack based on Additive.
-## 📥 Installation guide
+It is designed to be simple and not include any quality-of-life mods, along with not including redundant performance mods. Because of this simplicity, the modpack is compatible with a very wide range of devices and can be updated to the latest versions very quickly. Want more features? No problem! Hammer serves as a great foundation for performance - simply add your favorite mods on top.
 
-Please follow [this tutorial](https://github.com/skywardmc/Hammer/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/skywardmc/Hammer/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
+For the list of mods that are included, see this [wiki page](https://skywardmc.org/hammer/performance-features).
 
-## 🔥 Performance
+![Available for NeoForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/neoforge_vector.svg) [![Chat with us on Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/36Tv44cYte) [![Available on GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg)](https://github.com/skywardmc/hammer)
 
-Hammer can significantly enhance the performance of your game by using various optimization mods and configurations. You can expect faster startup times, quicker world loading, and a very high increase in framerates, with some tests showing a boost of up to ~6-7 times the performance with Hammer compared to not having any mods installed.
+# 📥 Installation Guide
 
-Need improved performance? Use the better version of this pack, [Adrenaline](https://modrinth.com/modpack/adrenaline), built for modern loaders such as Fabric and Quilt with much wider compatibility and higher framerates.
+**Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) section on the wiki before installing Hammer. It contains some important instructions on preventing crashes and other performance issues.**
 
-## ◽ Keeping it simple
+You can install the modpack with a third party launcher or our standalone installer. After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://skywardmc.org/hammer/post-install) section of the wiki. This includes procedures such as increasing your allocated memory and tweaking your game settings for your device.
 
-Hammer is created with the sole purpose of optimizing the game's performance, not to add any extra features. This means that you have full control over what features you want to add when setting up your instance, ensuring that only the necessary mods are installed and running, resulting in a very smooth and optimized experience without any unnecessary distractions.
+After installing the modpack, you can easily add your favorite mods so long as they are compatible with the Minecraft version you are playing on. The wiki also has some recommendations on possibly improving performance further with other mods that are not suitable to be included in Hammer by default.
 
-## ✅ Compatibility
+# ⭐ Features
 
-Hammer is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac.
+### 🚀 Major performance improvement
 
-## 🔄️ Updates quickly
+Hammer aims to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Hammer wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
 
-My goal is to keep Hammer up-to-date with the latest Minecraft releases, providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time and motivation.
+For the list of performance mods that are included, see this [wiki page](https://skywardmc.org/hammer/performance-features).
 
-**➡️ Note:** This does not apply to snapshots most of the time. I do not bother as they can sometimes require lots of maintenance and come out too quickly.
+### 🪶 Lightweight
 
-## ⚙️ How it works
+I only pick the combination of mods that work best with eachother, and don't include performance mods that aren't necessary or often break compatibility with other mods or device hardware.
 
-Hammer utilizes a variety of optimization mods that are designed to work seamlessly together. Many of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective. It's important to note that, compared to some other modpacks, Hammer may be more aggressive in its optimizations and can sometimes result in instability. However, these instances are rare.
+### ⚙️ Source-available
 
-## 🐛 Reporting Issues
+All mods in Hammer are either open-source or source-available, which means you can view the code of mods and see exactly what they are doing. Hammer is also available as [packwiz projects on GitHub](https://github.com/skywardmc/hammer) so that you can easily view what's being changed, contribute if you would like to, or fork the modpack to create your own project. If you would like to view the mods shipped with Hammer, simply look at the dependencies in the Modrinth page or look in the Git repository.
 
-Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/skywardmc/hammer/issues).
+# ✅ Hardware Compatibility
 
-## ❓ Frequently Asked Questions
+For Hardware Compatibility information, see the corresponding section in [Sodium's Modrinth description](https://modrinth.com/mod/sodium#hardware-compatibility).
 
-For a few frequently asked questions, please visit the [wiki](https://github.com/skywardmc/hammer/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
+# 🐛 How to Report Issues
 
-## 🍉 Sponsor
-Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my client/server performance pack [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
+Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/skywardmc/hammer/issues). Be sure to include necessary information like your hardware/software (e.g. GPU and CPU, modpack version and OS) so that it's easier for us to find issues and resolve them.
 
-[![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
+# ❓ Frequently Asked Questions
+
+For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://skywardmc.org/hammer). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
+
+# 🥩 Sponsor
+
+Need a fast, reliable Minecraft server? Feel free to use Hammer’s founder code `devin` for 25% off your first month of any server from Bisect Hosting, supporting him in the process. Click this banner for more information. You can also setup [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
+
+[![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/bddbdb84-1a70-405f-b773-01b20b7eda5e.webp)](https://www.bisecthosting.com/devin)
