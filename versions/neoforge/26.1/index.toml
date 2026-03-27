@@ -25,16 +25,46 @@ file = "config/modpack_defaults/options.txt"
 hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
+metafile = true
+
+[[files]]
 file = "mods/configmanager.pw.toml"
 hash = "a6638892123d04b688783e514e260ac7c8d152d65d408fb3d675a8ab1cf9043c"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "3ee27507762353014673ca8c1945a02b8348b8d71a023ceada66cb8d1e0d2991"
+hash = "0ad098ae7ce1b9dcca120d589df44db299eafc1d1be4bb3c97a3ee5989f5ef03"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b84e7cb250977781e0420ba7cdadccb8a923de7e0c40f1266e1e6d911f070eef"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "10e22962fe3a5ee6bf9c4cf8d4fd7c82eae1a2f1a17e5647cb4f3c660e53be9b"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "73301cfe0aa5207c25b0baa442fb02e1374d52f266e834c3bc15b6ad9e0b475d"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "9abf28450deffba93879988e7a7aa51663eabc4a938fe752d5f8b9f762880225"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f30334b4f9d8a0461e55b9766c20d257daed5134d392cd0f44a090ae29eae9c7"
 metafile = true
