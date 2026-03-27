@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uXXizFIs/versions/fs07zE6w/ferritecore-4.2.2-forge.jar"
-hash-format = "sha1"
-hash = "e9e0e711de47112dc53e24dc008da1f598834c4f"
+hash-format = "sha512"
+hash = "3452a34a3dcbe630e881feb553ff55077a8dc8a25872777671242ad7da2c6d3588b9627cdb7396f049d674a1fca54026f885da171a999a0c33111ce09bd97b58"
 
 [update]
 [update.modrinth]

@@ -1,3 +1,1 @@
-graphicsMode:0
-simulationDistance:5
-renderClouds:"fast"
+simulationDistance:8

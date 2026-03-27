@@ -1,0 +1,91 @@
+{
+  "fmlloader-1.19.2-43.5.2.jar (modloader)": {
+    "jarName": "fmlloader-1.19.2-43.5.2.jar (modloader)",
+    "modId": "forge",
+    "version": "fmlloader-1.19.2-43.5.2.jar"
+  },
+  "CrashAssistant-forge-1.19-1.20.1-1.11.3.jar": {
+    "jarName": "CrashAssistant-forge-1.19-1.20.1-1.11.3.jar",
+    "modId": "crash_assistant",
+    "version": "1.11.3",
+    "curseForgeHash": 1127087163,
+    "modrinthHash": "ef09d8a690da525180e3655e85dceade658391b2"
+  },
+  "dynamic-fps-3.11.4+minecraft-1.19.0-forge.jar": {
+    "jarName": "dynamic-fps-3.11.4+minecraft-1.19.0-forge.jar",
+    "modId": "dynamic_fps",
+    "version": "3.11.4",
+    "curseForgeHash": 1494811037,
+    "modrinthHash": "8940cb891d84b306358339a547682a0d8a8020cd"
+  },
+  "embeddium-0.3.18.1+mc1.19.2.jar": {
+    "jarName": "embeddium-0.3.18.1+mc1.19.2.jar",
+    "modId": "embeddium",
+    "version": "0.3.18.1+mc1.19.2",
+    "curseForgeHash": 1835009838,
+    "modrinthHash": "e5e2884a8700251f85573bd412cacd13229045f9"
+  },
+  "entityculling-forge-1.6.1-mc1.19.2.jar": {
+    "jarName": "entityculling-forge-1.6.1-mc1.19.2.jar",
+    "modId": "entityculling",
+    "version": "1.6.1",
+    "curseForgeHash": 3643184400,
+    "modrinthHash": "2b2545ea2e203b25d9b33be1e5b8aea38eaa90f2"
+  },
+  "ferritecore-5.0.3-forge.jar": {
+    "jarName": "ferritecore-5.0.3-forge.jar",
+    "modId": "ferritecore",
+    "version": "5.0.3",
+    "curseForgeHash": 252252793,
+    "modrinthHash": "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb"
+  },
+  "ImmediatelyFast-Forge-1.4.0+1.19.2.jar": {
+    "jarName": "ImmediatelyFast-Forge-1.4.0+1.19.2.jar",
+    "modId": "immediatelyfast",
+    "version": "1.4.0+1.19.2",
+    "curseForgeHash": 4134260283,
+    "modrinthHash": "8e7937679a532e80cf623ddbbc6c0fbf7cb1cb8f"
+  },
+  "Ixeris-4.1.5+1.19.2-forge.jar": {
+    "jarName": "Ixeris-4.1.5+1.19.2-forge.jar",
+    "modId": "ixeris",
+    "version": "4.1.5+1.19.2-forge",
+    "curseForgeHash": 447258002,
+    "modrinthHash": "8a6bd90c5f6212222b407cb4c616b521ec1c1381"
+  },
+  "lazydfu-1.19-1.0.2.jar": {
+    "jarName": "lazydfu-1.19-1.0.2.jar",
+    "modId": "lazydfu",
+    "version": "0.1.3",
+    "curseForgeHash": 3961126436,
+    "modrinthHash": "e120fbcc1704fcf0e661494771ba50ffe5a43b40"
+  },
+  "modernfix-forge-5.18.1+mc1.19.2.jar": {
+    "jarName": "modernfix-forge-5.18.1+mc1.19.2.jar",
+    "modId": "modernfix",
+    "version": "5.18.1+mc1.19.2",
+    "curseForgeHash": 3662382347,
+    "modrinthHash": "532d4dcc05095d7aa2289e4758e5c8265c759c9b"
+  },
+  "saturn-mc1.19.2-0.1.4.jar": {
+    "jarName": "saturn-mc1.19.2-0.1.4.jar",
+    "modId": "saturn",
+    "version": "0.1.4",
+    "curseForgeHash": 206810464,
+    "modrinthHash": "053ff233cf7a3d25f38237c01b6617ef2e719eb5"
+  },
+  "servercore-forge-1.3.6+1.19.2.jar": {
+    "jarName": "servercore-forge-1.3.6+1.19.2.jar",
+    "modId": "servercore",
+    "version": "1.3.6+1.19.2",
+    "curseForgeHash": 378624906,
+    "modrinthHash": "2c5469f38162fff07ad84f335dfcd2cb4e791939"
+  },
+  "starlight-1.1.1+forge.cf5b10b.jar": {
+    "jarName": "starlight-1.1.1+forge.cf5b10b.jar",
+    "modId": "starlight",
+    "version": "1.1.1+forge.a3aea74",
+    "curseForgeHash": 1267069011,
+    "modrinthHash": "3d80b848c966841deeeba70305e38a29b7e3788d"
+  }
+}

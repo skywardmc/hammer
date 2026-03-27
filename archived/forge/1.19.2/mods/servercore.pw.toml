@@ -1,0 +1,13 @@
+name = "ServerCore"
+filename = "servercore-forge-1.3.6+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/O7JYOuJ7/servercore-forge-1.3.6%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "91ec99dbcd8d01ded73ad0782c0ca09fcfb7467e1c11a72d3cbe64cd40649a1a862398fb97f51cc29e05a534c81217d7c6b6a68233fd5df4e3a9c462b24b09e6"
+
+[update]
+[update.modrinth]
+mod-id = "4WWQxlQP"
+version = "O7JYOuJ7"

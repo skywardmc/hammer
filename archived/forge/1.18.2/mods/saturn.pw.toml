@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2eT495vq/versions/2HM7nHoH/saturn-mc1.18.2-0.1.5.jar"
-hash-format = "sha1"
-hash = "819bcc189f80982c7ac8ea6bb5bea39325b35ead"
+hash-format = "sha512"
+hash = "1e7dde87218ef7e8b1e5524dcc74371084d6031e1740020d1a41bbf8d99ef00d171eb7a08e5d90c6984dbde4930945ec0a6fe0f25f035a30308ef2b43dc22f80"
 
 [update]
 [update.modrinth]

@@ -1,16 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "a31800721556950aecfc49c699c26509452fdb673150d19729aed1fcbc2f1894"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "5a60d8204ed561166669b3049b9777bc422c09802a72cae5388a8165fcfb1a84"
+
+[[files]]
+file = "config/crash_assistant/scripts/startup/lazydfu.jexl"
+hash = "d1e86376c32406f23a44fc1d972b0ac9a31775c5e80e0df9a2e9b399ce0cb3dc"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
+
+[[files]]
 file = "config/embeddium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+hash = "12a3f1c0dd2a8d606864c7aa4fe4aab5ddf7a854918e2641d7dbb89ecc134217"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "2dcaab476ba54a00113e47f5c3b6d4805d475c6d4076227ae75dc94087f87df8"
-
-[[files]]
-file = "config/ferritecore-mixin.toml"
-hash = "fab938297f4226f9e13a5164ffdb94ae1e0e572d1fab3d5d13e4cfaa0a44f628"
+hash = "0f7aa9ee2eead7f794a5e4887ad1277d70d328f6150a2c2777362ec87219de9e"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -18,71 +30,67 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "55e693cdf40a6cb56a41eba09141c49ade93995642807ef4ac39e8d1233507f2"
+hash = "79d5fe80745f3ccc150714c8578fff788d4478054c471ed0282dd2d8bb44c7ab"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "86955a95f69824f44f00aa95829992fd1e17ac2de231f44049a5af1eb09d74c7"
+hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
-file = "config/smoothboot.json"
-hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "dbc464084ac0e26a4b0ff315ec4b78376d72f4947797d0ca40a41bec816f000d"
+file = "mods/crash-assistant.pw.toml"
+hash = "b536159efc69753b642fb0935ba3d461b0a89e52f094c0b8b95436d402512c77"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "cb66f9704e31a1e58068328943e74c604408cc380a576b396baab69a2dfb14f0"
+file = "mods/dynamic-fps.pw.toml"
+hash = "b062b523b836fdabc83c35424a947d57daef4a534665219649e67fadbc3ca0f4"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1fce6559c1c89a4924d9947997072d8613a2dec123aa160247b22a0e0052a29d"
+hash = "c24f52cac1754f1c4632becc987ed39cd5a31c49b79e6a351149b343ac26374b"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
+hash = "5c2def72c229c23c25273772aa7bb9e4e111f9ff8f1345850047d0e7a1306968"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
+hash = "39893e87255ff485bb9d1d0e1663f2869c7a47d3c4930e390cb416c36ae08dfb"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dc20a4f7d080d32d6cced370daeade787b92448c2405e9463a80b2280148ebe8"
+hash = "525899c7e3cbfd5f3e488360056ff42503569aa8426e8b0b8b2df251346b38dd"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "53ff399ab0f98d3973f6add2d03698b90eb5efc1a018bb4a53684361c7d355c0"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cdb2ffaf0ef8cc5b9344f1f201c4e389c228267d56aac7e1230e7d5d80a46179"
-metafile = true
-
-[[files]]
-file = "mods/pluto.pw.toml"
-hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
+hash = "fc69eee70766a8a31d810320c25ec5c8ea7c728d79559b0c510a286b5e34d8fc"
 metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "c3f868252957f405de530da753f2c4cb0fe72a6bb8ff4024be9f7d875e2dd3a6"
+hash = "ed7000b86a0cfc75a3079920d1c6d57652dff598cf15f762e590c6234060be33"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "f2a085afd975546ad59a627f4bfda191c7a0621c55da5ecc49196ff1a17a03f5"
+file = "mods/servercore.pw.toml"
+hash = "7b97303cd97b7c57b5f2f29721e3da3b7acdd6b36734b406b67148ed45033a11"
 metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
+hash = "817bb219a53e00b8d99485cccc123d97d8506b4fb8a309de72fb78b1c283c8e5"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ca0f88a35616fe30a8b477e546b09fc7c365e91bc3526343953627efef99ab3c"
+hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"

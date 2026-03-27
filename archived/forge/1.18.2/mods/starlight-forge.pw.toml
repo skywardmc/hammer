@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.2%2B1.18.2/starlight-1.0.2%2Bforge.546ae87.jar"
-hash-format = "sha1"
-hash = "c7dde83f5fbc864d85842c74a4433a8a5c0f15b7"
+hash-format = "sha512"
+hash = "942c0d1f0f0d0bc492eadd7e8347891e30d633ca86b3dfd2e9d59ea0deee03614e6a66e5a66eeab00564b12a05c40cbd6cbac335a07bc971c97b7149b0406a38"
 
 [update]
 [update.modrinth]

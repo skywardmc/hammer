@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk9rgfiA/versions/xuVAgh89/embeddium-0.3.18%2Bmc1.18.2.jar"
-hash-format = "sha1"
-hash = "9773d8af0da3a2b49fa896395ced2393e28e857b"
+hash-format = "sha512"
+hash = "48374cd7b4ada27860e0d1bfb147f4dd90e9ad19ae62db1d6a0b00b2150ffc28b21a29336b4b3b3cfe45ae7daaece282f7ec42db9a9801f31f41c30811260c4c"
 
 [update]
 [update.modrinth]
