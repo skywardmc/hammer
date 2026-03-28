@@ -27,7 +27,7 @@ For the list of mods that are included, see this [wiki page](https://skywardmc.o
 
 **Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) section on the wiki before installing Hammer. It contains some important instructions on preventing crashes and other performance issues.**
 
-You can install the modpack with a third party launcher or our standalone installer. After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://skywardmc.org/hammer/post-install) section of the wiki. This includes procedures such as increasing your allocated memory and tweaking your game settings for your device.
+You can install the modpack with a third party launcher following the [Modrinth’s documentation](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth). After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://skywardmc.org/hammer/post-install) section of the wiki. This includes procedures such as increasing your allocated memory and tweaking your game settings for your device.
 
 After installing the modpack, you can easily add your favorite mods so long as they are compatible with the Minecraft version you are playing on. The wiki also has some recommendations on possibly improving performance further with other mods that are not suitable to be included in Hammer by default.
 
