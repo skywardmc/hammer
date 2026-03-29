@@ -6,7 +6,7 @@ hash = "6f3e1110ec983639c33bb9f9c76d8d7469eb5e1fb26b6e1a6937a3f2b331b362"
 
 [[files]]
 file = "configureddefaults/config/connector.json"
-hash = "f00ca60d0f6e201b8f0b6fb0c571b98538817d2ea1e341110c53571fa408c0f1"
+hash = "3dcc408a8aec6a3870324bf7b1a4f42c9e4d343625d3dedd8d74ed240e1539cb"
 
 [[files]]
 file = "configureddefaults/config/cull-less-leaves.json"
@@ -81,11 +81,6 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "36a828ae63ac3773de72f0a3a5d334585638c9db2cd43706b7304f094b05e0f3"
 metafile = true
@@ -138,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
+metafile = true
+
+[[files]]
+file = "mods/xenon-forge.pw.toml"
+hash = "1f7936bd08b3d5a2ff346c01d6e398aa33183a45796ba5d1a8d98758561fcf7e"
 metafile = true
 
 [[files]]
