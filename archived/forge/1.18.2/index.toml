@@ -5,12 +5,8 @@ file = "config/crash_assistant/config.toml"
 hash = "a31800721556950aecfc49c699c26509452fdb673150d19729aed1fcbc2f1894"
 
 [[files]]
-file = "config/crash_assistant/modlist.json"
-hash = "5acac87abf9423d31dcdba24ee11358fbad3dc6cabd7d4a8fe09ad47c3112ad3"
-
-[[files]]
 file = "config/crash_assistant/scripts/startup/lazydfu.jexl"
-hash = "d1e86376c32406f23a44fc1d972b0ac9a31775c5e80e0df9a2e9b399ce0cb3dc"
+hash = "675f147f9178662b3ecdc3a26257db8dd66abde0ab783a3e3e6dbf25c79cc7e2"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -38,7 +34,12 @@ hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "f0a48ba90728e15ce0ba7db1dce9c8272c5b8739db7b38c1fa61d71a1c6006ea"
+hash = "2eda152c79f63ac7f784dd1938655a196ef2434d6b141f6387820936588f0509"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves-reforged.pw.toml"
+hash = "f3622151498f48d31dcb9e71ad52b55d0cb80973e63af8c5e72f58b40ef43827"
 metafile = true
 
 [[files]]
@@ -63,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "aec306e2f418fa37065801d77e575e435689b236072ad820d99a7efd4a604041"
+hash = "d6d4bce1c92b3d92ea71a0528f9b4ce7f838751be2f70ec460f1dc58e6e5b85d"
 metafile = true
 
 [[files]]

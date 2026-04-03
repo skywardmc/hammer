@@ -1,0 +1,13 @@
+name = "Cull Less Leaves Reforged"
+filename = "CullLessLeaves-Reforged-1.18.2-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qthuEuVy/versions/wkTY0aKT/CullLessLeaves-Reforged-1.18.2-1.0.5.jar"
+hash-format = "sha512"
+hash = "97c99b0a5c6c4658b4a3a8c0ae1c454de60d7c63214d745cc38964ab5bc45f10b86b1011a01ec3fd8ea7240a6258f8771d09c219ef6f6786d51ff863187633c3"
+
+[update]
+[update.modrinth]
+mod-id = "qthuEuVy"
+version = "wkTY0aKT"
