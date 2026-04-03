@@ -37,6 +37,14 @@ file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
+file = "configureddefaults/config/xenon++.toml"
+hash = "4e8062134e714769144999a7ff6d1703b61ad2a1a0b37fe3ade4bd6e1841851c"
+
+[[files]]
+file = "configureddefaults/config/xenon-options.json"
+hash = "128a5a23dfdc1429616c8cfb8a512ac6bfedcafd56104724b9f1670d4d5f4754"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
