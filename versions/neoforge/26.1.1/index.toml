@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "73301cfe0aa5207c25b0baa442fb02e1374d52f266e834c3bc15b6ad9e0b475d"
+hash = "985720db602c818a4ff938c617b4701b05566fb9cba82bfa6e6ded97b1589d9c"
 metafile = true
 
 [[files]]
@@ -72,4 +72,14 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "da919a68252d43166576d26357acacc14e0f7ce798454dc69b55e9adbf51d8db"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2dfc016bcab7d7d93645cebe06a686fe456418d283f38f854bd33c7ead179ed7"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "62522bb57e72c05f9200385440afbd2b2b8487eb474731abf79068afacdcc481"
 metafile = true
