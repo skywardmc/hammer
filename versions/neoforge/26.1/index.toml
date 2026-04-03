@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "0ad098ae7ce1b9dcca120d589df44db299eafc1d1be4bb3c97a3ee5989f5ef03"
+hash = "1a64432f5bb49cae374867e1d2eda94252085eb185333b9ef4a01b3af71c84b5"
 metafile = true
 
 [[files]]
@@ -55,6 +55,11 @@ hash = "10e22962fe3a5ee6bf9c4cf8d4fd7c82eae1a2f1a17e5647cb4f3c660e53be9b"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "4b82094ded9b69ce070356379e2273b3bab666edece9aba7a63eb451742a2777"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "73301cfe0aa5207c25b0baa442fb02e1374d52f266e834c3bc15b6ad9e0b475d"
 metafile = true
@@ -66,5 +71,5 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f30334b4f9d8a0461e55b9766c20d257daed5134d392cd0f44a090ae29eae9c7"
+hash = "da919a68252d43166576d26357acacc14e0f7ce798454dc69b55e9adbf51d8db"
 metafile = true
