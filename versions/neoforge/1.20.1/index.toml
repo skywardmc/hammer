@@ -9,10 +9,6 @@ file = "configureddefaults/config/connector.json"
 hash = "3dcc408a8aec6a3870324bf7b1a4f42c9e4d343625d3dedd8d74ed240e1539cb"
 
 [[files]]
-file = "configureddefaults/config/cull-less-leaves.json"
-hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
-
-[[files]]
 file = "configureddefaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
@@ -42,7 +38,7 @@ hash = "4e8062134e714769144999a7ff6d1703b61ad2a1a0b37fe3ade4bd6e1841851c"
 
 [[files]]
 file = "configureddefaults/config/xenon-options.json"
-hash = "128a5a23dfdc1429616c8cfb8a512ac6bfedcafd56104724b9f1670d4d5f4754"
+hash = "64f96fcf713e79356887a8ed76038012ba8a41acfc16c7f477464eeab8382dcf"
 
 [[files]]
 file = "configureddefaults/options.txt"
