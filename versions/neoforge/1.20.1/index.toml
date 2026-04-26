@@ -74,11 +74,6 @@ hash = "0e15c65627f7c638f416b66bf5e1a924403b53ad2767180043d917013f64d782"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "9533bf5a38bb96fe67df246f0c2ac5ce26604c375bfc069487a715e44fabecb9"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
 metafile = true
@@ -146,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/xenon-forge.pw.toml"
 hash = "1f7936bd08b3d5a2ff346c01d6e398aa33183a45796ba5d1a8d98758561fcf7e"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]
