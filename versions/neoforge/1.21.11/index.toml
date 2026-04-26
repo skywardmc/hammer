@@ -36,17 +36,17 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "2eb0ddd344adb2f441f1f397f049f24aec69401af51a37b8949718b22e2077ed"
+hash = "c962a0b2947497bde76256344ac82cd86e9baae9d50a2784ea958e2ba50a07d9"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0b72698138ee96fdd09e82a31decf71eea4c63df0092aef5686e84aa18377287"
+hash = "345a2abc376d4e68f140d5ac041898617e279024b1685834d78a1509bfc47333"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "96d53843d32b2b212331b99bd98f5422e40da9c33a78246ca5e37475ebacdba7"
+hash = "549f5f22673cf1c84ba39eeef22589dadb5a3675fcca7ea75a6b00c61f26cdf5"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "fd415d24ae8c81f18097b0071b379f48ffad8b8cbc81683fd5baf973ec3b855b"
+hash = "9018473c18eb47c454504eb6ef975d7afb4f8ce9e6dbe873678091142a95d830"
 metafile = true
 
 [[files]]
