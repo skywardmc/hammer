@@ -25,6 +25,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "eada2d6f45ba4899755039e48e3de4e28f330c460d56317a0d2c71a9adf300f6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5bd8950828a148798f3a5541f1a31f863ecb591c9c4c2f9a02f23efd9bf90ec3"
 metafile = true
