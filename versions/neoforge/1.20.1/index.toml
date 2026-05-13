@@ -34,7 +34,7 @@ hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
 file = "configureddefaults/config/xenon++.toml"
-hash = "4e8062134e714769144999a7ff6d1703b61ad2a1a0b37fe3ade4bd6e1841851c"
+hash = "b59119f01401e3e99195b7de80472342952beb84c86a164cbf7dfd30b3215731"
 
 [[files]]
 file = "configureddefaults/config/xenon-options.json"
