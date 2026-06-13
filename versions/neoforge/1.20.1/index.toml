@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "f02a29c3d0f0fcf80c31055525017d7ca150520979e0bf502b15ef7ec8f55dd9"
+hash = "18e3d9c418cfcdb11a70e1eb7025a7e3b4c2298c43b98c43a8ef2cc2b2665e9b"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b6cf6bf24a92f982f57b2c436d6b0297f590e237916b7675ec76238754a4e578"
+hash = "41f1131d7dcb4596fc7431ea06996c1c498e4c269fe21004c245564d1c0a2e76"
 metafile = true
 
 [[files]]
