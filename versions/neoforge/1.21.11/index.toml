@@ -95,6 +95,11 @@ hash = "9d4361389c72ca407ed834cdaa9a3bc0d109ed49aedb0cd7f77095dd9e5b930b"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "1f5ce52f26a53e6c079dda344f9cd3e9abf2c3a221a43fd6c26609ad7810f937"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b235719a15a2dec0886fa705146e79a79792c963ff1d818c8a9a16b072bec7b7"
 metafile = true
