@@ -1,0 +1,13 @@
+name = "Structure Layout Optimizer"
+filename = "structure_layout_optimizer-1.1.4+26.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/KghJNqLx/structure_layout_optimizer-1.1.4%2B26.1-neoforge.jar"
+hash-format = "sha512"
+hash = "fdabd323e60312ad3f87a22bf2a62521d2b0ff611e4627a0ec74c5c694f24951a760bfb2d7ecc14ab4181faaa1e39605d0f8bac90bc14d349c2d0671a1bbf629"
+
+[update]
+[update.modrinth]
+mod-id = "ayPU0OHc"
+version = "KghJNqLx"

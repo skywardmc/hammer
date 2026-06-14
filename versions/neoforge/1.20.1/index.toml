@@ -130,8 +130,18 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "a97af67d3179566144fe1863184d4015e559a52b3c8b9bdc1a3ccdd59d536bb4"
 metafile = true
 
 [[files]]
