@@ -36,12 +36,12 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "a6638892123d04b688783e514e260ac7c8d152d65d408fb3d675a8ab1cf9043c"
+hash = "8ca1b26869321849e183e65a8cec0578a70599aaf59d97d5fdbb1bf6c539f73c"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "27eb3215fc612a2ac511c07072eed10d1b669cf7869644d641511a9f33f425fe"
+hash = "7f1f2460ac6ec05b1c9510270f26009341a42ae5178a7b7e0a363c6809aad162"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "57d25c03e96ec87aaecac03e6152cdd66baee3c8dacb700e5e21f4285ce3ee72"
+hash = "c7d74b3b0ec3e8274161e3fd3766edc51dd07e0108dc9a515663f543f2f8e4d8"
 metafile = true
 
 [[files]]
@@ -76,12 +76,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "673f07d87a20d78ccb944a298b4c7ae9b5b74e10281808f01d73abfbb1087b52"
+hash = "2f1532544e42fc6eb278c6c251d8495c1548c821c978cafa4fa2e4129e826567"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2a62a44659122e89e347eed35ca02cf5b8f32694a92f95200b1415602fb10f4d"
+hash = "c9bf405f183bf793a0591277d438e36192605bf268ff3fe3e3103ff91f479c2d"
 metafile = true
 
 [[files]]
@@ -96,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "7d926cdc9141098787d0941c40a9a703a218e70e77dc7c4a1a112b860c74caab"
+hash = "d2fdbaf2200c675769c544a25c31cf850bc69a476cb78688b8721a4213260622"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
+hash = "f0f89a290b43769909f345a952586cabc80a0d743fd9f08f1fefe431e5f72af9"
 metafile = true
 
 [[files]]
