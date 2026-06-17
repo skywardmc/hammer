@@ -111,5 +111,5 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "3eac020e29ef998fab2b50518782f3a38cb570fa74f5c5fc4aff477cd2069da9"
+hash = "a740c7207828d7dce2e10fc7ae1e318e76445efe975b6e0fcb899a224e00ec9e"
 metafile = true
