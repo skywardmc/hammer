@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "ebc4237417524e557b8dfc39dd8dbe884c9b99ecae0ceaa234426c61fa9449e8"
+hash = "518e7935a14f6612328c283bea9eb7092db6a0d637fb6cf6ac6820d4e3228f03"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+hash = "c96213eaba8eca9be5e6339efe1da67a74fb6a69f822f6e2e3d7fc316669af56"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "ca426cc1de0456b34a21406ad7b6f2534c3597bbd755cc06c83359e22ca31fa7"
+hash = "7f179887487d188a192a5839651dedfd9f3a1453fac90a2376278a490a31863d"
 metafile = true
 
 [[files]]
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c8ac0bf19049381f3f05aa46bfea8f2a742d340a3285ecfb7118eab6327cff99"
+hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
 metafile = true
 
 [[files]]
