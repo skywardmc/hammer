@@ -1,0 +1,13 @@
+name = "ScalableLux"
+filename = "ScalableLux-0.2.1+neoforge.729d9d3-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/I6jcny72/ScalableLux-0.2.1%2Bneoforge.729d9d3-all.jar"
+hash-format = "sha512"
+hash = "0a3f429b23e406e0151aa3121fac82e32147db3a8cd3daea6e52e6656396650c84387320dc00b418b1a064981bcb8f4ef15c5e64726426662fef52c9e5577c4f"
+
+[update]
+[update.modrinth]
+mod-id = "Ps1zyz6x"
+version = "I6jcny72"

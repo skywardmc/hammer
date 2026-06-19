@@ -1,0 +1,13 @@
+name = "Cloth Config API"
+filename = "cloth-config-26.2.155.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/zErG1kOw/cloth-config-26.2.155.jar"
+hash-format = "sha512"
+hash = "3f7ea8108d8c0463764e419f3fe7d4d7f586b6fb7d2578de85f709b70d59587060a07c0fe02d5b79ed37e74850dd088caace40f8baefb4402df8139d076dc662"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "zErG1kOw"
