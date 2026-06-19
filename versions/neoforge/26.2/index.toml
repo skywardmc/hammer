@@ -70,8 +70,8 @@ hash = "bde06c3e70126becdadcc642c656d288a0247d0aa20f125dbc7cfb6d737116cc"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "0d94f48609d924115e9ef7b05839b085dec0390cb00809fe60cbb0058ce067d8"
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "ab25561882e091ffc87d221df47f81d76b8ad763fb4d190d754e3c158a9d7f36"
 metafile = true
 
 [[files]]
