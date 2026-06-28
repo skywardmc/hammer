@@ -61,12 +61,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2afd33284578207c1039e9c1938c10fd6be20176d0070445485ee4870b5bc80d"
+hash = "411e8b657e61a6650b2d876520dbe344af65904ae4c0470d8e77dcf622a7ceb7"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "bde06c3e70126becdadcc642c656d288a0247d0aa20f125dbc7cfb6d737116cc"
+hash = "b576a6f6cd009c2d306117a1cee30190539010a6e67a3de9c5f82558588017fe"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "fba7ec083fd66f81c6778d13f750c457c2b2e5977743a20b9eaea1acea841826"
+hash = "2332f72a4bbf00c673fbbc42d8cf6f923d28a7d6b965e2974cdec7b4851a2e3a"
 metafile = true
 
 [[files]]
@@ -96,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "5b2a4f617194306fee8e65d00befb63688af44a37e0bc8d543d252e79df2cafa"
+hash = "d1f6a9250fa9481f4a5c9242f122e1b0d7b57bd2f326ab09c4557cc28f0b19b0"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "86eedfe62b3b695e2720d06bb182ae1552b2ea4ce9fbe0a6faf531ef19f4f743"
+hash = "ef62f6dfdf48d2b9ae7457c83ac90848450367905e4caa669193d8d7a30cf885"
 metafile = true
 
 [[files]]
@@ -111,5 +111,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "5b8a163111c8170778d6b3c47e5d3f2a2d71d0936ba698e490cdc88368bf4bb6"
+hash = "541f9f47c8445bbaefae12219c1e93364f277244e268d7389c6c3e6ce0371ee8"
 metafile = true
