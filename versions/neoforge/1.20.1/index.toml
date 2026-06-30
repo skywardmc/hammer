@@ -112,6 +112,10 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "de1a269f9093416adeb4abffe397c48c3b1781bb2ddd0db55706fa22cd198b1d"
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "d4998d26edfcc0d57c1085a3ece53ca963927cb1a5fee7095d6e5fd4f9df17a6"
 metafile = true
 
 [[files]]
@@ -132,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "517915b57bfe0877d5c252e0f79084b545627770082ccdbe769c39b4031378b9"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 metafile = true
 
 [[files]]
