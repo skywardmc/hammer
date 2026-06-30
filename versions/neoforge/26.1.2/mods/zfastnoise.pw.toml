@@ -1,13 +1,13 @@
 name = "Fast Noise"
-filename = "zfastnoise-1.0.34+26.1.2+neoforge.jar"
+filename = "zfastnoise-1.0.36+26.1.2+neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OnlVIpq5/versions/fLPDfA78/zfastnoise-1.0.34%2B26.1.2%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/OnlVIpq5/versions/g0GgOf2t/zfastnoise-1.0.36%2B26.1.2%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "4f786ce8d65a5204b531011daa73b73f51062d4ff61ca16f3704bed869e338919ccbef23b32730d9af35f205e37bb395d28ea8ddecd851530abbae1da655c433"
+hash = "c9a10a925615aaeadccbab3387c6c336366525771a593b0c623289ba82c4c43bd44be03c60aec4b0e2d02cb43e16283488065b536258f12b7e6b5191e567e426"
 
 [update]
 [update.modrinth]
 mod-id = "OnlVIpq5"
-version = "fLPDfA78"
+version = "g0GgOf2t"
