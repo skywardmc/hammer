@@ -1,13 +1,13 @@
 name = "ServerCore"
-filename = "servercore-neoforge-1.5.17+1.21.1.jar"
+filename = "servercore-neoforge-1.5.19+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/zEViyXZ9/servercore-neoforge-1.5.17%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/6N9hXiRa/servercore-neoforge-1.5.19%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "2f609965c5657407d8eb030680478c4bddb09d3bedefeb0dc2909307ea7d32cf31323a481f033979630db90876e7cf55d5a69a51c0621aa2d11e84e199b508b6"
+hash = "55b97df4cc46f52db85b96487188d73c62d511229d98859991c115414c5f1ab37f2f40a0f2edb5692220aa94d6c48b392b0a2d8593b3c3381b1fcbde2a728c8f"
 
 [update]
 [update.modrinth]
 mod-id = "4WWQxlQP"
-version = "zEViyXZ9"
+version = "6N9hXiRa"
