@@ -1,13 +1,13 @@
 name = "Ixeris"
-filename = "Ixeris-4.5.0+1.20.1-forge.jar"
+filename = "Ixeris-4.5.1+1.20.1-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/ZxdECzh0/Ixeris-4.5.0%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/U0GeiJqV/Ixeris-4.5.1%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "457cf4b4a8bb4407d5be20e789bc827553f0e02f1d69a31820b813d8c3ef90ccb3d97b4085c0bb81aca07535252381bc899babe17db181bd5b0fe58ac77f0a7c"
+hash = "05c16b5436c18ca40de10c855148118e9b32b93514550ca6bbf8c6ab60d5d077177fcbe452a669ce3674872c22c1bb9b422df30826b70d691513c25184211316"
 
 [update]
 [update.modrinth]
 mod-id = "p8RJPJIC"
-version = "ZxdECzh0"
+version = "U0GeiJqV"

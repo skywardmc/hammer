@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "75621869849419afc6e05bf6d78a0727d41a62b994b905d1069ec8bc4d9fcf1f"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "8caccb4a97476f97020ac8a99f6a77865963ea01239473ab382aa8c065019b00"
+hash = "518f0e0b5eb2071cd7f47d42458c8c552a7dc066752e63a7297087db71ceded1"
 metafile = true
 
 [[files]]
@@ -116,7 +116,8 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "de1a269f9093416adeb4abffe397c48c3b1781bb2ddd0db55706fa22cd198b1d"
+hash = "0d2ccd5f845ceb01ff78b093d9adc8686550513cce37cb052045fab8cbc03263"
+metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
