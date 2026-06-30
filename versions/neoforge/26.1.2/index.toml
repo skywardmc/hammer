@@ -50,6 +50,11 @@ hash = "8fc9632e9c5dfa183fe0327b441c8b4ad52f3f553921553b231fed7de34b4ef5"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e5e870e6af57706933a549c62a60d1caa4fad10636354c48abf183275391e5c4"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
 metafile = true
@@ -82,6 +87,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c9bf405f183bf793a0591277d438e36192605bf268ff3fe3e3103ff91f479c2d"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "c5bbc99f3f64c4bdbd8190a1d9edf251df93f4d329505406aef248781fb11dd3"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "e1c414c13a28e3ab1f2f13f0b14cae120e654b7c0f62a0bcd5a1f0a0a891e6de"
 metafile = true
 
 [[files]]

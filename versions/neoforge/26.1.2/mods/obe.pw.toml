@@ -1,0 +1,13 @@
+name = "Optimized Block Entities"
+filename = "obe+26.1.2-neoforge-1.1.23.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtOSAunf/versions/4FeLA1TZ/obe%2B26.1.2-neoforge-1.1.23.jar"
+hash-format = "sha512"
+hash = "cf0122292ab53b5e2426e2d9cad1f44e607db590f7c67f54926f9673cbed51af6ac8a5ca49d1eeae01df3c128e48f6ccc1fb274ed6a2012d3bb95dc5e4fc07ae"
+
+[update]
+[update.modrinth]
+mod-id = "AtOSAunf"
+version = "4FeLA1TZ"
