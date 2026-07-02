@@ -13,10 +13,6 @@ file = "configureddefaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
-file = "configureddefaults/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
-
-[[files]]
 file = "configureddefaults/config/entityculling.json"
 hash = "0f7aa9ee2eead7f794a5e4887ad1277d70d328f6150a2c2777362ec87219de9e"
 
