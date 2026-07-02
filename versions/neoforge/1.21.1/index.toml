@@ -38,7 +38,7 @@ hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
+hash = "d9a3b87e4046a43d3e809434f8a83866556b70b68d5c0b1be2372d127ea8ce00"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
