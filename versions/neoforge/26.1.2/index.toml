@@ -21,6 +21,10 @@ file = "config/modpack_defaults/config/modernfix-mixins.properties"
 hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
+file = "config/modpack_defaults/config/obe.json"
+hash = "a27067dd7745f2c0fb2b3d7039922bdd0312bccb4e574aa6831e29cae603d240"
+
+[[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
