@@ -42,12 +42,12 @@ hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
+hash = "11a5304e8bf1f57178432c70ccc4e4b3aac2b8af78ff39d053a7d16147810932"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "915fff9443493459bf1fac50d211c276fdf8df1911c76bec510e6e5cf0488b4c"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4827e5588f4f3478605956696bc890c2cf1ac92f44108873aa27f33adefcfb4f"
+hash = "68f8530b80a3a38fcd0570b9e29d16bdc1e57e9a2312b9c295a1ef72a4cb2ee1"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+hash = "1ddd8e24cccdb696a310c59c192c66c60052297ca1a25f13d49947471a0cca2c"
 metafile = true
 
 [[files]]
