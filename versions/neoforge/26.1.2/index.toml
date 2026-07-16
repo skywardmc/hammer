@@ -21,10 +21,6 @@ file = "config/modpack_defaults/config/modernfix-mixins.properties"
 hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
-file = "config/modpack_defaults/config/obe.json"
-hash = "a27067dd7745f2c0fb2b3d7039922bdd0312bccb4e574aa6831e29cae603d240"
-
-[[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
@@ -91,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "173794d8bfb66b708d042e62a1611f5e452543f365f92e9a27b27d12a15e610c"
-metafile = true
-
-[[files]]
-file = "mods/obe.pw.toml"
-hash = "c5bbc99f3f64c4bdbd8190a1d9edf251df93f4d329505406aef248781fb11dd3"
 metafile = true
 
 [[files]]
