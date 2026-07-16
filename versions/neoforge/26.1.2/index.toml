@@ -25,6 +25,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "ab18ee4c427abb1927186856566bb3bf2bcf8b140ad1326b48dc928761ef000b"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "fa82bf172ba8161949ea657c666b20d41a86898ee147ca057f3a2c3beb8e7294"
 metafile = true
