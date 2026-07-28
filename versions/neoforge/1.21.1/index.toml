@@ -29,6 +29,16 @@ file = "config/modpack_defaults/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "6d58776771295e7cf1388de1e2f3d88ce1aab1f15d6f5bc6b6f4cf254725993e"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "e68a8f42735f487cfe40419b719b3fd59e1698661949a76bbcbfb53c42295908"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "9f75a6f31b1f2cfd88551b37bd8fd85a064d2b22cca0721a1744feb85249c191"
 metafile = true
@@ -81,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "a28c70d2b3cdd535beae2007a4b7f77a8572b786c7e2d8a92f33ffbeddf1c2be"
+metafile = true
+
+[[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "0fa1debfc02efc386dafd24d8c5e53f80751c91755beb894efaf606a0d1eb918"
 metafile = true
 
 [[files]]
