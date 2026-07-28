@@ -121,11 +121,6 @@ hash = "d4998d26edfcc0d57c1085a3ece53ca963927cb1a5fee7095d6e5fd4f9df17a6"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "cc71ab4296fffdfca0a373adba4c7721ccad228f305fda8566507063de65e40e"
-metafile = true
-
-[[files]]
 file = "mods/radium.pw.toml"
 hash = "1ddd8e24cccdb696a310c59c192c66c60052297ca1a25f13d49947471a0cca2c"
 metafile = true
