@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "4d8cc9fa798c407e109b66b2e054a99cb8c6fe3995f2b0d33b564b64cbc55496"
+hash = "46f163a1d82a84fbe49a5eb47c53cbcbce5897a8c3fe9f8844d8a7c90abd8bd8"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "518f0e0b5eb2071cd7f47d42458c8c552a7dc066752e63a7297087db71ceded1"
+hash = "0438df24fde81f067356e324503f33f3362f11dff94de8a3a201ccf6e46b6316"
 metafile = true
 
 [[files]]
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0d2ccd5f845ceb01ff78b093d9adc8686550513cce37cb052045fab8cbc03263"
+hash = "912dc66ae13a57f9f6559eb0c7c2b42f973f5768b46192528bec1d37df8398ef"
 metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "d4998d26edfcc0d57c1085a3ece53ca963927cb1a5fee7095d6e5fd4f9df17a6"
+hash = "5160db5b85c49e3a4a2af279520ce0ff6033181f23a2d9836ff74cce5be538e0"
 metafile = true
 
 [[files]]
@@ -167,5 +167,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "8922817e166bff2dace44d43a25f14bfd4d803f929a99fe73ae958f14d6e6069"
+hash = "af776888ac0f8cfceea87a7648f737205afe00a3074653ec537a65d84375c9f0"
 metafile = true
