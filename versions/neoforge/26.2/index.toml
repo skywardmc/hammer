@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "43e6c8127a0a1c53711241e8e91725371311359a1bb518aeb5926440c2cdde5d"
+hash = "f5542a92c143aedd1e3e8315555ba912648d5a372336eda26f6efefea7b2f9a6"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "d999106cb672687503f517f3439c37e9bbd700d22beacc11ed97c3b3e5a7ef8a"
+hash = "ea1f8fcab5089eeaa80f87fdcfa83c879744234de03dfa81e18a834b762dc76c"
 metafile = true
 
 [[files]]
@@ -76,27 +76,27 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "411e8b657e61a6650b2d876520dbe344af65904ae4c0470d8e77dcf622a7ceb7"
+hash = "15c6bf8b93c2c40583fe429c4e250656e986307628cf69dab3b051b2aa236ea2"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b576a6f6cd009c2d306117a1cee30190539010a6e67a3de9c5f82558588017fe"
+hash = "b07b94124a07bb297d12a0f8cb3104f894e1da203b42f3a785f1ed3384afae65"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
-hash = "ab25561882e091ffc87d221df47f81d76b8ad763fb4d190d754e3c158a9d7f36"
+hash = "f5e675a45f2f9a4551c8f508e692b559107d0270c7298b4fb3f1b62db31ec70e"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2332f72a4bbf00c673fbbc42d8cf6f923d28a7d6b965e2974cdec7b4851a2e3a"
+hash = "9ce6749e18cac4d1c78471ec65fee8e5fd0c5dcb1b807a97f6c9197c07310625"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "48e70eec72291a11d27e2afba1de93fa15146672a67939c9970033bc7438e68f"
+hash = "103ed27580de895f420d4e9ff4cc0057abe145897d38300367ac110c71a39107"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "c1d4e4013ffd73b3c39ee4f177627ccc9242c705f72d16683ee754f2fb21c277"
+hash = "8099bea3243d1b726c352a1d3b702fdbb652fec653dda4598de9beee3bef7694"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "02a4c0f178053eb3aabeb80c83201ccc68ba00a36eb82a16c1cff9e9da158c49"
+hash = "6dce38e217c6b652012182ecb9ff0ace868363e189e8c091ee220e86aa981ee8"
 metafile = true
 
 [[files]]
@@ -126,5 +126,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "541f9f47c8445bbaefae12219c1e93364f277244e268d7389c6c3e6ce0371ee8"
+hash = "0f97c9210e4c180c80f15d7b0670f62c05295cf1b0434ed8a5215ccc2e2f09b7"
 metafile = true
