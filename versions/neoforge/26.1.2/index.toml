@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "fa82bf172ba8161949ea657c666b20d41a86898ee147ca057f3a2c3beb8e7294"
+hash = "5e0f81ae96fb7b1fe1e65f6a7fd26afe622ee1be0a95c494511486fe3480cf77"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "7f1f2460ac6ec05b1c9510270f26009341a42ae5178a7b7e0a363c6809aad162"
+hash = "88ceb589f0221862077467fde575ea3d80b05b8365b6419abd7ec5ca560bd01c"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "acd2701d2c138c07c8074a115ef46e3b51a46b366e0d175f893da17acc636041"
+hash = "eeaf6dd729b9a42204399e9e3f4cb41fa409c0d216251cc2d9e7907130eacd49"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "173794d8bfb66b708d042e62a1611f5e452543f365f92e9a27b27d12a15e610c"
+hash = "2c1fbe2b5713a2900f413eb60d24226e885fcdf365c5043ffbca1439d9c82b74"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "f7e4b11a01bcb92fa4e9048f872c443c05148dee89341c896243f0e51bb1e046"
+hash = "b2828d6a6ebe7a5bc6b3c5c654705ff886032d0dc6618c59acec76888ee27dce"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ef06abbdc93841e04857ca181a7e532d76318441c33ac993e92fbc273e49fb4b"
+hash = "624ba40aea06b451d8867b04ba3f0b2d174c11afa24d4a6acd278d2b2377493c"
 metafile = true
 
 [[files]]
@@ -131,5 +131,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "5368c3f8164a882ace0aecb523cf4063de5aafcadc1fd666b16f44e17143365e"
+hash = "29c6132f62c6e39d6d418f17834415ecf40732efd64128e1fc2f4778f66166f5"
 metafile = true
