@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "8fc6c1b162905157776526ac7b67b1a9be5365b3a8afd03e6d6fe635d9c4b5c8"
+hash = "7e212fdbf3f194faa31fb6e9af64cfa5b61dd5b0318ad1c1d799496f2749a7bc"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "7dde82c542e94b60dfb929ec91723dd6c0c6e62f2e66375afb427a7aabc550a1"
+hash = "9ba7d401398c1a181b7b57266804126577d47331a1a8be2980d5a773124b5b24"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8222df400057f3e3d8b0b3f80d43f9057fe2818317f5d12b812a2b33b8df07aa"
+hash = "f5e6aebf65c1928b9120d6b4f40f2563c5866b9d3256d20db4bafce075892a27"
 metafile = true
 
 [[files]]
