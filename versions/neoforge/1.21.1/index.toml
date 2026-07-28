@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "9f75a6f31b1f2cfd88551b37bd8fd85a064d2b22cca0721a1744feb85249c191"
+hash = "93f48d0cae69080be80efe8354e034511b18e9eb959e12e8d6817f0353e143be"
 metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "d9a3b87e4046a43d3e809434f8a83866556b70b68d5c0b1be2372d127ea8ce00"
+hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "518e7935a14f6612328c283bea9eb7092db6a0d637fb6cf6ac6820d4e3228f03"
+hash = "9429e94f2f8810910071d178a115491ce1309be2202eaae981f107f8ccc4d017"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a28c70d2b3cdd535beae2007a4b7f77a8572b786c7e2d8a92f33ffbeddf1c2be"
+hash = "013b12bfe553783f905a6a667dc6aa28475b3077c10e57a85462e09a912830ad"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
+hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
+hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
@@ -140,5 +140,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "79aec625604d405d4793a2f6cfba0cac165e8d8b6bea3f08fb54cd3bcd13810b"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
