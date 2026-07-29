@@ -1,0 +1,13 @@
+name = "Particle Core"
+filename = "particle_core-0.3.2+26.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/lNjQ3lSE/particle_core-0.3.2%2B26.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "432c8fe5d74b824003466e37c6e110532394803023f84064222dd2ee2ea73cdbc70fe4db97dd9d75c99759fb73c4fae84fdf74fe921cbfb65549c2b107ebc26b"
+
+[update]
+[update.modrinth]
+mod-id = "RSeLon5O"
+version = "lNjQ3lSE"
