@@ -34,11 +34,6 @@ hash = "6d58776771295e7cf1388de1e2f3d88ce1aab1f15d6f5bc6b6f4cf254725993e"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "e68a8f42735f487cfe40419b719b3fd59e1698661949a76bbcbfb53c42295908"
-metafile = true
-
-[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "93f48d0cae69080be80efe8354e034511b18e9eb959e12e8d6817f0353e143be"
 metafile = true

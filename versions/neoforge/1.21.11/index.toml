@@ -30,11 +30,6 @@ hash = "1139ce9f27fa7c092906ee861b16d19cefa8deafd88feade55d1e4cae0775107"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "27bce2536f1421e63faff3b541d6eca9e4a16225e661a1a02ee1ab8858141109"
-metafile = true
-
-[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "7c2e9e116b285da7a4190307f0b38da92dc36aade36de46758f765f6e903eff5"
 metafile = true

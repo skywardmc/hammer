@@ -46,11 +46,6 @@ hash = "9fb8c06b3f117a8a0392370f2d5981f305d4e99888cced5cd92b8423b5e097cb"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "24404c5ec658b3718d682fdf8ffbe19314317bab3bd2ba60ced6a64ec43c67bc"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "11a5304e8bf1f57178432c70ccc4e4b3aac2b8af78ff39d053a7d16147810932"
 metafile = true
