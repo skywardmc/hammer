@@ -95,6 +95,11 @@ hash = "103ed27580de895f420d4e9ff4cc0057abe145897d38300367ac110c71a39107"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "937c4c6217eb559cd81be09b46aa33ac714a19a2ec3b7f16938425417fa30366"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "f2ad457fb910689572498d5ad0d32988f6d07d39f9fcfa5a0cf783367cb151e8"
 metafile = true
