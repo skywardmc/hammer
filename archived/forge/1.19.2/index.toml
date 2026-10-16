@@ -9,6 +9,10 @@ file = "config/crash_assistant/scripts/startup/lazydfu.jexl"
 hash = "675f147f9178662b3ecdc3a26257db8dd66abde0ab783a3e3e6dbf25c79cc7e2"
 
 [[files]]
+file = "config/crash_assistant/scripts/startup/radiumreforged.jexl"
+hash = "11591eed5d12d042ee1ad2370fe82330f78d6e866552be5d2759b710728cde44"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
@@ -33,8 +37,18 @@ file = "config/modernfix-mixins.properties"
 hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "c8efd7ba72656727e342263de58c52e82628bacac38db8742be00e917788450f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "0ecfcb55c6a7506a0262a9e3f620cdd19bf7cd3429623bc98fe65aa31d9f37e0"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "1af3168a5176a62f389a6b2ae8bd17992ece55a6ac9fe75074a31fdd391dd4b9"
+hash = "8dd23156830a68809e6449dbd64b83a47de1b1fa36c95785662ce5d04b39102b"
 metafile = true
 
 [[files]]
@@ -64,12 +78,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "525899c7e3cbfd5f3e488360056ff42503569aa8426e8b0b8b2df251346b38dd"
+hash = "1dbce058466bcc835dc9aca3378382272440e3b885f61ac2f521888e4448da99"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "c56bda9a7357ac3a69b85c3a984762b93d5480e345a520230790015465689ec6"
+hash = "ac3f1c8e38b41fa274f61dc7367422fd16de6cc9817c1764b5db7823f46d3ea6"
+metafile = true
+
+[[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "c7eace1390491fbed75af944d81703608c903a1feba2165865efe0c123a29507"
 metafile = true
 
 [[files]]
@@ -88,8 +107,18 @@ hash = "7b97303cd97b7c57b5f2f29721e3da3b7acdd6b36734b406b67148ed45033a11"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "99f2e54dfda4a0df056eece88bcf45f76c150c24bfe46352917756f6b8ada431"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "817bb219a53e00b8d99485cccc123d97d8506b4fb8a309de72fb78b1c283c8e5"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "b565292957920d03a2d826f38df6453d25e677b4b02a5320324f3003c3fdf9d5"
 metafile = true
 
 [[files]]

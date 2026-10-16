@@ -1,13 +1,13 @@
 name = "Crash Assistant"
-filename = "CrashAssistant-forge-1.19-1.20.1-1.11.6.jar"
+filename = "CrashAssistant-forge-1.19-1.20.1-1.11.12.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/PB8yRn4C/CrashAssistant-forge-1.19-1.20.1-1.11.6.jar"
+url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/1UfKorj6/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar"
 hash-format = "sha512"
-hash = "a7e09b728a85a4e4a8ab180486f36d5a34333d98e06a982d0887730a28902725520770ad467f14e90f2ef6c0c76b96ff4a84300dae985d0396f7a4e93d72f879"
+hash = "ec1e471ce72c5e920d110ef38ba6bb2d256fdca62e1a4edde1761021b394e40717943af53e64a57e332e1d2aea8fc8666d88bb8ca7bc624d526ecfc460535f3d"
 
 [update]
 [update.modrinth]
 mod-id = "ix1qq8Ux"
-version = "PB8yRn4C"
+version = "1UfKorj6"

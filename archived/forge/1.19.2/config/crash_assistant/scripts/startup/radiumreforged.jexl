@@ -1,0 +1,23 @@
+var bypassKey = "radium_missing_ignore";
+var isBypassed = Objects.equals(CrashAssistantLocalConfig.get(bypassKey), true);
+
+if (!isBypassed) {
+    var currentMods = ModListUtils.getCurrentModList(true).stream().toMap(m -> m.modId, m -> m);
+
+    if (currentMods.get("radium") == null) {
+        var msg = "You need to install Radium Reforged from CurseForge\n\n" +
+                  "Please, download and add it to the mods folder for the modpack to work properly.\n" +
+                  "Then close these windows and launch game again.\n\n" +
+                  "If you use Prism (or similar), add the mod from CurseForge there.\n" +
+                  "Or, you can easily be redirected to the mod on CurseForge with a single click:\n"
+
+        var warn = Startup.addCrashWarning(msg);
+
+        warn.withDontShowAgain(bypassKey)
+            .withCustomDontShowAgainCheckboxText("I don't want to download the mod. Please let me launch game and don't remind me again.");
+        warn.addGuideButton("Download Radium Reforged", "https://www.curseforge.com/minecraft/mc-mods/radium-reforged/files/3949703");
+
+        // 5. Block the launch
+        Startup.markForCrash();
+    }
+}

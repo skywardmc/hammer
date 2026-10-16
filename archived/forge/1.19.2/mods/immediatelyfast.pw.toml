@@ -1,6 +1,7 @@
 name = "ImmediatelyFast"
 filename = "ImmediatelyFast-Forge-1.4.0+1.19.2.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/OWO57F2j/ImmediatelyFast-Forge-1.4.0%2B1.19.2.jar"
