@@ -9,6 +9,10 @@ file = "configureddefaults/config/connector.json"
 hash = "3dcc408a8aec6a3870324bf7b1a4f42c9e4d343625d3dedd8d74ed240e1539cb"
 
 [[files]]
+file = "configureddefaults/config/cull-less-leaves.json"
+hash = "bd8c96a39320f6821c77f4146c54c1914bd013fa6ef81810c6df40f4d53dc851"
+
+[[files]]
 file = "configureddefaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
@@ -65,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "46f163a1d82a84fbe49a5eb47c53cbcbce5897a8c3fe9f8844d8a7c90abd8bd8"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves-reforged.pw.toml"
+hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
 metafile = true
 
 [[files]]
