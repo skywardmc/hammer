@@ -29,14 +29,6 @@ file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
-file = "configureddefaults/config/xenon++.toml"
-hash = "b59119f01401e3e99195b7de80472342952beb84c86a164cbf7dfd30b3215731"
-
-[[files]]
-file = "configureddefaults/config/xenon-options.json"
-hash = "64f96fcf713e79356887a8ed76038012ba8a41acfc16c7f477464eeab8382dcf"
-
-[[files]]
 file = "configureddefaults/options.txt"
 hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
@@ -158,11 +150,6 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "a97af67d3179566144fe1863184d4015e559a52b3c8b9bdc1a3ccdd59d536bb4"
-metafile = true
-
-[[files]]
-file = "mods/xenon-forge.pw.toml"
-hash = "1f7936bd08b3d5a2ff346c01d6e398aa33183a45796ba5d1a8d98758561fcf7e"
 metafile = true
 
 [[files]]
