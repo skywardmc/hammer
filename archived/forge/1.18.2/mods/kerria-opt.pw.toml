@@ -1,0 +1,13 @@
+name = "Kerria"
+filename = "Kerria-1.3.2+1.18.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f0ruQTF7/versions/2rdkXr39/Kerria-1.3.2%2B1.18.2-forge.jar"
+hash-format = "sha512"
+hash = "80d2d85e4203ac5e6d7712a4ad1f2022ce2aec9036d1097d28b469fa7cc10994169c36f27bbad0b6d2808a1e48cfdf07a7da1dfa14af3581b09d9c26d04ab131"
+
+[update]
+[update.modrinth]
+mod-id = "f0ruQTF7"
+version = "2rdkXr39"

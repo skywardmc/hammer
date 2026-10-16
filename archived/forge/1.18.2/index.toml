@@ -9,6 +9,10 @@ file = "config/crash_assistant/scripts/startup/lazydfu.jexl"
 hash = "675f147f9178662b3ecdc3a26257db8dd66abde0ab783a3e3e6dbf25c79cc7e2"
 
 [[files]]
+file = "config/crash_assistant/scripts/startup/radiumreforged.jexl"
+hash = "d7c8e977093ec8b7fb32d1898c478d382dbaf25640d530f4da99e97f12b1d89e"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
@@ -33,8 +37,18 @@ file = "config/modernfix-mixins.properties"
 hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "a83e3d661056d7ac5ad75799ba6f51d0c1084ef6eb625b41790eee1c23f49a47"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f6843488d4c6dd44617523db9b738c9f9bff7a84e3dc68fc0b5f6b7e0933c029"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "2eda152c79f63ac7f784dd1938655a196ef2434d6b141f6387820936588f0509"
+hash = "b6c2810c6516723759006d6d7f081a9c79b016284c5b115c90f087d64f1fa5d8"
 metafile = true
 
 [[files]]
@@ -64,7 +78,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "d6d4bce1c92b3d92ea71a0528f9b4ce7f838751be2f70ec460f1dc58e6e5b85d"
+hash = "6d2e81bb5bef42c34745a02fba077bfb74242ef49244e810bd98e6c281c6bd69"
+metafile = true
+
+[[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "edf7e3d2d6a9734a4439e20b0b1a00054274e84f28f3326045494869c196b874"
 metafile = true
 
 [[files]]
@@ -78,8 +97,18 @@ hash = "2ac7024526fe928346e9cc040e3cfbb67bfdce71a0d7ce65ce320e00c5858660"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "28f37a19302d1c688a2e973fd86b8977db57b22cc4eec4aa2e26ea64634d5a63"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "cc844cc0d5d36fdf70ccd434908d2a5f2c7a921fc8a4d89bbb6ac4b365cdb570"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "24fb7e0cda7cb87decb0529c317f849c9cc4035ba899340eb60e3c700f33ed06"
 metafile = true
 
 [[files]]
