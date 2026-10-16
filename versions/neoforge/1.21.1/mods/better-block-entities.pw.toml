@@ -1,13 +1,13 @@
 name = "Better Block Entities"
-filename = "bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar"
+filename = "bbe-neoforge-1.3.4+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/RPhK79hl/bbe-neoforge-1.3.4-beta.3%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/JgYqDEaQ/bbe-neoforge-1.3.4%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "978c6a260e651633e5aa4191e724d550dc4179a396371438e8a8cb218a55e22bece9c5dbac859a60dc7ced3e630de592660bcd1c2f625cd6cd36d7c4ce0f1e0c"
+hash = "90ba1d14b7040342dce0d56f57ecfde92777837c31ac30124a05f80d8cba7442be823540e92dca49b16143bf6cd928dd53594f964155da9066dd46ed5c9710a1"
 
 [update]
 [update.modrinth]
 mod-id = "ONZm0H7Y"
-version = "RPhK79hl"
+version = "JgYqDEaQ"
