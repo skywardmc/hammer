@@ -1,0 +1,13 @@
+name = "Cloth Config API"
+filename = "cloth-config-neoforge-26.3.159.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/GchRXPnb/cloth-config-neoforge-26.3.159.jar"
+hash-format = "sha512"
+hash = "941dd8aab50d658cfa6da071dacd05802c7097643ad569935d0073b39231a2137f2ade2403b791f70cf5ebf1649d7b6337862568a8b340c88e5d364569f94431"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "GchRXPnb"

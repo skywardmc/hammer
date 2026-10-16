@@ -1,0 +1,13 @@
+name = "ModernFix-mVUS"
+filename = "modernfix-neoforge-5.27.23+mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/EN1XVG4V/modernfix-neoforge-5.27.23%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "182083934dca68ca9f4b4ffafb994cf573a429293b590bc5106b1e16fce910e61318a4dc2f888fb1fe2930dd7002336d7530566713e0ead79db1d4abd1a51daa"
+
+[update]
+[update.modrinth]
+mod-id = "TjSm1wrD"
+version = "EN1XVG4V"

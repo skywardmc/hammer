@@ -1,0 +1,13 @@
+name = "ScalableLux"
+filename = "ScalableLux-neoforge-0.3.0-alpha.0.17-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/QEqBp5LZ/ScalableLux-neoforge-0.3.0-alpha.0.17-all.jar"
+hash-format = "sha512"
+hash = "d9a43c324c3e925d8a047f84c1da9f25a43617905f61691592deebfbe20fbabfdca4f6fe6b3af4b4521ff5843a166715d9ceb904257918b688ac927617498201"
+
+[update]
+[update.modrinth]
+mod-id = "Ps1zyz6x"
+version = "QEqBp5LZ"
