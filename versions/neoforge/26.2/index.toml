@@ -60,6 +60,11 @@ hash = "7ef8c15e1760a0b4ba172f774a54a676db1ed5086ccf56e146445762526bd160"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "03a28fac47464cc060c9e7064839fac05f36a9a91d86f7dc1a55660c6dd625ce"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
 metafile = true
