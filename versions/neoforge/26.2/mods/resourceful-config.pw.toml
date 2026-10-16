@@ -1,13 +1,13 @@
 name = "Resourceful Config"
-filename = "ResourcefulConfig-5.0.0.jar"
+filename = "ResourcefulConfig-5.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M1953qlQ/versions/8xLtoyZG/ResourcefulConfig-5.0.0.jar"
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/yYU5o14K/ResourcefulConfig-5.0.1.jar"
 hash-format = "sha512"
-hash = "c9f10077ac4f5506decd08ca839cecc7868d96461f44415feb156d74143ceec6cd91ab3fcfd287c448051e5679bc2314992d12b4efb1249227bf427ddb83c0b6"
+hash = "38555a64e425989700b78a5af133c6d1d77fac64cd9bf9acfb24211d61b043d14e51301f211ab75c60787baed6733db98b31a994a97f2a70740941c9ca80f55e"
 
 [update]
 [update.modrinth]
 mod-id = "M1953qlQ"
-version = "8xLtoyZG"
+version = "yYU5o14K"

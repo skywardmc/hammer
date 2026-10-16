@@ -18,7 +18,7 @@ hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
 
 [[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
-hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
+hash = "d83751720f9affcea2549c18184b2d9bd273c2baf5369b265fee9dc99013e32b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
@@ -26,7 +26,7 @@ hash = "6ba4ff4401d09821a705efbdca877cb2d6e03518b366f1de3a17edbd472f415b"
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "92a95454481712eb36b70e110d307174d0cfb5f44f2444d99c7416f25a6925ba"
+hash = "b2913162b16f964f8f2caad5b351149ea612ba72d3bd3d61087aa768daffc10b"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "f5542a92c143aedd1e3e8315555ba912648d5a372336eda26f6efefea7b2f9a6"
+hash = "c42807353f2e1a42889a6826c8d9d2f943630406c58d10d2b384e1b3bc391df2"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "ea1f8fcab5089eeaa80f87fdcfa83c879744234de03dfa81e18a834b762dc76c"
+hash = "ee994e2fde210a6485d8189969e36bd0ffd589646fa90b95446ec6ad2ec25467"
 metafile = true
 
 [[files]]
@@ -71,22 +71,22 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "8b9a442ddd0b0479f58c4cee0e6e941a57eed4f9c11c7e3a4dc5244debc7fb91"
+hash = "e19a71e2b6e363f76fbbb9fc77878044b7dddd62d11eb408e695e1194f672adf"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "15c6bf8b93c2c40583fe429c4e250656e986307628cf69dab3b051b2aa236ea2"
+hash = "7b7e53d7f8ae3974d88c90ca97f1ffcc742e78f947afd46345748b0c3a311e2e"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b07b94124a07bb297d12a0f8cb3104f894e1da203b42f3a785f1ed3384afae65"
+hash = "13f0ac47f3b5049c9b54e9a4d38971cca691f0fc330b778ad01c9781683ed285"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
-hash = "f5e675a45f2f9a4551c8f508e692b559107d0270c7298b4fb3f1b62db31ec70e"
+hash = "2277ee0462cdeafcbaa2e6212b67889f226f8aeecf8665f8e18996643b7519d6"
 metafile = true
 
 [[files]]
@@ -96,17 +96,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "103ed27580de895f420d4e9ff4cc0057abe145897d38300367ac110c71a39107"
+hash = "6bd5bf68626de3216d0bd0fc377e5bab2d3cd37c3edbe393d4078eaeb1f8fb4e"
 metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "937c4c6217eb559cd81be09b46aa33ac714a19a2ec3b7f16938425417fa30366"
+hash = "11c816cefa381a59ca875c8be5a4b4093e53321913a602da53e14412a59dd7f3"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "f2ad457fb910689572498d5ad0d32988f6d07d39f9fcfa5a0cf783367cb151e8"
+hash = "02772246745ade914dcd2ca8a8f7c9addb5438ab64cbec850fc042d03c1227b9"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6dce38e217c6b652012182ecb9ff0ace868363e189e8c091ee220e86aa981ee8"
+hash = "4872e18eafd42dc75a9af8af495d65e83fbba3f56db151a5cf42de9d2543f727"
 metafile = true
 
 [[files]]
