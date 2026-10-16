@@ -38,7 +38,7 @@ hash = "c827270cfdb6a821bf1519387b4a3b96c2774815c0359291b01a11f587731411"
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "9fb8c06b3f117a8a0392370f2d5981f305d4e99888cced5cd92b8423b5e097cb"
+hash = "9ad9d110931ab524ba7239a7ce45c376136ee40e80c8698e1d92f99f38b9d148"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "46f163a1d82a84fbe49a5eb47c53cbcbce5897a8c3fe9f8844d8a7c90abd8bd8"
+hash = "8dd23156830a68809e6449dbd64b83a47de1b1fa36c95785662ce5d04b39102b"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
+hash = "e5206ecaa7deacbdb38d292be484bd584bac736d1bed2fb20289020a65a7f132"
 metafile = true
 
 [[files]]
@@ -98,22 +98,22 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+hash = "834dfc3eac7e8cbfe203578f1120ba298711f0426133950ce8972f5afc025a4d"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "77db38b9f476e5a488532b9fc1c35586e3e1a382bdd901cdc4736c7c36680ff7"
+hash = "dd18fd6bae21df582b4fffc3dd18a4972e783a859c0295e5ea8582a6617dceb5"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "68f8530b80a3a38fcd0570b9e29d16bdc1e57e9a2312b9c295a1ef72a4cb2ee1"
+hash = "6492d13dab4af26bcc174b969b86c950474812917516186c1dac9edd09c64a82"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "0438df24fde81f067356e324503f33f3362f11dff94de8a3a201ccf6e46b6316"
+hash = "b82df471092afdd881eed78841b7eace47a776a0d0c9271a58da51ff6307775b"
 metafile = true
 
 [[files]]
@@ -128,12 +128,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "912dc66ae13a57f9f6559eb0c7c2b42f973f5768b46192528bec1d37df8398ef"
+hash = "fca852b6e4581ffa88d4c890a307a0a49fbd51d6acaed6c3648cb5db8dc460e0"
 metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "5160db5b85c49e3a4a2af279520ce0ff6033181f23a2d9836ff74cce5be538e0"
+hash = "e900f048ed3032bd0c37a91b31792e20bb6128b053f7a2aa1b86689e49a50949"
 metafile = true
 
 [[files]]
