@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "10e22962fe3a5ee6bf9c4cf8d4fd7c82eae1a2f1a17e5647cb4f3c660e53be9b"
+hash = "5f267b137d8ab8de881420fbfa2f8771518bca639b35aeb23b44424e1310689c"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "832746beb4396c9b0fabb4c13ce35d3b3bbfd02f65b09d8905e584ef2fd25591"
+hash = "fc4ddb47ecc1e590f1094aaa9b99c20abad8acffa0873d1753fafd34c9f167c2"
 metafile = true
 
 [[files]]
