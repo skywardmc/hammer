@@ -30,6 +30,11 @@ hash = "0fa403fa91eee36b0d620e23fcceb0a7646c8da33e2f6dd43ebdec945ff6411d"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "a6e2526a0363660b5caf9500de9e2b60979f462fac1b0491b3e72eceb1454753"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "80637b604c74f668efa2c0b0c2c453cfb58603956c669599b59e6e74b1e13edd"
 metafile = true

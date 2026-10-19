@@ -1,0 +1,13 @@
+name = "Better Block Entities"
+filename = "bbe-neoforge-1.4.0+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/mifbgFWa/bbe-neoforge-1.4.0%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "2d57245c5c9eac7bb4ca277f2ebddc7f0b5e8bef4d323fc5483ed93ef34f2814d5c3b130cb7eb1664e271d9c2e555c449e77a15c8678a1fe6e8ff34743a9ff66"
+
+[update]
+[update.modrinth]
+mod-id = "ONZm0H7Y"
+version = "mifbgFWa"
