@@ -10,7 +10,7 @@ hash = "4c06e132588a5f661591344b5aa4fca619a70a04db50b0f1918332fcc5c344d9"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.262"
+neoforge = "21.1.264"
 
 [options]
 acceptable-game-versions = ["1.21"]
