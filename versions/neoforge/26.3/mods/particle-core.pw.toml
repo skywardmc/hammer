@@ -1,13 +1,13 @@
 name = "Particle Core"
-filename = "particle_core-0.3.3+26.2+neoforge.jar"
+filename = "particle_core-0.3.3+fix1+26.2+neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RSeLon5O/versions/Z4o2owWN/particle_core-0.3.3%2B26.2%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/zrlSv2ot/particle_core-0.3.3%2Bfix1%2B26.2%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "3dfb3eeb752d05a7170e86668c8836aa35a348a4d3ac43bd378673931c268da0725f848272c583a8516ba933414762d68f2c19a6a65cc15f44dfbd990efc55d5"
+hash = "254a755347460c89aaa94319ebb7fa98565b9b4c0e9c11fc445327fb3f1bd6992e9a2d907218adf72f0a35019c050b911da7f182157f16b950a42ca5e00dc5f9"
 
 [update]
 [update.modrinth]
 mod-id = "RSeLon5O"
-version = "Z4o2owWN"
+version = "zrlSv2ot"

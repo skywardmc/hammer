@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "353ffbc9747f931a6d975c4c3150a6272e501aef8e9d28fdbfb44340ae1e3e04"
+hash = "bf08eed0754c2ca10e6fd2dd5634c41a819d94cf462107154f1015a5dbb70b92"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "937c4c6217eb559cd81be09b46aa33ac714a19a2ec3b7f16938425417fa30366"
+hash = "11c816cefa381a59ca875c8be5a4b4093e53321913a602da53e14412a59dd7f3"
 metafile = true
 
 [[files]]
